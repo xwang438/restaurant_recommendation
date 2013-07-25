@@ -1,0 +1,504 @@
+{
+    "menu" : {
+        "id" : "292066",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "4098460", 
+                "name" : "Starters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26555496",
+                    "name" : "Cobb Salad",
+                    "description" : "pulled chicken, bacon, blue cheese, tomato, hard-boiled egg, creamy avocado dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11" }
+                    ]
+                },
+                {
+                    "id" : "26555498",
+                    "name" : "Arugula &amp; Spinach Salad ",
+                    "description" : "balsamic, toasted pepitas, goat cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "26555955",
+                    "name" : "Spicy Starlite Wings",
+                    "description" : "great hill blue cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "26555958",
+                    "name" : "Potato Leek Soup ",
+                    "description" : "red pepper gastrique",
+                    "sizes" : [
+                        { "name" : "(Cup)",  "price" : "5" }
+,                        { "name" : "(Bowl)",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "26555962",
+                    "name" : "Starlite Chili ",
+                    "description" : "sour cream, aged cheddar",
+                    "sizes" : [
+                        { "name" : "(Cup)",  "price" : "6" }
+,                        { "name" : "(Bowl)",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "26555964",
+                    "name" : "Pepperoni Roll ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26555966",
+                    "name" : "Crab Cake",
+                    "description" : "old bay aoli, baby arugula",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098538", 
+                "name" : "Hot Pressed Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26555970",
+                    "name" : "Apple Cheddar Press",
+                    "description" : "spiced onion jam",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "26555972",
+                    "name" : "Smoked Turkey BLT ",
+                    "description" : "applewood smoked bacon",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "26555976",
+                    "name" : "Meatball Sandwich ",
+                    "description" : "ricotta spread, spicy marinara, spinach",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098541", 
+                "name" : "Dogs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26555984",
+                    "name" : "Griddled Dog",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "26555986",
+                    "name" : "Corn Dog",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "26555988",
+                    "name" : "Chili Cheese Dog",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "26555989",
+                    "name" : "Dog Of The Day",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098543", 
+                "name" : "Angus Burgers",
+                "description" : "Lettuce, tomato, onion, pickles.",
+                "items" : [
+                {
+                    "id" : "26555991",
+                    "name" : "Angus Burgers",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(Single)",  "price" : "4" }
+,                        { "name" : "(Double)",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "26555997",
+                    "name" : "Veggie Burger",
+                    "description" : "add chili - $1.00, add cheese $0.50, add bacon $1.00.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "26555999",
+                    "name" : "Starlite - Style",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098544", 
+                "name" : "Sides, Snacks, Etc...",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26556003",
+                    "name" : "Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556012",
+                    "name" : "Hand Cut Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556013",
+                    "name" : "Chili Cheese Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "26556014",
+                    "name" : "Cheese Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "26556015",
+                    "name" : "Gravy Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "26556016",
+                    "name" : "Sweet Potato Hash",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "26556017",
+                    "name" : "Sauteed Spinach ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556018",
+                    "name" : "Sweet Corn Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556019",
+                    "name" : "Broccoli With Cheese Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556021",
+                    "name" : "Seasonal Pie ",
+                    "description" : "(while supplies last)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                }]
+            }]
+        },
+        {
+            "id" : "3",
+            "name" : "Dinner",
+            "categories" : [
+            {
+                "id" : "4098548", 
+                "name" : "Dinner",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26556027",
+                    "name" : "Fried Chicken &amp; Buttermilk Waffles ",
+                    "description" : "hot pepper syrup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "26556030",
+                    "name" : "Pan Seared Sirloin Steak ",
+                    "description" : "dirty gravy, onion rings",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19" }
+                    ]
+                },
+                {
+                    "id" : "26556034",
+                    "name" : "Baked Haddock",
+                    "description" : "sweet potato and green onion hash, sauteed spinach",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "26556039",
+                    "name" : "Shrimp W/ Chorizo Dirty Rice",
+                    "description" : "collard greens",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "26556041",
+                    "name" : "Mac &amp; Cheese",
+                    "description" : "ritz crackers",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "26556043",
+                    "name" : "Blue Plate Special",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                }]
+            }]
+        },
+        {
+            "id" : "4",
+            "name" : "Brunch",
+            "categories" : [
+            {
+                "id" : "4098549", 
+                "name" : "Full Plates",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26556052",
+                    "name" : "Cobb Salad",
+                    "description" : "pulled chicken, bacon, blue cheese, tomato, hard-boiled egg, creamy avocado dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11" }
+                    ]
+                },
+                {
+                    "id" : "26556054",
+                    "name" : "Starlite Slam",
+                    "description" : "2 eggs, bacon or sausage, hash brown, toast",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "26556057",
+                    "name" : "Tina's Biscuits And Breakfast Gravy",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "26556073",
+                    "name" : "Velvet Elvis French Toast",
+                    "description" : "french toast sandwich of banana, peanut butter and chocolate covered bacon",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "26556074",
+                    "name" : "Fried Chicken &amp; Buttermilk Waffles ",
+                    "description" : "hot pepper syrup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "26556075",
+                    "name" : "Seasonal Fruit, Granola And Yogurt",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "26556076",
+                    "name" : "Huevos Rancheros",
+                    "description" : "2 fried eggs, chorizo-black beans, queso fresco, corn tortillas",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098552", 
+                "name" : "Dogs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26556077",
+                    "name" : "Griddled Dog ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "26556080",
+                    "name" : "Brunch Dog",
+                    "description" : "fried egg and american cheese on wonder bread",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098554", 
+                "name" : "Angus Burgers",
+                "description" : "Lettuce, tomato, onion, pickles.",
+                "items" : [
+                {
+                    "id" : "26556091",
+                    "name" : "Angus Burgers",
+                    "description" : "double w/ cheese, fried egg, bacon, add bacon - $2.00, add chocolate covered bacon - $4.50, add cheese - $0.50.",
+                    "sizes" : [
+                        { "name" : "(Single)",  "price" : "4" }
+,                        { "name" : "(Double)",  "price" : "6" }
+,                        { "name" : "(Brunch)",  "price" : "7" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4098556", 
+                "name" : "Sides &amp; Snacks",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26556096",
+                    "name" : "2 Eggs",
+                    "description" : "fried, scrambled, over easy, sunny side up",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "26556097",
+                    "name" : "Hash Browns",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "26556099",
+                    "name" : "Bacon, Sausage, Chorizo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556100",
+                    "name" : "Silver Dollar Pancakes",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556101",
+                    "name" : "Fruit Cup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556102",
+                    "name" : "Grits",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "26556103",
+                    "name" : "Toast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "26556104",
+                    "name" : "Sweet Corn Bread ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "26556105",
+                    "name" : "Sugar Cereal Du Jour ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

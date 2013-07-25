@@ -1,0 +1,120 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 3.5
+    [mobile_url] => http://m.yelp.com/biz/china-king-restaurant-leesburg
+    [rating_img_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png
+    [review_count] => 32
+    [name] => China King Restaurant
+    [snippet_image_url] => http://s3-media4.ak.yelpcdn.com/photo/bXcivpSzcLm31Vuj88r3Ag/ms.jpg
+    [rating_img_url_small] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+    [url] => http://www.yelp.com/biz/china-king-restaurant-leesburg
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => Very yummy, lovely staff, love the location too and eat in or take out style. Only 4 stars because they don't have "chicken fingers" but I haven't found any...
+                    [time_created] => 1374599660
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/cc4afe21892e/default_avatars/user_medium_square.png
+                            [id] => 7u5RIUG68GwwpHgLi-pXzA
+                            [name] => Kristyn Holt M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => 3DHqf23D6PBA5Jzy7qaNBA
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => China King's is simply better that just about any place I've tried. Friendly, family owned and operated, and most importantly, delicious food! Located in...
+                    [time_created] => 1365378513
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/bXcivpSzcLm31Vuj88r3Ag/ms.jpg
+                            [id] => 0VySW5y_AtWnk0GZBpaE_A
+                            [name] => Bill L.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => GjiD6R5uobV6N_L8zrBV5g
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => I am so excited that there is a Chinese delivery place so close to my new apartment! 
+
+The food was good and the delivery guy was prompt and really...
+                    [time_created] => 1356839324
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/TUXjJXxrPLaSuI7flcr4RA/ms.jpg
+                            [id] => 7n-wG8G7DolBH4m-I479oA
+                            [name] => Kate M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => JSSCVsFBwa7o5H3GqA_QlA
+                )
+
+        )
+
+    [phone] => 7037779831
+    [snippet_text] => China King's is simply better that just about any place I've tried. Friendly, family owned and operated, and most importantly, delicious food! Located in...
+    [image_url] => http://s3-media4.ak.yelpcdn.com/bphoto/y1V3an9rOoF8Xxrh1QauUg/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Chinese
+                    [1] => chinese
+                )
+
+            [1] => Array
+                (
+                    [0] => Diners
+                    [1] => diners
+                )
+
+            [2] => Array
+                (
+                    [0] => Food Delivery Services
+                    [1] => fooddeliveryservices
+                )
+
+        )
+
+    [display_phone] => +1-703-777-9831
+    [rating_img_url_large] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png
+    [id] => china-king-restaurant-leesburg
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Leesburg
+            [display_address] => Array
+                (
+                    [0] => 5 S King St
+                    [1] => Leesburg, VA 20175
+                )
+
+            [postal_code] => 20175
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 5 S King St
+                )
+
+            [state_code] => VA
+        )
+
+)

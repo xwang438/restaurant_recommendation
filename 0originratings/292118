@@ -1,0 +1,122 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 2.5
+    [mobile_url] => http://m.yelp.com/biz/east-meets-west-rego-park
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png
+    [review_count] => 19
+    [name] => East Meets West
+    [snippet_image_url] => http://s3-media3.ak.yelpcdn.com/photo/yC9x1f-pq7PHAVJbh9dDrg/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png
+    [url] => http://www.yelp.com/biz/east-meets-west-rego-park
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 2
+                    [excerpt] => I have only ordered take-out from East Meets West, I never ate inside the restaurant.
+
+When I first moved to Forest Hills, I used to LOVE this place. The...
+                    [time_created] => 1359413563
+                    [rating_image_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png
+                    [rating_image_small_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/PQUP-kiB3JCQ96cjgRYGxA/ms.jpg
+                            [id] => -QFH4ygRmz28o_hujgDhHg
+                            [name] => Corey D.
+                        )
+
+                    [rating_image_large_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png
+                    [id] => FA0sJZ6H2vD5dZI3I-AMSQ
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => I really wonder if the folks who are leaving bad reviews about this place didn't just have one bad experience... Or are highly-critical people in...
+                    [time_created] => 1350258861
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/yC9x1f-pq7PHAVJbh9dDrg/ms.jpg
+                            [id] => x_5fRHE0ohpG0qZooggxPg
+                            [name] => Derek M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => DXALFvPfjy0-0u0p3S6_Bg
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => I went to east meets west . and orderd sesame chicken and egg roll soup. the food was fresh and hot, taste good.  services were so good too. 
+I will go back...
+                    [time_created] => 1346129369
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/2SdV99LmdAZzlTlx3jN2qg/ms.jpg
+                            [id] => TSHx4rYyrwmVYHRmojzIyA
+                            [name] => William F.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => vnBZG7J_S-rVp4mqz7dBZA
+                )
+
+        )
+
+    [phone] => 7188309788
+    [snippet_text] => I really wonder if the folks who are leaving bad reviews about this place didn't just have one bad experience... Or are highly-critical people in...
+    [image_url] => http://s3-media3.ak.yelpcdn.com/bphoto/cpLL3aqI6Y_CmMij01kfng/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Specialty Food
+                    [1] => gourmet
+                )
+
+            [1] => Array
+                (
+                    [0] => Chinese
+                    [1] => chinese
+                )
+
+        )
+
+    [display_phone] => +1-718-830-9788
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png
+    [id] => east-meets-west-rego-park
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Rego Park
+            [display_address] => Array
+                (
+                    [0] => 6507 Woodhaven Blvd
+                    [1] => Middle Village
+                    [2] => Rego Park, NY 11374
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Middle Village
+                    [1] => Rego Park
+                )
+
+            [postal_code] => 11374
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 6507 Woodhaven Blvd
+                )
+
+            [state_code] => NY
+        )
+
+)

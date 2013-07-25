@@ -1,0 +1,106 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/zitis-italian-trattoria-natick
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 33
+    [name] => Ziti's Italian Trattoria
+    [snippet_image_url] => http://s3-media2.ak.yelpcdn.com/photo/f-t-a_QiRXrHYrsjZvbKcg/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/zitis-italian-trattoria-natick
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => Warm bread was good and so was the fried Calamari app.  I was really looking for a killer meal but sadly was disappointed.  Eggplant and veal parm with...
+                    [time_created] => 1363991629
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/qKizJMaJ8tYHLFDcHOC1Mw/ms.jpg
+                            [id] => njEa-gaTTxMueydgu0gUkg
+                            [name] => Skye G.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => k-LbjryF2KMon4068aEH3A
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => The portions were huge, and the gluten free pizza was lovely. If you're expecting crispy GF pizza, though, you may be disappointed. The lobster ravioli was...
+                    [time_created] => 1361298561
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/f-t-a_QiRXrHYrsjZvbKcg/ms.jpg
+                            [id] => L0leJhy4veXQJdsSVOWsbg
+                            [name] => Maria D.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => 8RvNm9WPGnaIUB7O6ILtLw
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 2
+                    [excerpt] => I wasn't a huge fan of Ziti's. My eggplant parm was really bland and over-reliant on cheese, and the waiter seemed sort of uncomfortable and was somewhat...
+                    [time_created] => 1371687076
+                    [rating_image_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png
+                    [rating_image_small_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/GJ7YW4pZgZMe-M2AVdNt2w/ms.jpg
+                            [id] => SHjrHjiseVshtVLQyMdMcQ
+                            [name] => Robin Y.
+                        )
+
+                    [rating_image_large_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png
+                    [id] => oirHG1PnTXCPcy2zQ0pbMA
+                )
+
+        )
+
+    [phone] => 5086509484
+    [snippet_text] => The portions were huge, and the gluten free pizza was lovely. If you're expecting crispy GF pizza, though, you may be disappointed. The lobster ravioli was...
+    [image_url] => http://s3-media2.ak.yelpcdn.com/bphoto/5OSm-c-Le_f9UAL4nTvphg/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Italian
+                    [1] => italian
+                )
+
+        )
+
+    [display_phone] => +1-508-650-9484
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => zitis-italian-trattoria-natick
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Natick
+            [display_address] => Array
+                (
+                    [0] => 218 Speen St
+                    [1] => Natick, MA 01760
+                )
+
+            [postal_code] => 01760
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 218 Speen St
+                )
+
+            [state_code] => MA
+        )
+
+)

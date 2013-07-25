@@ -1,0 +1,817 @@
+{
+    "menu" : {
+        "id" : "292307",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "4109948", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650346",
+                    "name" : "Shrimp Spring Rolls",
+                    "description" : "shrimp, veggies, &amp; vermicelli noodles rolled in rice paper served with peanut sauce (2 rolls)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.99" }
+                    ]
+                },
+                {
+                    "id" : "26650347",
+                    "name" : "Crab &amp; Cheese Wontons",
+                    "description" : "crispy wontons filled with crab, chestnuts, andcream cheese dipped with sweet &amp; sour sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "26650350",
+                    "name" : "Garlic Shrimp",
+                    "description" : "a sea of shrimp sauteed in garlic and butter",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650352",
+                    "name" : "Butterfly Shrimp",
+                    "description" : "lightly battered shrimp w/ sweet &amp; sour sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "26650353",
+                    "name" : "Crispy Calamari",
+                    "description" : "crispy calamari fried to perfection",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650360",
+                    "name" : "Vietnamese Eggrolls",
+                    "description" : "long hai signature crispy pork eggrolls served with assorted veggies &amp; fish sauce (4 rolls)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "26650368",
+                    "name" : "Salt &amp; Pepper Chicken Wings",
+                    "description" : "battered chicken wings sauteed in garlic",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650371",
+                    "name" : "Chicken Lettuce Wraps",
+                    "description" : "wok-seared chicken w/ peanuts, onions, mushrooms &amp; chestnuts w/lettuce &amp; sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650373",
+                    "name" : "House Special Frog Legs",
+                    "description" : "tempura frog legs sauteed in garlic, butter, &amp;green onions served with salt &amp; pepper sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109955", 
+                "name" : "Soup &amp; Salad",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650375",
+                    "name" : "Wonton Soup",
+                    "description" : "pork wontons, napa cabbage, &amp; chinese bbq pork with chicken soup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+,                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "26650380",
+                    "name" : "Sweet &amp; Sour Soup",
+                    "description" : "chinese bbq pork, tofu, &amp; egg soup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+,                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "26650382",
+                    "name" : "Chicken Cabbage Salad",
+                    "description" : "fresh sliced cabbage w/ chicken breast &amp; peanuts",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650384",
+                    "name" : "Grilled Chicken  Salad",
+                    "description" : "a fresh mix of greens &amp; nuts topped with our famous five spice grilled chicken with teriyaki dressing or sesame dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650387",
+                    "name" : "Oriental Grilled Shrimp Salad",
+                    "description" : "crisp greens &amp; nuts topped with our famous grilled shrimp and your choice of teriyaki dressing or sesame dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109959", 
+                "name" : "Beef Noodle Soup",
+                "description" : "Try our famous beef rice noodle soup served with a side of bean sprouts, basil, &amp; lime. choice of flat egg noodles or flat rice noodles.",
+                "items" : [
+                {
+                    "id" : "26650388",
+                    "name" : "Fresh Sliced Beef Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650389",
+                    "name" : "Brisket Beef Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650390",
+                    "name" : "Beef Meatballs Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650393",
+                    "name" : "Fresh Sliced Beef &amp; Brisket Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650396",
+                    "name" : "Fresh Sliced Beef &amp; Tripe Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650400",
+                    "name" : "Combination Beef Noodle Soup",
+                    "description" : "a combination of fresh sliced beef, brisket, tripe, tendon, &amp; meatballs",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650403",
+                    "name" : "Stewed  Beef",
+                    "description" : "stewed beef with carrots &amp; onions with your choice of flat egg noodles or flat rice noodles",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109961", 
+                "name" : "Chicken Noodle Soup",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650405",
+                    "name" : "Chicken Breast Noodle Soup",
+                    "description" : "pork wontons &amp; chinese bbq pork with your choice of egg or rice noodles",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650406",
+                    "name" : "Wonton Noodle Soup",
+                    "description" : "pork wontons &amp; chinese bbq pork with your choice of egg or rice noodles",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650408",
+                    "name" : "Seafood Noodle Soup",
+                    "description" : "shrimp, squid, and fish fillet w/ egg or rice noodles",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650410",
+                    "name" : "Combination Chicken Noodle Soup",
+                    "description" : "shrimp, squid, chicken, &amp; chinese bbq pork w/ egg or rice noodles (large bowl)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650412",
+                    "name" : "Wonton Egg Noodle Special",
+                    "description" : "pork wontons &amp; chinese bbq pork with seasoned egg noodles and a side of soup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650414",
+                    "name" : "Combination Chicken Egg Noodle Special",
+                    "description" : "shrimp, squid, chicken, and chinese bbq pork with seasoned egg noodles and a side of soup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109964", 
+                "name" : "Chowfun &amp; Chowmein",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650417",
+                    "name" : "Chowfun",
+                    "description" : "wok-seared rice noodle and vegetables with your choice of chicken, beef, shrimp, tofu, or seafood",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                },
+                {
+                    "id" : "26650419",
+                    "name" : "Chowmein",
+                    "description" : "crispy or soft egg noodles &amp; vegetables w/chicken, beef, shrimp, tofu, or seafood",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                },
+                {
+                    "id" : "26650421",
+                    "name" : "Long Hai Chowfun",
+                    "description" : "wok-seared rice noodle w/ sprouts, onion, &amp; beef",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109966", 
+                "name" : "Vermicelli Noodle",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650426",
+                    "name" : "Vermicelli  Rice Noodle",
+                    "description" : "rice vermicelli noodle with your choice of grilled chicken, pork, beef or eggrolls",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "26650428",
+                    "name" : "Grilled Shrimp Vermicelli Noodle",
+                    "description" : "scrumptious grilled shrimp on vermicelli noodle",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650429",
+                    "name" : "Grilled Chicken Noodle Combination",
+                    "description" : "grilled chicken, shrimp, &amp; eggroll w/ noodle",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650430",
+                    "name" : "Grilled Pork Noodle Combination",
+                    "description" : "grilled pork, shrimp, &amp; eggroll w/ vermicelli noodle",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650432",
+                    "name" : "Grilled Beef Noodle Combination",
+                    "description" : "grilled beef, shrimp, &amp; eggroll w/ vermicelli noodle",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109969", 
+                "name" : "Fried Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650433",
+                    "name" : "Chicken Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650434",
+                    "name" : "Shrimp Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650436",
+                    "name" : "Long Hai Fried Rice",
+                    "description" : "stir-fried rice with a combination of bbq pork, chinese sausages, &amp; shrimp",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109970", 
+                "name" : "Chicken Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650437",
+                    "name" : "Grilled Five Spice Chicken &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "8.99" }
+                    ]
+                },
+                {
+                    "id" : "26650439",
+                    "name" : " LH Crispy Chicken &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650440",
+                    "name" : "Orange Chicken &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650442",
+                    "name" : "Kung Pao Chicken &amp; Rice",
+                    "description" : "( if you have any other long hai favorites, we will f be more than happy to accommodate you)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650443",
+                    "name" : "Lemon Grass Curry Chicken &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650445",
+                    "name" : "Chicken Vegetable Stir-Fry &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109971", 
+                "name" : "Pork &amp; Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650447",
+                    "name" : "Grilled Five Spice Pork &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "8.99" }
+                    ]
+                },
+                {
+                    "id" : "26650448",
+                    "name" : "Grilled Pork Chops &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650449",
+                    "name" : "Five Spice Pork Combo &amp; Rice",
+                    "description" : "grilled five spice pork, shredded pork, &amp; egg",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "26650451",
+                    "name" : "Pork Chop Combo &amp; Rice",
+                    "description" : "grilled pork chops, shredded pork, &amp; egg",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109972", 
+                "name" : "Beef &amp; Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650452",
+                    "name" : "Grilled Five Spice Beef &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+,                        { "name" : " ",  "price" : "8.99" }
+                    ]
+                },
+                {
+                    "id" : "26650453",
+                    "name" : "Beef &amp; Broccoli &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650455",
+                    "name" : "Shaking Beef Tenderloin &amp; Rice",
+                    "description" : "wok-seared tenderloin with bell peppers &amp; onions",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650457",
+                    "name" : "Mongolian Beef",
+                    "description" : "wok-seared beef in spicy house sauce w/ rice (if you have any other long hai favorites, we will f be more than happy to accommodate you)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650459",
+                    "name" : "Beef &amp; Chinese Broccoli Stir-Fry",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650461",
+                    "name" : "Beef &amp; Potato Stir-Fry",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109974", 
+                "name" : "Seafood &amp; Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650463",
+                    "name" : "Grilled Five Spice Shrimp",
+                    "description" : "grilled five spice shrimps with rice &amp; veggies",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650465",
+                    "name" : "Kung Pao Shrimp &amp; Rice",
+                    "description" : "(if you have any other long hai favorites, we will f be more than happy to accommodate you) ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650466",
+                    "name" : "Shrimp &amp; Vegetable Stir-Fry &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650467",
+                    "name" : "Seafood &amp; Vegetable Stir-Fry &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650472",
+                    "name" : "Tamarind Crispy Sole Fish",
+                    "description" : "crispy whole sole fish &amp; tamarind sauce w/ rice",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650474",
+                    "name" : "Basil Fish Fillet",
+                    "description" : "battered fish fillet &amp; fresh basil sauce w/ rice",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650477",
+                    "name" : "Steamed Ginger Fish Fillet",
+                    "description" : "steamed fish fillet &amp; ginger sauce w/rice",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109976", 
+                "name" : "Vegetarian Dishes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650480",
+                    "name" : "Vegtarian Noodle Soup",
+                    "description" : "mixed vegetables with your choice of egg or rice noodles in vegetable soup",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+,                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "26650484",
+                    "name" : "Vegetable Stir-Fry",
+                    "description" : "stir-fried veggies &amp; tofu served w/ steamed rice ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+,                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650486",
+                    "name" : "Vegetable Chowfun or Chowmein",
+                    "description" : "rice noodle (soft) or egg noodle (crispy or soft) &amp; vegetables with tofu stir-fry",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "4109977", 
+                "name" : "Signature Dishes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650488",
+                    "name" : "Teriyaki Salmon &amp; Greens",
+                    "description" : "wok-seared salmon with teriyaki sauce, served on a bed of greens and bean sprouts w/ steamed rice",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.49" }
+                    ]
+                },
+                {
+                    "id" : "26650489",
+                    "name" : "Braised Catfish",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                },
+                {
+                    "id" : "26650491",
+                    "name" : "Vietnamese Crepe Wrap",
+                    "description" : "a crispy crepe filled with shrimp, pork, and veggies served with a side of lettuce and fish sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "26650492",
+                    "name" : "Hot &amp; Sour Soup",
+                    "description" : "catfish and vegetable tamarind soup with rice ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                },
+                {
+                    "id" : "26650493",
+                    "name" : "Pork &amp; Shrimp Lotus Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.49" }
+                    ]
+                },
+                {
+                    "id" : "26650494",
+                    "name" : "Live Crab, Live Lobster, Or King Crab Legs",
+                    "description" : "choice of house special , steamed, or garlic salt &amp; pepper style",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                }]
+            }]
+        },
+        {
+            "id" : "7",
+            "name" : "Catering",
+            "categories" : [
+            {
+                "id" : "4109978", 
+                "name" : "{Party Trays",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "26650495",
+                    "name" : "Shrimp Spring Rolls (20 Rolls)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25" }
+                    ]
+                },
+                {
+                    "id" : "26650496",
+                    "name" : "Crab &amp; Cheese Wontons (50 Pieces)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25" }
+                    ]
+                },
+                {
+                    "id" : "26650497",
+                    "name" : "Garlic Shrimp (Head-On, 80 Pieces)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650500",
+                    "name" : "Butterfly Shirmp (80 Pieces)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650506",
+                    "name" : "Vietnamese Eggrolls (5o Rolls)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "50" }
+                    ]
+                },
+                {
+                    "id" : "26650510",
+                    "name" : "Salt &amp; Pepper Chicken Wings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "30" }
+,                        { "name" : "(L)",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650512",
+                    "name" : "House Special Frog Legs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650514",
+                    "name" : "Chicken Cabbage Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "30" }
+,                        { "name" : "(L)",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650515",
+                    "name" : "Shrimp &amp; Pork Lotus Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "35" }
+,                        { "name" : "(L)",  "price" : "45" }
+                    ]
+                },
+                {
+                    "id" : "26650517",
+                    "name" : "Long Hai Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "30" }
+,                        { "name" : "(L)",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650518",
+                    "name" : "Grilled Gice Spice Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650519",
+                    "name" : "LH Crispy Chicken &amp; Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "30" }
+,                        { "name" : "(L)",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650520",
+                    "name" : "Orange Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "30" }
+,                        { "name" : "(L)",  "price" : "40" }
+                    ]
+                },
+                {
+                    "id" : "26650522",
+                    "name" : "Chowmein",
+                    "description" : "(chicken, beef, pork, tofu, shrimp, or seafood) seafood)",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "35" }
+,                        { "name" : "(L)",  "price" : "45" }
+                    ]
+                },
+                {
+                    "id" : "26650526",
+                    "name" : "Clear Rice Noodle Stir-Fry ",
+                    "description" : "( chicken, beef, pork, tofu, shrimp, or seafood seafood)",
+                    "sizes" : [
+                        { "name" : "(M)",  "price" : "35" }
+,                        { "name" : "(L)",  "price" : "45" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

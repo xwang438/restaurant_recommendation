@@ -1,0 +1,1289 @@
+{
+    "menu" : {
+        "id" : "292105",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8893645", 
+                "name" : "Drinks",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246389",
+                    "name" : "Bottled Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63246390",
+                    "name" : "Canned Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.25" }
+                    ]
+                },
+                {
+                    "id" : "63246391",
+                    "name" : "Six Pack of Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "63246392",
+                    "name" : "Snapple",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63246393",
+                    "name" : "Ginger Ale",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.25" }
+                    ]
+                },
+                {
+                    "id" : "63246394",
+                    "name" : "Perrier Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "63246395",
+                    "name" : "Arizona Iced Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "63246396",
+                    "name" : "Gatorade",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893633", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246292",
+                    "name" : "Fresh Mozzarella, Tomato, &amp; Basil",
+                    "description" : "With extra virgin olive oil and oregano dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246293",
+                    "name" : "Fried Calamari",
+                    "description" : "Served with marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246294",
+                    "name" : "Golden Fried Mozzarella Sticks",
+                    "description" : "Served with marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246295",
+                    "name" : "Garlic Cheese Bread",
+                    "description" : "A blend of creamy butter, garlic, herbs, and parmesan.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "63246296",
+                    "name" : "Golden Chicken Tenders",
+                    "description" : "Served with BBQ sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246297",
+                    "name" : "Onion Rings",
+                    "description" : "Served with marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "63246298",
+                    "name" : "Jalapeno Cheese Poppers",
+                    "description" : "Served with marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246299",
+                    "name" : "Beer-Battered Deep Fried Shrimp",
+                    "description" : "Served with cocktail sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246300",
+                    "name" : "Spicy Buffalo Wings",
+                    "description" : "Served with bleu cheese dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893634", 
+                "name" : "Gourmet Salads",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246301",
+                    "name" : "House Salad",
+                    "description" : "Mixed greens, radicchio, tomato, cucumber, carrots, red onion, mushrooms and house croutons.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246302",
+                    "name" : "Caesar Salad",
+                    "description" : "Crisp romaine, herb croutons, parmesan cheese, tossed in our house tangy Caesar dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246303",
+                    "name" : "Chicken Caesar Salad",
+                    "description" : "Grilled chicken, crisp romaine, herb croutons, parmesan cheese, tossed in our house Caesar dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246304",
+                    "name" : "Filet Mignon Caesar Salad",
+                    "description" : "Filet mignon, crisp romaine, herb croutons, parmesan cheese, tossed in our house tangy Caesar dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.99" }
+                    ]
+                },
+                {
+                    "id" : "63246305",
+                    "name" : "Fancy Caesar Salad",
+                    "description" : "Shrimp, filet mignon, and chicken. Crisp romaine, herb croutons, parmesan cheese, tossed in our house tangy Caesar dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.99" }
+                    ]
+                },
+                {
+                    "id" : "63246306",
+                    "name" : "Spinach Salad",
+                    "description" : "Fresh spinach topped with avocado, mushrooms, bacon, red peppers, chopped egg, and house croutons.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63246307",
+                    "name" : "Arugula, Romaine, &amp; Radicchio Salad",
+                    "description" : "Chards of arugula, romaine, and radicchio served with choice of dressing and shaved parmesan.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63246308",
+                    "name" : "California Cobb Salad",
+                    "description" : "Roasted turkey, mixed greens, gorgonzola cheese, avocado, chopped hard boiled egg, fresh tomato, smoked bacon with your choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246309",
+                    "name" : "Insalata Panzanella",
+                    "description" : "Florentine style salad, crisp romaine, cucumber, tomato, red onion, parmesan, and feta cheese, house croutons, served with a zesty red vinegar, olive oil, and herb dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63246310",
+                    "name" : "Gorgonzola, Raisin, &amp; Walnut Salad",
+                    "description" : "Crisp romaine, green leaf lettuce, arugula, radicchio, toasted walnuts, raisins, and gorgonzola cheese served with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246311",
+                    "name" : "Mediterranean Grilled Chicken Salad",
+                    "description" : "Chunks of seasoned grilled chicken, mixed greens, kalamata olives, feta cheese, capers, and grilled eggplant served with your choice of dressing topped with pumpkin seeds.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246312",
+                    "name" : "Grilled Portobello &amp; Button Mushroom Salad",
+                    "description" : "Mixed greens topped with lots of grilled portobello and button mushrooms, roasted red peppers, served with your choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246313",
+                    "name" : "Roasted Turkey, Apple, &amp; Mozzarella Salad",
+                    "description" : "Chunks of roasted turkey, golden delicious apples, and smoked mozzarella on mixed greens with toasted walnuts and a honey mustard dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246314",
+                    "name" : "Grilled Chicken Pesto Salad",
+                    "description" : "Slices of marinated grilled chicken served on a bed of mixed greens garnished with tomato and cucumber served over penne pasta and our house pesto dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893635", 
+                "name" : "Pasta",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246315",
+                    "name" : "Create Your Own Pasta",
+                    "description" : "Choose a pasta, top it with your favorite homemade sauce, and add your choice of toppings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893636", 
+                "name" : "Specialty Entrees",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246316",
+                    "name" : "Linguini Marinara w/ Meatballs",
+                    "description" : "Linguine topped with 3 large homemade meatballs and marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246317",
+                    "name" : "Sausage, Peppers, &amp; Onions",
+                    "description" : "In tomato sauce over linguine or penne.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246318",
+                    "name" : "Fettuccine Carbonara",
+                    "description" : "Fettuccine in a creamy sauce with fresh eggs, parmesan cheese, green peas, onions, and smoked bacon.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246319",
+                    "name" : "Fettuccine Alfredo w/ Grilled Chicken",
+                    "description" : "Always a favorite!",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.99" }
+                    ]
+                },
+                {
+                    "id" : "63246320",
+                    "name" : "Eggplant Parmesan",
+                    "description" : "Lightly breaded eggplant topped with a zesty tomato sauce, baked with lots of mozzarella cheese and served over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246321",
+                    "name" : "Cheese Stuffed Tortellini",
+                    "description" : "Topped with your choice of any homemade sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.99" }
+                    ]
+                },
+                {
+                    "id" : "63246322",
+                    "name" : "Pasta Primavera",
+                    "description" : "Diced eggplant, zucchini, peppers, tomatoes, onions, and fresh garlic sauteed in marinara sauce tossed over penne pasta.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246323",
+                    "name" : "Mediterranean Linguine",
+                    "description" : "Fresh tomato, fresh basil, artichoke hearts, fresh garlic, and parmesan cheese tossed in extra virgin olive oil over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246324",
+                    "name" : "Lemon Herb Chicken",
+                    "description" : "Sauteed chicken breast, fresh garlic, kalamata olives, onions, red peppers, artichoke hearts, sauteed in olive oil, white wine, and lemon juice tossed over penne pasta.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246325",
+                    "name" : "California Chicken Penne",
+                    "description" : "Sauteed chicken breast, fresh garlic, diced tomatoes, fresh cilantro, red and green onions, sauteed in olive oil and white wine tossed over penne pasta.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246326",
+                    "name" : "Ravioli",
+                    "description" : "Choice of cheese, meat, or spinach. Topped with with your choice of sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.99" }
+                    ]
+                },
+                {
+                    "id" : "63246327",
+                    "name" : "Pasta Alla Bolognese",
+                    "description" : "Your choice of pasta topped with Bolognese sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.99" }
+                    ]
+                },
+                {
+                    "id" : "63246328",
+                    "name" : "Grilled Chicken Breast",
+                    "description" : "Marinated in olive oil, dijon mustard, white wine, basil, and garlic, served with penne pasta with your choice of sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246329",
+                    "name" : "Chicken Parmesan",
+                    "description" : "Lightly breaded chicken breast sauteed and topped with marinara sauce and mozzarella cheese served over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246330",
+                    "name" : "Pasta Sampler",
+                    "description" : "For the pasta lovers. A combination of our meat lasagna, cheese tortellini, and ravioli (your choice) topped with marinara or bolognese sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246331",
+                    "name" : "Ravioli Trio",
+                    "description" : "A generous portion of our meat, cheese, and spinach ravioli topped with your choice of any sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.99" }
+                    ]
+                },
+                {
+                    "id" : "63246332",
+                    "name" : "Chicken Piccata Al Limone",
+                    "description" : "Thinly sliced lightly battered chicken breast sauteed with capers in a lemon and butter sauce served over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246333",
+                    "name" : "Chicken Cacciatore",
+                    "description" : "Lightly battered chicken breast sauteed with fresh mushrooms, green peppers, and onions in tomato sauce served over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "63246334",
+                    "name" : "Shrimp Alexandra",
+                    "description" : "Jumbo shrimp, sauteed in virgin oil with sundried tomato, fresh garlic, lemon zest, spring onions, and white wine served over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.99" }
+                    ]
+                },
+                {
+                    "id" : "63246335",
+                    "name" : "Shrimp Fra Diavolo",
+                    "description" : "Jumbo shrimp sauteed in virgin olive oil tossed in a spicy tomato sauce over linguine.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.99" }
+                    ]
+                },
+                {
+                    "id" : "63246336",
+                    "name" : "Mixed Grill",
+                    "description" : "Marinated chicken breast, Italian sausage, and a filet mignon medallion served with potato wedges or onion rings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246337",
+                    "name" : "Linguine Al Pesto",
+                    "description" : "Linguine tossed in our creamy pesto sauce, a blend of fresh basil, spinach, fresh garlic, walnut, extra virgin olive oil and parmesan cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893637", 
+                "name" : "Specialty Oven Baked Pasta",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246338",
+                    "name" : "Listrani's Famous Meat Lasagna",
+                    "description" : "Homemade with three cheeses, bechamel, and bolognese sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246339",
+                    "name" : "Baked Ziti",
+                    "description" : "Always a favorite. Penne pasta baked with a blend of meat and cream sauce and topped with melted mozzarella. Cheesy, meaty, and saucy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "63246340",
+                    "name" : "Baked Penne Terazzini",
+                    "description" : "Penne pasta baked with sliced chicken breast, mushrooms, smothered in creamy parmesan sauce, topped with melted mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.99" }
+                    ]
+                },
+                {
+                    "id" : "63246341",
+                    "name" : "Baked Penne E Polpette",
+                    "description" : "Polpette penne pasta baked with sliced meatballs, mushrooms, marinara sauce, and melted mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893638", 
+                "name" : "Gourmet Deli Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246342",
+                    "name" : "Italian Sub I Sub",
+                    "description" : "Capicolla, baked ham, Genoa salami, and provolone cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246343",
+                    "name" : "Italian Sub II Sub",
+                    "description" : "Prosciutto, baked ham, Genoa salami, and provolone cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63246344",
+                    "name" : "Italian Sub III Sub",
+                    "description" : "Soppresata, capicolla, baked ham, and provolone cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246345",
+                    "name" : "Fresh Mozarella w/ Tomato &amp; Basil Sub",
+                    "description" : "Always a favorite.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246346",
+                    "name" : "Listrani's Tuna Sandwich",
+                    "description" : "White tuna, lettuce, red onions, Listrani's sauce and tomatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246347",
+                    "name" : "California Grilled Chicken Sub",
+                    "description" : "Marinated grilled chicken, roasted peppers, arugula, tomato, red onions, and garlic mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246348",
+                    "name" : "California Turkey Cobb Sub",
+                    "description" : "Roasted turkey, smoked bacon, avocado, arugula, tomato, creamy peppercorn dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246349",
+                    "name" : "Grilled Chicken Sub",
+                    "description" : "Seasoned grilled chicken, arugula, tomato, red onions, and pesto mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246350",
+                    "name" : "Roasted Turkey Pesto Sub",
+                    "description" : "Roast turkey, smoked bacon, avocado, arugula, tomato, red onions, and pesto mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246351",
+                    "name" : "Prosciutto &amp; Fresh Mozzarella Sub",
+                    "description" : "Thinly sliced imported prosciutto, arugula, fresh mozzarella, and pesto mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63246352",
+                    "name" : "Smoked Ham &amp; Swiss Sub",
+                    "description" : "Black forest ham, aged Swiss, lettuce, tomato, honey mustard.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246353",
+                    "name" : "Grilled Chicken Caesar Sub",
+                    "description" : "Grilled chicken breast, romaine lettuce, and Caesar dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893639", 
+                "name" : "Specialty Hot Subs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246354",
+                    "name" : "Meatball Sub",
+                    "description" : "Homemade plump meatballs in marinara sauce. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246355",
+                    "name" : "Italian Sausage Sub",
+                    "description" : "With tomato sauce, sauteed onions and peppers. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246356",
+                    "name" : "Chicken Parmesan Sub",
+                    "description" : "Lightly breaded and sauteed chicken breast with marinara sauce. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246357",
+                    "name" : "Ultimate Turkey Sub",
+                    "description" : "Roasted turkey, lettuce, onions, and oregano dressing. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246358",
+                    "name" : "Ham &amp; Cheddar Sub",
+                    "description" : "With lettuce, onions, and oregano dressing. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246359",
+                    "name" : "Eggplant Parmesan Sub",
+                    "description" : "Lightly breaded eggplant and tomato sauce. Topped with melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893640", 
+                "name" : "From the Grill",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246360",
+                    "name" : "Cheesesteak",
+                    "description" : "Thinly sliced premium rib eye steak smothered in provolone cheese with your choice of lettuce, tomato, mayo, green peppers, onions, and mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246361",
+                    "name" : "Chicken Cheesesteak",
+                    "description" : "Thinly sliced chicken breast smothered in provolone cheese with your choice of lettuce, tomato, mayo, green peppers, onions, and mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246362",
+                    "name" : "Grilled Chicken Sandwich on Foccacia",
+                    "description" : "Grilled marinated chicken breast, arugula, and roasted peppers topped with smoked mozzarella.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246363",
+                    "name" : "Grilled Portobello on Focaccia",
+                    "description" : "With arugula and grilled red onions and garlic mayonnaise.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246364",
+                    "name" : "Chicken Pesto Panini",
+                    "description" : "Grilled chicken breast strips, pesto sauce, roasted red peppers, and provolone on Italian ciabatta bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246365",
+                    "name" : "Roasted Turkey Panini",
+                    "description" : "With fresh basil, roasted red peppers, provolone, and olive oil oregano dressing in Italian ciabatta bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246366",
+                    "name" : "Veggie Panini",
+                    "description" : "Artichoke hearts, roasted red peppers, sundried tomato, fresh basil, gorgonzola, and provolone cheese on Italian ciabatta bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246367",
+                    "name" : "Prosciutto &amp; Fresh Mozzarella Panini",
+                    "description" : "Thinly sliced imported prosciutto, fresh mozzarella, arugula, and pesto sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63246368",
+                    "name" : "1/4lb Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63246369",
+                    "name" : "1/2lb Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893641", 
+                "name" : "Pizza",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246370",
+                    "name" : "Individual Cheese &amp; Tomato Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246371",
+                    "name" : "Medium Cheese &amp; Tomato Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "63246372",
+                    "name" : "Large Cheese &amp; Tomato Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893642", 
+                "name" : "House Traditional Pizzas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246373",
+                    "name" : "Margherita Pizza",
+                    "description" : "Traditional Napolitan pizza, with our special pizza sauce, fresh tomato, lots of mozzarella, extra provolone cheese and fresh basil.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "12.99" }
+,                        { "name" : "Large",  "price" : "15.99" }
+                    ]
+                },
+                {
+                    "id" : "63246374",
+                    "name" : "Colombo Combo",
+                    "description" : "Italian sausage, pepperoni, ham, ground beef, fresh mushroom, green peppers, onions, and extra cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "9.99" }
+,                        { "name" : "Medium",  "price" : "17.99" }
+,                        { "name" : "Large",  "price" : "20.99" }
+                    ]
+                },
+                {
+                    "id" : "63246375",
+                    "name" : "Vegetarian Pizzaiola",
+                    "description" : "Fresh mushrooms, black olives, grilled eggplant, onion, fresh tomato, green peppers, spinach, and extra cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "15.99" }
+,                        { "name" : "Large",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246376",
+                    "name" : "Listrani's Meatball Pizza",
+                    "description" : "This pizza is covered with chunks of our plump and juicy meatballs in tomato sauce, sprinkled with parmesan cheese and then topped with a lot of mozzarella and provolone cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "15.99" }
+,                        { "name" : "Large",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246377",
+                    "name" : "Grilled Chicken Arrabbiata",
+                    "description" : "Chunks of marinated grilled chicken, fresh cilantro, roasted red peppers, and spicy tomato sauce topped with lots of mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "16.99" }
+,                        { "name" : "Large",  "price" : "19.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893643", 
+                "name" : "Listrani's Specialty Pizzas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246378",
+                    "name" : "Pesto w/ Sun-Dried Tomato &amp; Artichoke Hearts Pizza",
+                    "description" : "Our homemade pesto sauce topped with lots of mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "15.99" }
+,                        { "name" : "Large",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246379",
+                    "name" : "Four Cheese Pizza",
+                    "description" : "For cheese lovers. An outstanding combination of ricotta, parmesan, mozzarella, and fontina cheese with lots of garlic.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "15.99" }
+,                        { "name" : "Large",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246380",
+                    "name" : "Pizza Capri",
+                    "description" : "Sun-dried tomato, kalamata olives, fresh garlic, basil, cracked pepper, topped with lots of mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "15.99" }
+,                        { "name" : "Large",  "price" : "18.99" }
+                    ]
+                },
+                {
+                    "id" : "63246381",
+                    "name" : "Mediterranean Pizzaiola",
+                    "description" : "Marinated chicken, broccoli, fresh garlic, and oregano topped with lots of mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "17.99" }
+,                        { "name" : "Large",  "price" : "20.99" }
+                    ]
+                },
+                {
+                    "id" : "63246382",
+                    "name" : "Pizza Bianca",
+                    "description" : "A blend of fresh herbs, spices, butter, and olive oil topped with lots of mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.5" }
+,                        { "name" : "Medium",  "price" : "13.99" }
+,                        { "name" : "Large",  "price" : "16.99" }
+                    ]
+                },
+                {
+                    "id" : "63246383",
+                    "name" : "Smoke House Pizza",
+                    "description" : "A delicious combination of roasted garlic marinated in olive oil, bacon, roasted bell pepper, red onions, topped with mozzarella and smoked mozzarella.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "16.99" }
+,                        { "name" : "Large",  "price" : "19.99" }
+                    ]
+                },
+                {
+                    "id" : "63246384",
+                    "name" : "BBQ Chicken Pizza",
+                    "description" : "Grilled chicken breast, red onions, roasted bell peppers, mozzarella and smoked mozzarella cheese with fresh cilantro and Listrani's special BBQ sauce.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "16.99" }
+,                        { "name" : "Large",  "price" : "19.99" }
+                    ]
+                },
+                {
+                    "id" : "63246385",
+                    "name" : "Grilled Chicken &amp; Roasted Garlic Pizza",
+                    "description" : "Mozzarella cheese topped with grilled chicken, roasted garlic, mild onions, Italian parsley, and garlic butter.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "16.99" }
+,                        { "name" : "Large",  "price" : "19.99" }
+                    ]
+                },
+                {
+                    "id" : "63246386",
+                    "name" : "Goat Cheese &amp; Smoked Bacon",
+                    "description" : "Mozzarella cheese, smoked bacon, fresh garlic, red onions, red and green peppers, black olives and fresh tomato topped with mild goat cheese.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "9.99" }
+,                        { "name" : "Medium",  "price" : "17.99" }
+,                        { "name" : "Large",  "price" : "20.99" }
+                    ]
+                },
+                {
+                    "id" : "63246387",
+                    "name" : "Caramelized Onion &amp; Smoked Bacon",
+                    "description" : "Smoked bacon topped with our own caramelized onions and lots of smoked mozzarella.",
+                    "sizes" : [
+                        { "name" : "Individual",  "price" : "8.99" }
+,                        { "name" : "Medium",  "price" : "16.99" }
+,                        { "name" : "Large",  "price" : "19.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893644", 
+                "name" : "Calzones",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246388",
+                    "name" : "Calzone",
+                    "description" : "Your choice of any two regular pizza toppings plus mozzarella, baked in a fresh dough turnover until golden brown, served with a side of marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893646", 
+                "name" : "Sides",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246397",
+                    "name" : "Extra Marinara Sauce (8oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "63246398",
+                    "name" : "Extra Bolognese Sauce (8oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.99" }
+                    ]
+                },
+                {
+                    "id" : "63246399",
+                    "name" : "Extra Marinara w/ Calzone (4oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+                    ]
+                },
+                {
+                    "id" : "63246400",
+                    "name" : "Fresh Grated Parmesan (2oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                },
+                {
+                    "id" : "63246401",
+                    "name" : "Side of Jumbo Meatballs (3)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "63246402",
+                    "name" : "Side of Italian Sausage",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "63246403",
+                    "name" : "Side of Grilled Chicken Breast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "63246404",
+                    "name" : "Extra Salad Dressing (4oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893647", 
+                "name" : "Desserts",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246405",
+                    "name" : "House Specialty Tiramisu",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63246406",
+                    "name" : "Hazelnut Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63246407",
+                    "name" : "Chocolate Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63246408",
+                    "name" : "Listrani's Homemade Cannoli",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63246409",
+                    "name" : "Fresh Baked Chocolate Chip Cookies ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893648", 
+                "name" : "Lunch Salads",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246410",
+                    "name" : "House Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "63246411",
+                    "name" : "Caesar Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "63246412",
+                    "name" : "Chicken Caesar Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63246413",
+                    "name" : "Filet Mignon Caesar Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63246414",
+                    "name" : "Fancy Caesar Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63246415",
+                    "name" : "Spinach Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246416",
+                    "name" : "Arugula Romaine &amp; Radicchio Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246417",
+                    "name" : "California Cobb Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246418",
+                    "name" : "Insalata Panzanella Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246419",
+                    "name" : "Gorgonzola Raisin &amp; Walnut Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246420",
+                    "name" : "Mediterranean Grilled Chicken Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246421",
+                    "name" : "Grilled Portobello &amp; Button Mushroom Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246422",
+                    "name" : "Roasted Turkey Apple &amp; Mozzarella Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "63246423",
+                    "name" : "Grilled Chicken Pesto Salad Lunch",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893649", 
+                "name" : "Lunch Subs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246424",
+                    "name" : "Italian Sub I (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246425",
+                    "name" : "Italian Sub II (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63246426",
+                    "name" : "Italian Sub III (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246427",
+                    "name" : "Fresh Mozarella w/ Tomato &amp; Basil Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246428",
+                    "name" : "Listrani's Tuna Sandwich (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246429",
+                    "name" : "Meatball Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246430",
+                    "name" : "Italian Sausage Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246431",
+                    "name" : "Chicken Parmesan Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246432",
+                    "name" : "Ultimate Turkey Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246433",
+                    "name" : "Ham &amp; Cheddar Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63246434",
+                    "name" : "Eggplant Parmesan Sub (6&quot; Lunch)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "menu" : {
+        "id" : "292302",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894177", 
+                "name" : "Chili",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251441",
+                    "name" : "Our Famous Chili",
+                    "description" : "Worth trying, not too spicy, just the right flavor",
+                    "sizes" : [
+                        { "name" : "1/2 Sm",  "price" : "1.25" }
+,                        { "name" : "Sm",  "price" : "2.5" }
+,                        { "name" : "Lg",  "price" : "5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894178", 
+                "name" : "Salads",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251442",
+                    "name" : "Steak Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251443",
+                    "name" : "Chicken Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251444",
+                    "name" : "Chopped Salad",
+                    "description" : "With choice of two deli items",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251445",
+                    "name" : "Caesar Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251446",
+                    "name" : "Spinach Salad with Hot Bacon Dressing",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894179", 
+                "name" : "Hot Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251447",
+                    "name" : "Fish Sandwich",
+                    "description" : "Hand breaded cod with lettuce and cheese on a hoagie roll",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251448",
+                    "name" : "Politician Sandwich",
+                    "description" : "Grilled cheese, turkey and full of bologna",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63251449",
+                    "name" : "Big Z Philly Steak Sandwich",
+                    "description" : "Topped with fries and slaw",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251450",
+                    "name" : "Big Z Chicken Sandwich",
+                    "description" : "Topped with fries and slaw",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251451",
+                    "name" : "Ultimate Club Sandwich",
+                    "description" : "Triple decker with turkey, bacon, egg, lettuce, tomato and 1000 island dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251452",
+                    "name" : "Mojo Chicken Ranch Sandwich",
+                    "description" : "Grilled chicken breast, colby cheese, bacon, tomato, lettuce and ranch dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251453",
+                    "name" : "Pig Z Sandwich",
+                    "description" : "Pulled pork, topped with sweet n sour slaw and fries",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251454",
+                    "name" : "Classic Gyro Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894180", 
+                "name" : "Oldies But Goodies",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251455",
+                    "name" : "BLT",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "63251456",
+                    "name" : "Reuben",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63251457",
+                    "name" : "Grilled Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894181", 
+                "name" : "The $5 Meals",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251458",
+                    "name" : "Deli Sandwich, Side &amp; Drink",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63251459",
+                    "name" : "1/2 Deli Sandwich, Soup &amp; Drink",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63251460",
+                    "name" : "1/2 Salad, Soup &amp; Drink",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63251461",
+                    "name" : "Zelie Special",
+                    "description" : "2 dogs, side &amp; drink",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894182", 
+                "name" : "Homemade Sides",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251462",
+                    "name" : "Potato Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251463",
+                    "name" : "Macaroni Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251464",
+                    "name" : "Pasta Salad and Coleslaw",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251465",
+                    "name" : "Fresh Cut French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251466",
+                    "name" : "Sweet Potato Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894183", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251467",
+                    "name" : "7 Mini Corn Dogs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63251468",
+                    "name" : "4 Mozzarella Sticks",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63251469",
+                    "name" : "Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63251470",
+                    "name" : "Sweet Potato Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894184", 
+                "name" : "Everyday Dinner Specials",
+                "description" : "All served with french fries and salad",
+                "items" : [
+                {
+                    "id" : "63251471",
+                    "name" : "BBQ Ribs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251472",
+                    "name" : "Fried Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251473",
+                    "name" : "Butterflied Fried Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894185", 
+                "name" : "Burgers",
+                "description" : "1/3 lb. fresh black angus beef patties. All burgers are served with fries, cooked to medium well",
+                "items" : [
+                {
+                    "id" : "63251474",
+                    "name" : "Herb Burger",
+                    "description" : "2-1/3lb. black angus beef patties, special sauce, lettuce, cheese, pickles and onions",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63251475",
+                    "name" : "Jessica Burger",
+                    "description" : "Veggie burger with lettuce, cheese, onions, pickles and special sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251476",
+                    "name" : "Chili &amp; Cheddar Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251477",
+                    "name" : "Mushroom &amp; Swiss Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251478",
+                    "name" : "Philly Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251479",
+                    "name" : "Bacon Cheese Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251480",
+                    "name" : "Cheese Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63251481",
+                    "name" : "Hamburger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

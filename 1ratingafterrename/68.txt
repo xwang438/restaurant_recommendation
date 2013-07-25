@@ -1,0 +1,111 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/long-hai-restaurant-tustin
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 126
+    [name] => Long Hai Restaurant
+    [snippet_image_url] => http://s3-media3.ak.yelpcdn.com/photo/-rvhGFkeFQQDmkjjznWZBQ/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/long-hai-restaurant-tustin
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 2
+                    [excerpt] => We went because of the many good reviews given here and were so dissapointed.
+Dont get me wrong, the service was good/friendly & place was clean (thus the 2...
+                    [time_created] => 1374279172
+                    [rating_image_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png
+                    [rating_image_small_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/Z16fe-0ZblWVgd0serZubA/ms.jpg
+                            [id] => -ZTIkyK2KnK2tUgBzIHY4Q
+                            [name] => Angela L.
+                        )
+
+                    [rating_image_large_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png
+                    [id] => ELGNEfUV0k3PUrs5cGlcvw
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => This place is like a Tustin secret.  The Kung pow is the bomb.  Either shrimp or chicken, as well as the Orange Chicken.  But every meal here has been...
+                    [time_created] => 1374080466
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/-rvhGFkeFQQDmkjjznWZBQ/ms.jpg
+                            [id] => Cj9-sL3AU_ay2aSCAJwy0Q
+                            [name] => Will C.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => Rzvgx4kZMkuyjhQStfnheQ
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => Family-run Vietnamese restaurant  located in El Camino Plaza where Cream Pan is located, but on the opposite side. 
+
+HERE'S WHAT I TRIED:
+
+**Pho Dac...
+                    [time_created] => 1373837761
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/d1gqEj7WThpJsaVp_1b2VQ/ms.jpg
+                            [id] => kFtpOzWygqAENd6oKrkefw
+                            [name] => Marissa S.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => fjrLxjRb1FhST7XVpnSDtA
+                )
+
+        )
+
+    [phone] => 7148388118
+    [snippet_text] => This place is like a Tustin secret.  The Kung pow is the bomb.  Either shrimp or chicken, as well as the Orange Chicken.  But every meal here has been...
+    [image_url] => http://s3-media3.ak.yelpcdn.com/bphoto/dvkY7WiYo3j2sbQRmsfr9A/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Vietnamese
+                    [1] => vietnamese
+                )
+
+        )
+
+    [display_phone] => +1-714-838-8118
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => long-hai-restaurant-tustin
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Tustin
+            [display_address] => Array
+                (
+                    [0] => 682 El Camino Real
+                    [1] => Tustin, CA 92780
+                )
+
+            [postal_code] => 92780
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 682 El Camino Real
+                )
+
+            [state_code] => CA
+        )
+
+)

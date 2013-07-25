@@ -1,0 +1,360 @@
+{
+    "menu" : {
+        "id" : "292304",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894186", 
+                "name" : "Lunch Menu",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251482",
+                    "name" : "Homemade Soup of the Day",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Bowl",  "price" : "3.25" }
+,                        { "name" : "Cup",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63251483",
+                    "name" : "House Salad",
+                    "description" : "With your choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63251484",
+                    "name" : "Quiche with a Side Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63251485",
+                    "name" : "Homemade Quiche of the Day",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63251486",
+                    "name" : "Casual Tea",
+                    "description" : "Include a 16 oz., pot of tea, 1 scone, lemon curd &amp; devonshire cream, and bowl of seasoned fruit.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63251487",
+                    "name" : "Tea and Crumpets",
+                    "description" : "Two toasted crumpets served with jam and butter and a 16 oz. pot of tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63251488",
+                    "name" : "Tilapia with White Wine and Tarragon",
+                    "description" : "A 4 oz tilapia fillet lightly sauteed in tarragon butter and white wine.  Served with vegetables stir fried in extra virgin olive oil with rosemary seasonings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894187", 
+                "name" : "Large Salads",
+                "description" : "Salad dressings:  wilde raspberry, balsamic vinaigrette, buttermilk ranch, and oil &amp; vinegar. Homemade blue cheese add .50?",
+                "items" : [
+                {
+                    "id" : "63251489",
+                    "name" : "Spring Greens Salad",
+                    "description" : "Fresh spring mix with crumbled feta cheese, walnuts, purple onion, tomatoes &amp; cucumbers",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63251490",
+                    "name" : "Spring Greens Salad with Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63251491",
+                    "name" : "Spinach Salad",
+                    "description" : "Fresh baby spinach mixed with mushrooms, mandarin oranges, hard boiled egg, and bacon. Served with a sweet and sour dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63251492",
+                    "name" : "Spinach Salad with Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63251493",
+                    "name" : "Cranberry Chicken Salad",
+                    "description" : "Our homemade chicken salad with dried cranberries for a bit of sweet and tangy flavor. Served on a bed of spring greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251494",
+                    "name" : "Tuna Veggie Salad",
+                    "description" : "Not the usual tuna salad.  Made with white albacore tuna and loaded with veggies. Served on a  bed of spring greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894188", 
+                "name" : "Sandwiches",
+                "description" : "Included a small side salad. Sandwiches can be made on whole wheat, rye 12 grain, or white bread. Add $1.5 for a wrap.",
+                "items" : [
+                {
+                    "id" : "63251495",
+                    "name" : "Roasted Vegetable Sandwich",
+                    "description" : "Roasted eggplant, portabella, squash, onions &amp; sweet red peppers with a touch of herbs. Served in a hollowed-out bun with a sprinkle of mozzarella cheese. Your choice of side salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63251496",
+                    "name" : "Cranberry Chicken Salad Sandwich",
+                    "description" : "Our chicken salad as a sandwich",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63251497",
+                    "name" : "Tuna Veggie Salad Sandwich",
+                    "description" : "Albacore tuna with cucumber, tomato, celery, green pepper, onion, lettuce and a little mayonnaise dressing. Great in a wrap!",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63251498",
+                    "name" : "Roast Beef Sandwich",
+                    "description" : "Made with wasabi horseradish mayonnaise for a bit of a kick and includes lettuce, onion, green pepper and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251499",
+                    "name" : "Turkey Sandwich",
+                    "description" : "Deli turkey, lettuce, tomato, green pepper, and onion. Served with green tea mayonnaise on the side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63251500",
+                    "name" : "Egg Salad Sandwich",
+                    "description" : "A traditional egg salad sandwich with lettuce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63251501",
+                    "name" : "Spinach Egg Salad",
+                    "description" : "From our grandmother's cookbook chopped fresh spinach, hard cooked egg &amp; herbs.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251502",
+                    "name" : "Grilled Cheese",
+                    "description" : "Grilled american cheese on your choice of white, wheat, rye or 12 grain bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894189", 
+                "name" : "Dinner Menu",
+                "description" : "All dinners come with a house salad and your choice of our daily vegetable, pasta, rice pilaf, or baked potato. Dressing: ranch, balsamic, vinaigrette, raspberry vinaigrette, bleu cheese $0.50 additional",
+                "items" : [
+                {
+                    "id" : "63251503",
+                    "name" : "Greek Style Tipalia",
+                    "description" : "Sauteed with spinach, tomatoes, black olives and feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.25" }
+                    ]
+                },
+                {
+                    "id" : "63251504",
+                    "name" : "Veal Parmesan",
+                    "description" : "Breaded veal topped with tomato basil sauce and mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63251505",
+                    "name" : "Chicken Marsala",
+                    "description" : "Pan sauteed with mushrooms in a marsala wine sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251506",
+                    "name" : "Chicken Romano",
+                    "description" : "Sauteed in a romano cheese, garlic and egg batter, cooked to a golden brown.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251507",
+                    "name" : "Chicken Picatta",
+                    "description" : "Homemade breaded chicken in a lemon white wine sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894190", 
+                "name" : "Fresh Baked Goods",
+                "description" : "Our scones are baked from &quot;scratch&quot; on site",
+                "items" : [
+                {
+                    "id" : "63251508",
+                    "name" : "Scone",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.7" }
+                    ]
+                },
+                {
+                    "id" : "63251509",
+                    "name" : "Scone with Devonshire",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894191", 
+                "name" : "Sweets",
+                "description" : "Just enough to satisfy your sweet tooth",
+                "items" : [
+                {
+                    "id" : "63251510",
+                    "name" : "Little Brownie Sundae",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251511",
+                    "name" : "Turtle Sundae",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251512",
+                    "name" : "Tiramisu",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251514",
+                    "name" : "Mini Cannoli",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251515",
+                    "name" : "Home Made Cream Puff",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251516",
+                    "name" : "Chocolate Mousse",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894192", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251517",
+                    "name" : "Hot Tea",
+                    "description" : "From any of our bagged teas",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.2" }
+                    ]
+                },
+                {
+                    "id" : "63251518",
+                    "name" : "Iced Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.25" }
+                    ]
+                },
+                {
+                    "id" : "63251519",
+                    "name" : "Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63251520",
+                    "name" : "Freshly Squeezed Lemonade",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

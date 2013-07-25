@@ -1,0 +1,115 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/beyond-juice-ann-arbor
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 8
+    [name] => Beyond Juice
+    [snippet_image_url] => http://s3-media3.ak.yelpcdn.com/photo/H9jQ61RvtqXn_ZlF5F_5sg/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/beyond-juice-ann-arbor
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => I have walked by this place at least 50 times and never felt enticed to walk in. Maybe it's the stupid name or the sterile uninviting decor, but I never...
+                    [time_created] => 1251684157
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/0pMNLy8TH0B8emK_XiArCg/ms.jpg
+                            [id] => JgRmlXHSm-jsROLSInoTJg
+                            [name] => Gina V.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => fL7NnYI5Rsk3jomkShbHxA
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => Beyond Juice is not exactly a chain... they are licensed, so they have liberty to change things up.  They offer a selection of fresh fruit smoothies that...
+                    [time_created] => 1217739436
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/LzFPVEIne5qe38Bcza9JMg/ms.jpg
+                            [id] => U4KYlRjP3KmavdPbtfOWJQ
+                            [name] => Lisa W.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => hQIKSqrQGwrIF-4eCn8XqQ
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => Beyond Juice is now closed! 
+
+This place was a wonderful spot to either get out of the cold or out of the heat. I loved the juice!
+                    [time_created] => 1295964277
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/H9jQ61RvtqXn_ZlF5F_5sg/ms.jpg
+                            [id] => F0OWzunGlGxOFdJStLN1zA
+                            [name] => Cassie T.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => qqYONzk0bhauucn3sMysZg
+                )
+
+        )
+
+    [phone] => 7349941111
+    [snippet_text] => Beyond Juice is now closed! 
+
+This place was a wonderful spot to either get out of the cold or out of the heat. I loved the juice!
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Juice Bars & Smoothies
+                    [1] => juicebars
+                )
+
+        )
+
+    [display_phone] => +1-734-994-1111
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => beyond-juice-ann-arbor
+    [is_closed] => 1
+    [location] => stdClass Object
+        (
+            [city] => Ann Arbor
+            [display_address] => Array
+                (
+                    [0] => 614 E Liberty St
+                    [1] => Downtown Ann Arbor
+                    [2] => Ann Arbor, MI 48113
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Downtown Ann Arbor
+                )
+
+            [postal_code] => 48113
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 614 E Liberty St
+                )
+
+            [state_code] => MI
+        )
+
+)

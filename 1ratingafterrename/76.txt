@@ -1,0 +1,120 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/avos-mediterranean-cuisine-san-diego
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 26
+    [name] => Avos Mediterranean Cuisine
+    [snippet_image_url] => http://s3-media4.ak.yelpcdn.com/photo/YhyuF0zyY8hBFIbhEUiFaA/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/avos-mediterranean-cuisine-san-diego
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => I had to change my gyro ranking system after becoming addicted to this establishment's "Spicy Gyro." There is nothing else like it. You cannot just walk...
+                    [time_created] => 1370113867
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/YhyuF0zyY8hBFIbhEUiFaA/ms.jpg
+                            [id] => H0AQye-5M0myB9ENMlsIkA
+                            [name] => Lisa H.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => ANFQfU1mdTJgDbmV03gHpQ
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => Avos Chicken Supreme Lunch Special = Super fattening, and super awesome. 
+
+Also like the comfortable outdoor patio seating. 
+
+New lunch spot, for sure!
+                    [time_created] => 1367613537
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/zti9kEVZuVzzAwDvUMuNyQ/ms.jpg
+                            [id] => vTugBdYg34rX4KvGpzBrNA
+                            [name] => Sonya D.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => UTY7Miuyb0XpTchU_EzZWw
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => I've passed by this place a couple of times on my way to eat at Simons. I've contemplated eating here but today, i bit the bullet and i'm glad i did!
+
+I sat...
+                    [time_created] => 1370030116
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/cc4afe21892e/default_avatars/user_medium_square.png
+                            [id] => i6CP_c8xNwoLuEiAiZ-qvQ
+                            [name] => Sandra W.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => LJdhjEyTiZTEwmRJKfRDmg
+                )
+
+        )
+
+    [phone] => 6197028087
+    [snippet_text] => I had to change my gyro ranking system after becoming addicted to this establishment's "Spicy Gyro." There is nothing else like it. You cannot just walk...
+    [image_url] => http://s3-media2.ak.yelpcdn.com/bphoto/PkZqmbmEVICCxNK0eQhwjA/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Mediterranean
+                    [1] => mediterranean
+                )
+
+        )
+
+    [display_phone] => +1-619-702-8087
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => avos-mediterranean-cuisine-san-diego
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [cross_streets] => C St & B St
+            [city] => San Diego
+            [display_address] => Array
+                (
+                    [0] => 1153 6th Ave
+                    [1] => (b/t C St & B St)
+                    [2] => Downtown
+                    [3] => San Diego, CA 92101
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Downtown
+                )
+
+            [postal_code] => 92101
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 1153 6th Ave
+                )
+
+            [state_code] => CA
+        )
+
+)

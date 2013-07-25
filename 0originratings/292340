@@ -1,0 +1,106 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 1.5
+    [mobile_url] => http://m.yelp.com/biz/stur-lowell
+    [rating_img_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/11e62fee886f/ico/stars/v1/stars_1_half.png
+    [review_count] => 3
+    [name] => Stur
+    [snippet_image_url] => http://s3-media4.ak.yelpcdn.com/photo/ErhBwhybLmsoH4SP3j2Qgw/ms.jpg
+    [rating_img_url_small] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/edfabe6dfcec/ico/stars/v1/stars_small_1_half.png
+    [url] => http://www.yelp.com/biz/stur-lowell
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 1
+                    [excerpt] => Awful, awful, awful!  That's the only word that can describe our experience at this restaurant.
+The waitress actually said to us upon entering sit wherever...
+                    [time_created] => 1274708122
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/CsMkImLXtPRtBolUzNf9gg/ms.jpg
+                            [id] => HkQl5TgrNf8XvyY39TymFw
+                            [name] => Ruby G.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png
+                    [id] => nyWiPBQRz5DXtl1GRL_dRg
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 1
+                    [excerpt] => I've been excited to try this place since in opened up in April.  I am in agreement with John F.  that Lowell deserves good restaurants and new businesses....
+                    [time_created] => 1274212529
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/VKqUKSapOl_wtZh8vFCc0Q/ms.jpg
+                            [id] => 5Q34A1iG6mQB4pOTGPqNKg
+                            [name] => Helene B.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png
+                    [id] => Q0m3OO6JmlsLOoQeXYGnDA
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 2
+                    [excerpt] => It's a bit late to write a review since it's now closed, but in Lowell, you never know what can happen next.  What they did well: very flavorful food and...
+                    [time_created] => 1282317465
+                    [rating_image_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png
+                    [rating_image_small_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/ErhBwhybLmsoH4SP3j2Qgw/ms.jpg
+                            [id] => xvu8G900tezTzbbfqmTKvA
+                            [name] => Anne R.
+                        )
+
+                    [rating_image_large_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c00926ee5dcb/ico/stars/v1/stars_large_2.png
+                    [id] => KpwT7wq52XU8GgZoC908zg
+                )
+
+        )
+
+    [phone] => 9784527887
+    [snippet_text] => It's a bit late to write a review since it's now closed, but in Lowell, you never know what can happen next.  What they did well: very flavorful food and...
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => American (New)
+                    [1] => newamerican
+                )
+
+        )
+
+    [display_phone] => +1-978-452-7887
+    [rating_img_url_large] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/4b88f27b8b84/ico/stars/v1/stars_large_1_half.png
+    [id] => stur-lowell
+    [is_closed] => 1
+    [location] => stdClass Object
+        (
+            [city] => Lowell
+            [display_address] => Array
+                (
+                    [0] => 179 Central St
+                    [1] => Lowell, MA 01852
+                )
+
+            [postal_code] => 01852
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 179 Central St
+                )
+
+            [state_code] => MA
+        )
+
+)

@@ -1,0 +1,649 @@
+{
+    "menu" : {
+        "id" : "292347",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894266", 
+                "name" : "Burritos",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252013",
+                    "name" : "Canitas Burrito",
+                    "description" : "Deep fried pork, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63252014",
+                    "name" : "Carne Asada Burrito",
+                    "description" : "Grilled steak, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63252015",
+                    "name" : "Chorizo Burrito",
+                    "description" : "Mexican sausage, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63252016",
+                    "name" : "Al Pastor Burrito",
+                    "description" : "Spicy roast pork and pineapple, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63252017",
+                    "name" : "Veggie Burrito",
+                    "description" : "Mixed vegetables, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63252018",
+                    "name" : "Pollo Burrito",
+                    "description" : "Chicken, Served with Mexican rice, refried beans, lettuce, pico de gallo, sour cream, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894267", 
+                "name" : "Tacos",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252019",
+                    "name" : "Al Pastor Taco",
+                    "description" : "Spicy roast pork and pineapple, made with two corn tortillas and garnished with cilantro and fresh onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63252020",
+                    "name" : "Carnitas Tacos",
+                    "description" : "Deep fried pork,  made with two corn tortillas and garnished with cilantro and fresh onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63252021",
+                    "name" : "Carne Asada Taco",
+                    "description" : "Grilled steak,  made with two corn tortillas and garnished with cilantro and fresh onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63252022",
+                    "name" : "Chorizo Taco",
+                    "description" : "Mexican sausage,  made with two corn tortillas and garnished with cilantro and fresh onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63252023",
+                    "name" : "Pollo Taco",
+                    "description" : "Chicken,  made with two corn tortillas and garnished with cilantro and fresh onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894268", 
+                "name" : "Sopes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252024",
+                    "name" : "Carnitas Sopes",
+                    "description" : "Deep fried pork, garnished with refried beans, oxaca cheese, lettuce, pico de gallo, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63252025",
+                    "name" : "Carne Asada Sopes",
+                    "description" : "Grilled steak, garnished with refried beans, oxaca cheese, lettuce, pico de gallo, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63252026",
+                    "name" : "Chorizo Sopes",
+                    "description" : "Mexican sausage, garnished with refried beans, oxaca cheese, lettuce, pico de gallo, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63252027",
+                    "name" : "Pollo Sopes",
+                    "description" : "Grilled chicken, garnished with refried beans, oxaca cheese, lettuce, pico de gallo, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63252028",
+                    "name" : "Al Pastor Sopes",
+                    "description" : "Spicy pork and grilled pineapple, garnished with refried beans, oxaca cheese, lettuce, pico de gallo, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894269", 
+                "name" : "Tostadas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252029",
+                    "name" : "Al Pastor Tostada",
+                    "description" : "Spicy roast pork and pineapple garnished with refried beans, lettuce, queso fresco, salsa, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252030",
+                    "name" : "Carnitas Toastada",
+                    "description" : "Deep fried pork garnished with refried beans, lettuce, queso fresco, salsa, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252031",
+                    "name" : "Carne Asada Tostada",
+                    "description" : "Grilled steak garnished with refried beans, lettuce, queso fresco, salsa, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252032",
+                    "name" : "Chorizo Tostada",
+                    "description" : "Mexican sausage garnished with refried beans, lettuce, queso fresco, salsa, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252033",
+                    "name" : "Pollo Tostada",
+                    "description" : "Chicken garnished with refried beans, lettuce, queso fresco, salsa, and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252034",
+                    "name" : "Dinga de Pollo Tostada",
+                    "description" : "Shredded chicken with grilled cabbage, grilled onions and chipotle sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894270", 
+                "name" : "Tortas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252035",
+                    "name" : "Milanesa De Res Torta",
+                    "description" : "Breaded beef made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252036",
+                    "name" : "Milanesa De Pollo Torta",
+                    "description" : "Breaded chicken made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252037",
+                    "name" : "Carne Enchilada Torta",
+                    "description" : "Grilled spicy pork made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252038",
+                    "name" : "chorizo Torta",
+                    "description" : "Mexican sausage made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252039",
+                    "name" : "Hawaiana Torta",
+                    "description" : "Grilled pineapple, ham, and bacon, made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252040",
+                    "name" : "Cubana Torta",
+                    "description" : "Milanesa, ham, scrambled eggs, chorizo, and hot dog. Made with authentic Mexican bread and garnished with refried beans, mayo, lettuce, tomatoes, raw onions, chipotle or jalapeno peppers, and oxaca cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894271", 
+                "name" : "Picaditas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252041",
+                    "name" : "Carnitas Picaditas (3)",
+                    "description" : "Deep fried pork garnished with refried beans, salsa, oxaca cheese, sour cream, avocado, and Mexican rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.5" }
+                    ]
+                },
+                {
+                    "id" : "63252042",
+                    "name" : "Carne Asada Picaditas (3)",
+                    "description" : "Grille steak garnished with refried beans, salsa, oxaca cheese, sour cream, avocado, and Mexican rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.5" }
+                    ]
+                },
+                {
+                    "id" : "63252043",
+                    "name" : "Al Pastor Picaditas (3)",
+                    "description" : "Spicy pork and grilled pineapple garnished with refried beans, salsa, oxaca cheese, sour cream, avocado, and Mexican rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894272", 
+                "name" : "Flautas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252044",
+                    "name" : "Pollo Flautas (4)",
+                    "description" : "Chicken garnished with lettuce, sour cream, and queso fresco.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252045",
+                    "name" : "Queso Flautas (4)",
+                    "description" : "Cheese garnished with lettuce, sour cream, and queso fresco.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "63252046",
+                    "name" : "Popa Flautas (4)",
+                    "description" : "Potatoes garnished with lettuce, sour cream, and queso fresco.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894273", 
+                "name" : "Burgers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252047",
+                    "name" : "6oz Hamburger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63252048",
+                    "name" : "Cheese Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.25" }
+                    ]
+                },
+                {
+                    "id" : "63252049",
+                    "name" : "Bacon Cheese Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63252050",
+                    "name" : "Turkey Cheese Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63252051",
+                    "name" : "Pizza Burger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894274", 
+                "name" : "Cheese Steaks",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252052",
+                    "name" : "Plain Steak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63252053",
+                    "name" : "Cheese Steak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252054",
+                    "name" : "Cheese Steak Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63252055",
+                    "name" : "Pepperoni Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63252056",
+                    "name" : "Pepperoni Pizza Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63252057",
+                    "name" : "Bacon Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63252058",
+                    "name" : "Pepper Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63252059",
+                    "name" : "Mushroom Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63252060",
+                    "name" : "Chicken Cheesesteak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63252061",
+                    "name" : "Cheese Steak Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63252062",
+                    "name" : "Chicken Steak",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894275", 
+                "name" : "Hoagies ",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252063",
+                    "name" : "Italian Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252064",
+                    "name" : "Ham &amp; Cheese Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252065",
+                    "name" : "Turkey &amp; Cheese Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252066",
+                    "name" : "Roast Beef &amp; Cheese Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63252067",
+                    "name" : "Chicken Salad Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252068",
+                    "name" : "Seafood Salad Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63252069",
+                    "name" : "Tuna Salad Hoagie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894276", 
+                "name" : "Side Orders",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252070",
+                    "name" : "French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63252071",
+                    "name" : "Cheese Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.75" }
+                    ]
+                },
+                {
+                    "id" : "63252072",
+                    "name" : "Mozzarella Sticks",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "63252073",
+                    "name" : "Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63252074",
+                    "name" : "Chicken Fingers (6)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "63252075",
+                    "name" : "Chicken Finger Platter",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63252076",
+                    "name" : "Buffalo Wings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "6 pcs",  "price" : "3.5" }
+,                        { "name" : "12 pcs",  "price" : "6" }
+,                        { "name" : "24 pcs",  "price" : "12.5" }
+,                        { "name" : "50 pcs",  "price" : "25" }
+,                        { "name" : "100 pcs",  "price" : "50" }
+                    ]
+                },
+                {
+                    "id" : "63252077",
+                    "name" : "Chips and Salsa",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894277", 
+                "name" : "Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252078",
+                    "name" : "Turkey Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "63252079",
+                    "name" : "Ham &amp; Cheese Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "63252080",
+                    "name" : "Roast Beef Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "63252081",
+                    "name" : "Tuna Salad Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "63252082",
+                    "name" : "Chicken Salad Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

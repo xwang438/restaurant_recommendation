@@ -1,0 +1,118 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/boardwalk-pizza-and-philly-steaks-philadelphia-2
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 3
+    [name] => Boardwalk Pizza & Philly Steaks
+    [snippet_image_url] => http://s3-media3.ak.yelpcdn.com/photo/A8xM49z9-_EAkptASFrZ8A/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/boardwalk-pizza-and-philly-steaks-philadelphia-2
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => Consistently the best pizza I've had in the northeast. It beats out the local "hype" pizza place by leaps and bounds. The dough is nice and soft without...
+                    [time_created] => 1369691275
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/A8xM49z9-_EAkptASFrZ8A/ms.jpg
+                            [id] => EVgVl_hJA-O4Zpm039fIQQ
+                            [name] => Stephanie W.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => gOpms92-yDxV-oOzMf7imQ
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => This is a great pizza place in this neighborhood. If you eat in the food taste amazing. Delivery is usually fast except the one day but that was a Saturday...
+                    [time_created] => 1360512844
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/25KDk85BstKzvKYOAagNEA/ms.jpg
+                            [id] => Rr4cLb6Go91FT134o6RsKg
+                            [name] => Gem M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => 0_a41yusDXVbIAIMouxq_g
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => Do you like bad pizza?  Neither do I.  Do you like good pizza?  Who doesn't, right?  Do you like expensive pizza?  If you answer yes to this, I'd like to be...
+                    [time_created] => 1305826987
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/cc4afe21892e/default_avatars/user_medium_square.png
+                            [id] => 9DEvgGmCNH94SZ7OYiXJkQ
+                            [name] => Michele M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => ZwoN8FhDcZFgWEbi8LCdQw
+                )
+
+        )
+
+    [phone] => 2156734755
+    [snippet_text] => Consistently the best pizza I've had in the northeast. It beats out the local "hype" pizza place by leaps and bounds. The dough is nice and soft without...
+    [image_url] => http://s3-media2.ak.yelpcdn.com/bphoto/Dqhmwbu3O01HJGiIfs_0xw/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Pizza
+                    [1] => pizza
+                )
+
+            [1] => Array
+                (
+                    [0] => Cheesesteaks
+                    [1] => cheesesteaks
+                )
+
+        )
+
+    [display_phone] => +1-215-673-4755
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => boardwalk-pizza-and-philly-steaks-philadelphia-2
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Philadelphia
+            [display_address] => Array
+                (
+                    [0] => 9900 Bustleton Ave
+                    [1] => Bustleton
+                    [2] => Philadelphia, PA 19115
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Bustleton
+                )
+
+            [postal_code] => 19115
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 9900 Bustleton Ave
+                )
+
+            [state_code] => PA
+        )
+
+)

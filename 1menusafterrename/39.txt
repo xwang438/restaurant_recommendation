@@ -1,0 +1,3088 @@
+{
+    "menu" : {
+        "id" : "292157",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "7724512", 
+                "name" : "Hot Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54574908",
+                    "name" : "Edamame",
+                    "description" : "Steamed soybean with sea salt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574923",
+                    "name" : "Jumbo Ebi Shumai",
+                    "description" : "Steamed jumbo shrimp dumpling seared with ginger soy vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574940",
+                    "name" : "Dob Bok Ki ",
+                    "description" : "Grilled rice cake, roasted onions, spicy kochujang glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574955",
+                    "name" : "Spicy PorkGyoza Salad",
+                    "description" : "Fried pork dumplings tossed over spicy asian slaw.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574970",
+                    "name" : "Rock Shrimp Tempura",
+                    "description" : "Shrimp tempura tossed in ssamjang aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574988",
+                    "name" : "Okonomiyaki",
+                    "description" : "Japanese style seafood pancake with bacon, assoretd julienne vegetables, bonito shavings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54574996",
+                    "name" : "Agetofu",
+                    "description" : "Lightly battered tofu in a soy dashi broth with bonito flake.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54683252",
+                    "name" : "Tempura Sampler",
+                    "description" : "Lightly fried shrimp and assorted seasonal vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54683289",
+                    "name" : "Fried Oysters",
+                    "description" : "Served with tonkasu sauce and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54683407",
+                    "name" : "Steamed Bun",
+                    "description" : "Pair of buns served with pickled cucumber, scallion and special house sauce. Add an additional bun.Porkbelly, fried oyster, shitake mushroom.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+,                        { "name" : "(Bun)",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54683429",
+                    "name" : "Soft Shell Crab Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738009", 
+                "name" : "Cold Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54683414",
+                    "name" : "Salmon Caroaccio",
+                    "description" : "Thinly sliced seared salmon, soy onion vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54683446",
+                    "name" : "Whitefish Carpaccio",
+                    "description" : "Thinly sliced whitefish, shiso, sliced radish with kochujang vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54683465",
+                    "name" : "Octopus Ceviche",
+                    "description" : "Thinly sliced octopus with jalanese mango salsa.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54683482",
+                    "name" : "Ankimo",
+                    "description" : "Monk fish pate, wasabi fish roe, ponzu.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54683513",
+                    "name" : "Tataki Nigiri Trio",
+                    "description" : "Chef's choice of three pieces sushi with assorted toppings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54683543",
+                    "name" : "Sunomono",
+                    "description" : "Assorted sashimi in light citrus vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54683576",
+                    "name" : "Hamachi Crudo",
+                    "description" : "Sliced yellowtail, jalapeno, cilantro and yuzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54683601",
+                    "name" : "Sashimi Appetizer",
+                    "description" : "Chef's choice sampler of sashimi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738015", 
+                "name" : "Soup, Salad, Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54683472",
+                    "name" : "House Salad",
+                    "description" : "Mixed greens, fuji apples, doma vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54683517",
+                    "name" : "Cold Tofu Salad",
+                    "description" : "Tofu Cubes on a bed of greens, seaweed salad, edamame, sesame vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54683564",
+                    "name" : "Tempura Calamari Salad",
+                    "description" : "Crispy calamari tempura tossed with mixed greens, spicy aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54683606",
+                    "name" : "Tuna Tataki Salad",
+                    "description" : "Seared tuna sashimi over mixed greens, wasabi soy vinaigrttte.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54683623",
+                    "name" : "Seaweed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54683633",
+                    "name" : "Miso Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54683659",
+                    "name" : "White Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54683675",
+                    "name" : "Sushi Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738037", 
+                "name" : "Entrees",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54683644",
+                    "name" : "Scottish Salmon Teriyaki Or Shioyaki",
+                    "description" : "(Broiled with sea slat).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54683674",
+                    "name" : "Chilean Sea Bass",
+                    "description" : "Marinated in saikyo miso.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "24" }
+                    ]
+                },
+                {
+                    "id" : "54683721",
+                    "name" : "Chicken Kushiyaki And Yakiudon",
+                    "description" : "Chicken teriyaki skewers with sauteed noodle and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "54683743",
+                    "name" : "Tonkatsu",
+                    "description" : "Panko breaded pork or chicken cutlet, served with tonkatu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54683815",
+                    "name" : "Bibimbap",
+                    "description" : "Assorted seasoned vegetables and spicy kochujang sauce on bed of rice. (Vegetable, beef &amp; egg yolk, smelt roe).",
+                    "sizes" : [
+                        { "name" : "(Veg)",  "price" : "12" }
+,                        { "name" : "(Beef)",  "price" : "15" }
+,                        { "name" : "(Smelt)",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54683844",
+                    "name" : "Nabeyaki Udon",
+                    "description" : "Udon noodles with poached egg and vegetables with shrimp tempura.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54683885",
+                    "name" : "Kalbi",
+                    "description" : "Char grilled beef short rib marinated in korean sesame garlic soy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738060", 
+                "name" : "Doma Dinner Bento",
+                "description" : "Japanese dinner box with a cariety of delicious dishes, served with soup, salad, rice, ice cream.",
+                "items" : [
+                {
+                    "id" : "54683848",
+                    "name" : "Zen",
+                    "description" : "Grilled kalbi, shrimp tempura, 4 pcs of sushi, spicy tuna roll, and shrimp shumai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "36" }
+                    ]
+                },
+                {
+                    "id" : "54683913",
+                    "name" : "Hana",
+                    "description" : "Salmon teriyaki, yakitori, 4 pcs of sashimi, spicy yellowtail roll, and shrimp shumai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "32" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738074", 
+                "name" : "Sushi Bar",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54683965",
+                    "name" : "Sushi",
+                    "description" : "Assorted 7 piece sushi and spicy tuna roll, assorted 10 pieces sushi and spicy tuna roll.",
+                    "sizes" : [
+                        { "name" : "(Reg)",  "price" : "19" }
+,                        { "name" : "(Deluxe)",  "price" : "24" }
+                    ]
+                },
+                {
+                    "id" : "54684012",
+                    "name" : "Sashimi",
+                    "description" : "Assorted 10 piece assortment of sashimi, assorted 16 piece assortment of sashimi.",
+                    "sizes" : [
+                        { "name" : "(Reg)",  "price" : "20" }
+,                        { "name" : "(Deluxe)",  "price" : "28" }
+                    ]
+                },
+                {
+                    "id" : "54684067",
+                    "name" : "Sushi Sashimi Omakase",
+                    "description" : "Chef's choice of today's finest fish, 8 piece sushi, 6 piece sashimi, 1 special roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "42" }
+                    ]
+                },
+                {
+                    "id" : "54684110",
+                    "name" : "Hwe Dup Bap",
+                    "description" : "Diced salmon, white fish and tuna, assoted vegetables over seasoned rice with spicy kochujang vinaigrette sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54684124",
+                    "name" : "Chirashi",
+                    "description" : "Assorted sashimi over seasoned rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21" }
+                    ]
+                },
+                {
+                    "id" : "54684159",
+                    "name" : "Tys Roll Or Hand Roll Combo",
+                    "description" : "Spicy tuna, yellowtail and scallion, salmon avocado roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738075", 
+                "name" : "Sushi, Sashimi",
+                "description" : "(Per piece)",
+                "items" : [
+                {
+                    "id" : "54683979",
+                    "name" : "Maguro",
+                    "description" : "Tuna",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684000",
+                    "name" : "Saba",
+                    "description" : "Boston mackerel",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684028",
+                    "name" : "Suzuki",
+                    "description" : "Striped bass.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684041",
+                    "name" : "Hirame",
+                    "description" : "Fluke.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684051",
+                    "name" : "Sake",
+                    "description" : "Salmon.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684074",
+                    "name" : "Ebi",
+                    "description" : "Shrimp.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684083",
+                    "name" : "Hotate",
+                    "description" : "Scallop.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684104",
+                    "name" : "Kani",
+                    "description" : "Snow crab.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684116",
+                    "name" : "Ika ",
+                    "description" : "Squid",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684125",
+                    "name" : "Tako",
+                    "description" : "Octopus.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684145",
+                    "name" : "Amaebi",
+                    "description" : "Sweet shrimp.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54684174",
+                    "name" : "Tamago",
+                    "description" : "Egg custard.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54684191",
+                    "name" : "Otoro",
+                    "description" : "Tuna belly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54684205",
+                    "name" : "Anago",
+                    "description" : "Sea eel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54684223",
+                    "name" : "Ankimo",
+                    "description" : "Monkfish pate.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684256",
+                    "name" : "Sawara",
+                    "description" : "Spanish mackerel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684274",
+                    "name" : "Shiro Maguro",
+                    "description" : "Albacore.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684289",
+                    "name" : "Unagi",
+                    "description" : "Fresh water eel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684295",
+                    "name" : "Tai",
+                    "description" : "Red snapper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684304",
+                    "name" : "Crab Stick",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54684315",
+                    "name" : "Smoked Salmon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684337",
+                    "name" : "Uni",
+                    "description" : "Sea urchin.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54684362",
+                    "name" : "Wasabi Flying Fih Roe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684378",
+                    "name" : "Masago",
+                    "description" : "Smelt roe.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684403",
+                    "name" : "Ikura",
+                    "description" : "Salmon roe",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684422",
+                    "name" : "Hamachi",
+                    "description" : "Yellowtail.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54684485",
+                    "name" : "Inari",
+                    "description" : "Fried tofu pocket.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54684496",
+                    "name" : "Salmon Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684510",
+                    "name" : "Yellowtail Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738109", 
+                "name" : "Hand Rolls",
+                "description" : "Extras spicy sauce $0.50, tempura crunch $0.50, avocado $0.50, quail egg $1.00, cream cheese $1.00, flying fish egg $1.00.",
+                "items" : [
+                {
+                    "id" : "54684200",
+                    "name" : "Snow Crab California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54684204",
+                    "name" : "Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54684215",
+                    "name" : "Asparagus",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684220",
+                    "name" : "Eel Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54684225",
+                    "name" : "Ume Shiso Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684238",
+                    "name" : "Crunchy Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "54684248",
+                    "name" : "Sweet Potato Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54684316",
+                    "name" : "Shiitake Mushroom",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684324",
+                    "name" : "Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54684339",
+                    "name" : "Yellowtail Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54684347",
+                    "name" : "Oshinko",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684353",
+                    "name" : "Salmon Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54684363",
+                    "name" : "Salmon Skin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54684374",
+                    "name" : "Albacore Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54684380",
+                    "name" : "Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "54684387",
+                    "name" : "California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54684396",
+                    "name" : "Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684404",
+                    "name" : "Toro Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54684411",
+                    "name" : "Kanpyo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54684415",
+                    "name" : "Spicy Scallop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54684424",
+                    "name" : "Vegetarian",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7738140", 
+                "name" : "Signature Rolls",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54684491",
+                    "name" : "Spider",
+                    "description" : "(Inside). Soft shell crab tempura, avocado, fish eggs, wasabi mayo, spicy sprouts, scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54684527",
+                    "name" : "Bibimbao",
+                    "description" : "(Inside). Seasoned spinach, beansprout, carrot, mushroom, cucumber, kochujang paste, sesame oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54684619",
+                    "name" : "Hamachi Verde",
+                    "description" : "(Inside). Avocado, kanpyo, jalapeno, tobiko, scallion (outside) hamachi, kiwi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54684657",
+                    "name" : "Rock N Roll",
+                    "description" : "(inside) shrimp tempura, scallion, spicy mayo, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54684717",
+                    "name" : "Pachinko Roll",
+                    "description" : "(inside). Shrimp tempura, avocado, cucumber (outside) tuna, kiwi, salmon, mango, eel, strawberry and wasabi mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54684765",
+                    "name" : "Triple Spicy Double Tuna Roll",
+                    "description" : "(inside). Tuna, spicy sauce, siracha, tempura crunch, scallion, (outside), seared albacore, sichimi pepper, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54684830",
+                    "name" : "Yakuza",
+                    "description" : "(Inside). Soft shell crab tempura mixed with tobiko, spicy mayo, cucumber (outside), softshell crab tempura spicy mix, chili sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54684892",
+                    "name" : "Ooki Eel Roll",
+                    "description" : "(Inside). Eel, avocado, cream cheese roll lightly battered (outside) spicy tuna, tempura crunch, scallion, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54684932",
+                    "name" : "Spring Garden Roll",
+                    "description" : "(Inside). Cooked shrimp, avocado, cucumber, frisee lettuce, wasabi mayo, masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54684966",
+                    "name" : "Naked Salmon Roll",
+                    "description" : "Spicy salmon tartare, avocado, over crispy sticky rice, masago and jalapeno slices on top.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54684979",
+                    "name" : "Philly Roll",
+                    "description" : "Salmon, cream cheese, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54685040",
+                    "name" : "Medusa",
+                    "description" : "(Inside). Shrimp tempura, avocado, spicy sprouts, spicy mayo (outside) lump crab salad, wasabi mayo, red tabiko, scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54685092",
+                    "name" : "Dragon",
+                    "description" : "(Inside). Eel, cucumber, tempura crunch (outside) sliced avocado, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54685138",
+                    "name" : "Doma",
+                    "description" : "(Inside). Assorted sashimi, mango, avocado, spicy sprouts, tobiko, wrapped with thinly sliced cuucmber, yuzu sauce (no rice).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54685177",
+                    "name" : "Chloe",
+                    "description" : "(Inside). Eel, spicy sprouts, scallion (outside) spicy salmon crunch, wrapped with soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54685292",
+                    "name" : "Island",
+                    "description" : "(inside). Salmon, spicy aioli, tempura crunch, (outside) salmon, mango, wasabi tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54685326",
+                    "name" : "Tuna Club",
+                    "description" : "Crunch spicy tuna tartar and avocado made with soybean pepper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54685350",
+                    "name" : "Rachel",
+                    "description" : "(Inside). smoked salmon, cream cheese, avocado, lightly battered, topped with tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54685396",
+                    "name" : "Lobster Tempura Roll",
+                    "description" : "Lobster tempura, mixed greens, korean pear, kaiware, tobiko wrapped in soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                }]
+            }]
+        },
+        {
+            "id" : "2",
+            "name" : "Lunch",
+            "categories" : [
+            {
+                "id" : "7721638", 
+                "name" : "Hot Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54553605",
+                    "name" : "Edamame",
+                    "description" : "Steamed Soybean with sea salt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54553625",
+                    "name" : "Jumbo Ebi Shumai",
+                    "description" : "Steamed jumbo shrimp dumpling served with ginger soy vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54553641",
+                    "name" : "Dok Bok Ki",
+                    "description" : "Grilled rice cake, roasted onions, spicy kochujang glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54553653",
+                    "name" : "Spicy Pork Gyoza Salad",
+                    "description" : "Deep fried pork dumplings over spicy asian slaw.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54553667",
+                    "name" : "Rock Shrimp Tempura",
+                    "description" : "Tossed in spicy samjang aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54553710",
+                    "name" : "Okonomiyaki",
+                    "description" : "Japanese style seafood pancake with bacon, assorted julinne vegetables, bonito shavings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54553729",
+                    "name" : "Stuffed Jalapeno Tempura",
+                    "description" : "Tuna, cream cheese, scallion, lightly battered topped with sweet glaze and chili sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54553740",
+                    "name" : "Agetofu",
+                    "description" : "Lightly battered tofu in a soy dashi broth with bonito flake.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54553755",
+                    "name" : "Tempura Sampler",
+                    "description" : "Lightly fried shrimp and assorted seasonal vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54553769",
+                    "name" : "Fried Oyster",
+                    "description" : "Served with tonkasu sauce and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54553788",
+                    "name" : "Steamed Buns",
+                    "description" : "Pair of buns served with pickled cucumber, scallion and special house sauce. Pork belly, fried oyster, shitake mushroom (add an additional bun for $4.00).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54553837",
+                    "name" : "Bo Saam Wrap",
+                    "description" : "Braised pork belly, seasonal raw oyster, juilenne radish kimchi and bibb lettuce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54553840",
+                    "name" : "Soft Shell Crab Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7721670", 
+                "name" : "Cold  Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54553868",
+                    "name" : "Tartare Trio",
+                    "description" : "Tuna, salmon and yellowtail tartare.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54553884",
+                    "name" : "Salmon Carpaccio",
+                    "description" : "Thinly sliced seared salmon, soy onion vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54553910",
+                    "name" : "Whitefish Carpaccio",
+                    "description" : "Thinly sliced whitefish, shiso, scalliom with kochujang and light vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54553924",
+                    "name" : "Uni Trio",
+                    "description" : "Sea urchin prepared in three different ways.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54553938",
+                    "name" : "Octopus Ceviche",
+                    "description" : "Thinly sliced octopus with japanese salsa.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54553967",
+                    "name" : "Oyster Uni Ikura",
+                    "description" : "Two seasonal raw oysters topped wth uni, scallion, tobiko in ponzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54553989",
+                    "name" : "Tuna Yook Hwe",
+                    "description" : "Korean style tartare tossed in sweet sesame sauce, asian pear, toasted pine nuts topped with quail egg yolk.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54553998",
+                    "name" : "Ankimo",
+                    "description" : "Monk fish pate, wasabi fish roe. Ponzu.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554021",
+                    "name" : "Tataki Nigri Trio ",
+                    "description" : "Chefs Choice of three pieces seared sushi with assorted toppings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54554043",
+                    "name" : "Sunomono",
+                    "description" : "Assorted sashimi in light citrus vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554068",
+                    "name" : "Hamachi Crudo",
+                    "description" : "Sliced yellowtail, jalapeno, cilantro and yuzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554093",
+                    "name" : "Sashimi Sundae",
+                    "description" : "Salmon, tuna, albacore, avocado, korean pear, masago, spicy sauce, kaiware.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554103",
+                    "name" : "Sashimi Appetizers",
+                    "description" : "Chefs choice sampler of sashimi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7721700", 
+                "name" : "Soup, Salad, Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54554133",
+                    "name" : "House  Salad",
+                    "description" : "Mixed greens, fuji apples, doma vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54554151",
+                    "name" : "Cold Tofu Salad",
+                    "description" : "Tofu Cubes on a bed of greens, seaweed salad, sesame vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554167",
+                    "name" : "Tempura Calamari Salad",
+                    "description" : "Crispy calamari tempura tossed with greens, spicy samjang aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554174",
+                    "name" : "Tuina Tataki Salad",
+                    "description" : "Seared tuna sashimi over mixed greens, wasabi soy vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54554177",
+                    "name" : "Seaweed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54554183",
+                    "name" : "Miso Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54554187",
+                    "name" : "White Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54554189",
+                    "name" : "Sushi Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7721712", 
+                "name" : "Sushi, Sashimi",
+                "description" : "(Per piece)",
+                "items" : [
+                {
+                    "id" : "54554206",
+                    "name" : "Maguro",
+                    "description" : "Tuna",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554211",
+                    "name" : "Shiro Maguro",
+                    "description" : "Albacore.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554214",
+                    "name" : "Hirame",
+                    "description" : "Fluke.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554215",
+                    "name" : "Crab Stick",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54554217",
+                    "name" : "Hotate",
+                    "description" : "Scallops.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554223",
+                    "name" : "Wasabi Flying Fish Roe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554229",
+                    "name" : "Tako",
+                    "description" : "Octopus.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554233",
+                    "name" : "Hamachi",
+                    "description" : "Yellowtail",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554241",
+                    "name" : "Otoro",
+                    "description" : "Tuna belly",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554244",
+                    "name" : "Yellowtail Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54554249",
+                    "name" : "Sawara",
+                    "description" : "Spanish mackerel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554250",
+                    "name" : "Suzuki",
+                    "description" : "Striped bass.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554251",
+                    "name" : "Tai",
+                    "description" : "Red snapper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554255",
+                    "name" : "Ebi",
+                    "description" : "Shrimp.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554259",
+                    "name" : "Uni",
+                    "description" : "Sea urchin.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54554262",
+                    "name" : "Ika",
+                    "description" : "Squid",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54554266",
+                    "name" : "Ikura",
+                    "description" : "Salmon roe.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554275",
+                    "name" : "Tamago",
+                    "description" : "Egg custard.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54554281",
+                    "name" : "Salmon Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54554289",
+                    "name" : "Ankimo",
+                    "description" : "Monkfish pate.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554297",
+                    "name" : "Saba",
+                    "description" : "Boston mackerel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554304",
+                    "name" : "Unagi",
+                    "description" : "Feesh water eel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554308",
+                    "name" : "Sake",
+                    "description" : "Salmon.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554318",
+                    "name" : "Kani",
+                    "description" : "Snow crab.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54554320",
+                    "name" : "Masago",
+                    "description" : "Smelt roe.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54554328",
+                    "name" : "Amaebi",
+                    "description" : "Sweet shrimp.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54554335",
+                    "name" : "Inari",
+                    "description" : "Fried tofu pocket.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54554348",
+                    "name" : "Anago",
+                    "description" : "Sea eel.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54685634",
+                    "name" : "Smoked Salmon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7721732", 
+                "name" : "Signature Rolls",
+                "description" : "Inside (i), Outside (o)",
+                "items" : [
+                {
+                    "id" : "54554385",
+                    "name" : "Rock N Roll",
+                    "description" : "(Inside). Shrimp tempura, scallion, spicy mayo, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554397",
+                    "name" : "Spider",
+                    "description" : "(Inside). Soft shell crab tempura, avacado, fish eggs, wasabi mayo, spicy sprouts scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54559730",
+                    "name" : "Bibimbap",
+                    "description" : "(Inside). Seasoned spinach, beansprout, carrot, mushroom, cucumber, kochuang paste, sesame oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54559764",
+                    "name" : "Hamachi Verde",
+                    "description" : "(Inside). Avacoda, kanpyo, jalapeno, tobiko, scallion (outside) hamachi, kiwi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54559815",
+                    "name" : "Panchinko",
+                    "description" : "(Inside). Shrimp tempura, avocado, cucumber (outside) tuna, kiwi, salmon, mango, eel, strawberry and wasabi mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54559919",
+                    "name" : "Triple Spicy Double Tuna",
+                    "description" : "(Inside). Tuna, spicy sauce, siracha, tempura crunch, scallion, (outside) seared albacore, sichimi pepper, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54559978",
+                    "name" : "Yakuza",
+                    "description" : "(Inside). Soft shell crab tempura mixed with tobiko, spicy mayo, cucumber (outside) softshell crab tempura spicy mix, chili sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54560142",
+                    "name" : "Ooki Eel Roll",
+                    "description" : "(Inside). Eeel, avocado, cream cheese roll lightly battered (outside) spicy tuna, tempura crunch, scallion, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54560197",
+                    "name" : "Spring Garden",
+                    "description" : "(Inside). Cooked shrimp, avocado, cucumber, frisee lettuce, wasabi mayo, masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54560328",
+                    "name" : "Naked Salmon",
+                    "description" : "Spicy salmon tartare, avocado, over crispy sticky rice, massago and jalapeno slices on top. ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54560356",
+                    "name" : "Philly",
+                    "description" : "Salmon, cream cheese, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54560408",
+                    "name" : "Medusa",
+                    "description" : "(Inside), Shrimp tempura, avocado cpicy sprouts, spicy mayo (outside) lump crab salad, wasabi mayo, red tabiko, scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54560469",
+                    "name" : "Dragon",
+                    "description" : "(Inside). Eel, cucumber, tempura crunch (outside) sliced avocado, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560522",
+                    "name" : "Doma",
+                    "description" : "(Inside) assoretd sashimi, mango, avocado, spicy sprouts, tobiko wrapped with thinly sliced cucumber, yuzu sauce (no rice)",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54560570",
+                    "name" : "Chloe",
+                    "description" : "(Inside). Eel, spicy sprouts, scallion (outside) spicy salmon crunch, wrapped with soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560635",
+                    "name" : "Island",
+                    "description" : "(Inside). Salmon, spicy aioli, tempura crunch, (outside) salmon, mango, wasabi tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560745",
+                    "name" : "D.I.Y. Hand Roll",
+                    "description" : "Tuna or salmon tartar, cucumber, avocado, spicy sprouts, tobiko, spicy aioli, nori, and sushi  rice to make your own custom hand roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54560804",
+                    "name" : "Rachel",
+                    "description" : "(Inside). Smoked salmon, cream cheese, avocado, lightly battered, topped with tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54560842",
+                    "name" : "Tuna Club",
+                    "description" : "Crunch spicy tuna tartar and acocado made with soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54560873",
+                    "name" : "Lobster Tempura",
+                    "description" : "Lobster tempura, mixed greens, korean pear, kaiware, tobiko wrapped in soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54560896",
+                    "name" : "Omakase",
+                    "description" : "6 individually prepared maki pieces with chefs selection of fish and assorted toppings of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7722581", 
+                "name" : "Bento Box",
+                "description" : "Salad, rice or calif. roll, shrimp shumai.",
+                "items" : [
+                {
+                    "id" : "54560940",
+                    "name" : "Choice Of Salmon, Chicken Or Tofu Teriyaki.",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560960",
+                    "name" : "Tonkastu",
+                    "description" : "Deep fried panko breaded pork or chicken cutlet.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560973",
+                    "name" : "Bulgogi",
+                    "description" : "Thinly sliced rib eye bbq in our special marinade.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54560992",
+                    "name" : "Kalbi",
+                    "description" : "Char grilled Beef short rib bbq, marinated in sesame garlic soy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54561003",
+                    "name" : "Shrimp And Vegetable Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7722594", 
+                "name" : "Noodles, Rice Bowls",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54561026",
+                    "name" : "Tempura Udon With California Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54561145",
+                    "name" : "Hot Stone Bibimbap",
+                    "description" : "Sizzling korean stone pot with rice assorted seasoned vegetables and mildly spicy kochujang sauce served with soup. (vegetable, beef and egg, smelt roe)",
+                    "sizes" : [
+                        { "name" : "(Veg)",  "price" : "12" }
+,                        { "name" : "(Beef)",  "price" : "15" }
+,                        { "name" : "(Roe)",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54561230",
+                    "name" : "Hwe Dup Bap",
+                    "description" : "Diced salmon, white fish and tuna, assorted vegetables over seasoned rice with spicy  kochujang vinaigarette sauce served with soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54561293",
+                    "name" : "Katsudon",
+                    "description" : "Breaded pork or chicken cutlet prepared with egg and onion dashi broth over a bed of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7722636", 
+                "name" : "Sushi Bar",
+                "description" : "Served with soup or salad.",
+                "items" : [
+                {
+                    "id" : "54561390",
+                    "name" : "Sushi, California, Shrimp Tempura Roll",
+                    "description" : "Assorted 4 pieces sushi , 3 piece california 1 shrimp tempura roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54561463",
+                    "name" : "Sushi, Spicy Tuna Roll",
+                    "description" : "Assorted 6 piece sushi 1 spicy tuna roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54561508",
+                    "name" : "Sushi, Spicy Yellowtail ROll",
+                    "description" : "Assorted 8 piecessushi 1 spicy yellowtail roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54561531",
+                    "name" : "Sashimi  Lunch",
+                    "description" : "Assorted 12 piece sashimi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18" }
+                    ]
+                },
+                {
+                    "id" : "54561580",
+                    "name" : "Sushi Sashimi Combo",
+                    "description" : "Assorted 6 piece sushi, 6 piece sashimi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54561627",
+                    "name" : "T Y S ",
+                    "description" : "Spicy tuna yellowtail scallion, salmon, avocado roll combo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54561657",
+                    "name" : "Chirashi ",
+                    "description" : "Assorted sashimi over bed of seasoned rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54561681",
+                    "name" : "Hand Roll Trio",
+                    "description" : "Spicy california, eel and cucumber, salmon avocado hand roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724461", 
+                "name" : "Hand Rolls",
+                "description" : "Extras - spicy mayo $0.50, tempura crunch $0.50, avocado $0.50, quail egg $1.00, cream cheese $1.00, flying fish roe $1.00",
+                "items" : [
+                {
+                    "id" : "54574508",
+                    "name" : "Snow Crab California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574514",
+                    "name" : "Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574518",
+                    "name" : "Asparagus",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574524",
+                    "name" : "Eel Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574527",
+                    "name" : "Albacore Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574535",
+                    "name" : "Kanpyo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574540",
+                    "name" : "Vegetarian",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54574547",
+                    "name" : "Shiitake Mushroom",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574553",
+                    "name" : "Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574558",
+                    "name" : "Yellowtail Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574563",
+                    "name" : "Ochinko",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574566",
+                    "name" : "Salmon Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574571",
+                    "name" : "Sweet Potato Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574582",
+                    "name" : "Ume Shiso Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574588",
+                    "name" : "Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "54574591",
+                    "name" : "California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54574593",
+                    "name" : "Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574602",
+                    "name" : "Toro Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54574607",
+                    "name" : "Crunchy Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "54574610",
+                    "name" : "Salmon Skin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574616",
+                    "name" : "Spicy Scallop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724489", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54574712",
+                    "name" : "Beverages",
+                    "description" : "Coke, diet coke, sprite, ginger ale, iced tea, coffee.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54574719",
+                    "name" : "Iced Green Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574723",
+                    "name" : "Voss Sparkling Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                }]
+            }]
+        },
+        {
+            "id" : "3",
+            "name" : "Dinner",
+            "categories" : [
+            {
+                "id" : "7721695", 
+                "name" : "Cold Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54554097",
+                    "name" : "Tartare Trio",
+                    "description" : "Tuna, salmon and yellowtail tartare.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54554108",
+                    "name" : "Salmon Carpaccio",
+                    "description" : "Thinly sliced seared salmon, soy onion vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54554128",
+                    "name" : "Whitefish Carpaccio",
+                    "description" : "Thinly sliced whitefish, shiso, scallion with kochujang and light vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554137",
+                    "name" : "Uni Trio",
+                    "description" : "Sea urchin prepared in three different ways.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54554145",
+                    "name" : "Octopus Ceviche",
+                    "description" : "Thinly sliced octopus with japanese mango salsa.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54554198",
+                    "name" : "Oyster Uni Ikura",
+                    "description" : "Two seasonal raw oysters topped with uni, salmon roe, scallion, tobiko in ponzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554204",
+                    "name" : "Tuna Yook Hwe",
+                    "description" : "Korean style tartare tossed in sweet sesame sauce, asian pear, toasted pine nuts topped with quail egg yolk.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554221",
+                    "name" : "Ankimo",
+                    "description" : "Monk fish pate, wasabi fish roe, ponzu.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554226",
+                    "name" : "Tataki Nigiri Trio",
+                    "description" : "Chef's choice of three pieces seared sushi with assorted topping.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54554234",
+                    "name" : "Sunomono",
+                    "description" : "Assorted sashimi in light citrus vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554282",
+                    "name" : "Hamachi Crudo",
+                    "description" : "Sliced yellowtail, jalapeno, cilantro and yuzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554292",
+                    "name" : "Sashimi Sundae",
+                    "description" : "Salmon, tuna, albacore, avocado, korean pear, masago, spicy sauce, kaiware.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54554301",
+                    "name" : "Sashimi Appetizer",
+                    "description" : "Chef's choice sampler of sashimi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7721724", 
+                "name" : "Hot Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54554311",
+                    "name" : "Edamame",
+                    "description" : "Steamed soybean with sea salt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54554319",
+                    "name" : "Jumbo Ebi Shumai",
+                    "description" : "Steamed jumbo shrimp dumpling served with ginger soy vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54554330",
+                    "name" : "Dok Bok Ki",
+                    "description" : "Grilled rice cake, roasted onions, spicy kochujang glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54554340",
+                    "name" : "Spicy Pork Gyoza Salad",
+                    "description" : "Deep fried pork dumplings over spicy asian slaw.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554350",
+                    "name" : "Rock Shrimp Tempura",
+                    "description" : "Tossed in ssamjang aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554358",
+                    "name" : "Stuffed Jalapeno Tempura",
+                    "description" : "Tuna, cream cheese, scallion, lightly battered topped with sweet glaze and chili sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54554370",
+                    "name" : "Okonomiyaki",
+                    "description" : "Japanese style seafood pancake with bacon, assorted julienne vegetables, bonito shavings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54554381",
+                    "name" : "Stuffed Jalapeno Tempura",
+                    "description" : "Tuna, cream cheese, scallion, lightly battered topped with eel sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54554386",
+                    "name" : "Agotofu",
+                    "description" : "Lightly battered tofu in a soy dashi broth with bonito flake.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54554392",
+                    "name" : "Tempura Sampler",
+                    "description" : "Lightly fried shrimp and assorted seasonal vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574191",
+                    "name" : "Fried Oyster",
+                    "description" : "Served wtih tonkasu sauce and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54574244",
+                    "name" : "Steamed Buns",
+                    "description" : "Pair of buns served with pickled cucumber, scallion and special house sauce, pork belly, fried oyster, shitake mushroom add an additional bun for $4.00.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574276",
+                    "name" : "Bo Saam Wrap",
+                    "description" : "Braised pork belly, seasonel raw oyster, julienne radish kimchi and bibb lettuce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54574279",
+                    "name" : "Soft Shell Crab Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724434", 
+                "name" : "Soup, Salads, Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54574296",
+                    "name" : "House Salad",
+                    "description" : "Mixed greens, fuji apples, doma vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574306",
+                    "name" : "Cold Tofu Salad",
+                    "description" : "Tofu cubes on a bed of greens, seaweed salad, sesame vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574318",
+                    "name" : "Tempura Calamari Salad",
+                    "description" : "Crispy calamari tempura tossed with mixed greens, spicy samjang aioli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574332",
+                    "name" : "Tuna Tataki Salad",
+                    "description" : "seared tuna sashimi over mixed greens, wasabi soy vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54574339",
+                    "name" : "Seaweed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574350",
+                    "name" : "Miso Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54574353",
+                    "name" : "White Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54574359",
+                    "name" : "Sushi Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724446", 
+                "name" : "Entrees",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54574385",
+                    "name" : "Scottish Salmon Teriyaki Or Shioyaki",
+                    "description" : "Broiled with sea salt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                },
+                {
+                    "id" : "54574393",
+                    "name" : "Chilean Sea Bass",
+                    "description" : "Marinated in saikyo miso.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "24" }
+                    ]
+                },
+                {
+                    "id" : "54574401",
+                    "name" : "Chicken Kushiyaki And Yakiudon",
+                    "description" : "Chicken teriyaki skewers with sauteed noodle and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "54574419",
+                    "name" : "Tonkatsu",
+                    "description" : "Panko breaded pork or chicken cutlet served with tonkatu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54574445",
+                    "name" : "Hot Stone Bibimbap",
+                    "description" : "Sizzling korean stone pot with rice, assorted seasoned vegetables and spicy kochujang sauce, vegetable, beef &amp; egg yolk, smelt roe.",
+                    "sizes" : [
+                        { "name" : "(Veg)",  "price" : "12" }
+,                        { "name" : "(Beef)",  "price" : "15" }
+,                        { "name" : "(Smelt)",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54574463",
+                    "name" : "Nabeyaki Udon",
+                    "description" : "Udon noodles with poached egg and vegetables with shrimp tempura.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54574472",
+                    "name" : "Kalbi",
+                    "description" : "Char grilled beef short rib marinated in korean sesame garlic soy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724462", 
+                "name" : "Doma Dinner Bento",
+                "description" : "Jalanese dinner box with a variety of delicious dishes, served with soup, salad, rice, ice cream.",
+                "items" : [
+                {
+                    "id" : "54574510",
+                    "name" : "Zen",
+                    "description" : "Grilled kalbi, shrimp tempura 4 pcs of sushi, spicy tuna roll, and shrimp shumai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "36" }
+                    ]
+                },
+                {
+                    "id" : "54574523",
+                    "name" : "Hana",
+                    "description" : "Salmon teriyaki yakitori,, 4 pcs of sashimi, spicy yellowtail roll, and shrimp shumai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "32" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724471", 
+                "name" : "Sushi Bar",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54574557",
+                    "name" : "Sushi",
+                    "description" : "Assorted 7 piece sushi and spicy tuna roll, assorted 10 pieces sushi and spicy.",
+                    "sizes" : [
+                        { "name" : "(Reg)",  "price" : "19" }
+,                        { "name" : "(Deluxe)",  "price" : "24" }
+                    ]
+                },
+                {
+                    "id" : "54574664",
+                    "name" : "Sashimi",
+                    "description" : "Assorted 10 piece assortment of sashimi, assorted 16 piece assortment of sashimi.",
+                    "sizes" : [
+                        { "name" : "(Reg)",  "price" : "20" }
+,                        { "name" : "(Deluxe)",  "price" : "28" }
+                    ]
+                },
+                {
+                    "id" : "54574679",
+                    "name" : "Sushi Sashimi Omakase",
+                    "description" : "Chef's choice of today's finest fish, 8 piece sushi, 6 piece sashimi, 1 special roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "42" }
+                    ]
+                },
+                {
+                    "id" : "54574693",
+                    "name" : "Hwe Dup Bap",
+                    "description" : "Diced salmon, white fish and tuna, assorted vegetables over seasoned rice with spicy kochujang vinaigrette sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "54574702",
+                    "name" : "Chirashi",
+                    "description" : "Assorted sashimi over seasoned rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21" }
+                    ]
+                },
+                {
+                    "id" : "54574713",
+                    "name" : "TYS Roll Or Hand Roll Combo",
+                    "description" : "Spicy tuna, yellowtail and scallion, salmon avocado roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724490", 
+                "name" : "Sushi - Sashimi",
+                "description" : "(Per piece).",
+                "items" : [
+                {
+                    "id" : "54574726",
+                    "name" : "Maguro Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574730",
+                    "name" : "Saba Baston Mackerel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574733",
+                    "name" : "Suzuki Striped Bass",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574737",
+                    "name" : "Hirame Fluke",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574739",
+                    "name" : "Sake Salmon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574742",
+                    "name" : "Ebi Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574745",
+                    "name" : "Hotate Scallop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574749",
+                    "name" : "Kani Snow Crab",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574751",
+                    "name" : "Ika Squid",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54574755",
+                    "name" : "Tako Octopus",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574756",
+                    "name" : "Amaebi Sweet Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54574757",
+                    "name" : "Tamago Egg Custard",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54574759",
+                    "name" : "Otoro Tuna Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574763",
+                    "name" : "Anago Sea Eel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54574766",
+                    "name" : "Ankimo Monkfish Pate",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574774",
+                    "name" : "Sawara Spanish Mackerel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574779",
+                    "name" : "Shiro Maguro Abacore",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574786",
+                    "name" : "Unagi Fresh Water Eel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574788",
+                    "name" : "Tar Red Snapper",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574792",
+                    "name" : "Crab Stick",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54574796",
+                    "name" : "Smoked Salmon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574798",
+                    "name" : "Uni Sea Urchin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54574803",
+                    "name" : "Wasabi Flying Fish Roe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574807",
+                    "name" : "Masago Smelt Roe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574809",
+                    "name" : "Ikura Salmon Roe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574814",
+                    "name" : "Hamachi Yellowtail",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "54574816",
+                    "name" : "Inari Fried Tofu Pocket",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "54574818",
+                    "name" : "Salmon Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574821",
+                    "name" : "Yellowtail Belly",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7724508", 
+                "name" : "Hand Rolls",
+                "description" : "Extras spicy sauce $0.50, tempura crunch $0.50, avocado $0.50, quail egg $1.00, cream cheese $1.00, flying fish egg $1.00.",
+                "items" : [
+                {
+                    "id" : "54574863",
+                    "name" : "Snow Crab California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574864",
+                    "name" : "Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "54574866",
+                    "name" : "Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54574868",
+                    "name" : "Asparagus",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574870",
+                    "name" : "Eel Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574872",
+                    "name" : "Albacore Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574876",
+                    "name" : "Salmon Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574880",
+                    "name" : "Crunchy Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "54574884",
+                    "name" : "Sweet Potato Tempura",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574887",
+                    "name" : "Vegetarian",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54574889",
+                    "name" : "Ume Shiso Cucumber",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574893",
+                    "name" : "Shiitake Mushroom",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574896",
+                    "name" : "Spicy Tuna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574898",
+                    "name" : "California",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "54574900",
+                    "name" : "Avocado",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574904",
+                    "name" : "Oshinko",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574907",
+                    "name" : "Yellowtail Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54574910",
+                    "name" : "Spicy Scallop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54574912",
+                    "name" : "Kanpyo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "54574915",
+                    "name" : "Salmon Skin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "54574918",
+                    "name" : "Toro Scallion",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7737868", 
+                "name" : "Signature Rolls",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54682251",
+                    "name" : "Rock N Roll",
+                    "description" : "(Inside). Shrimp tempura, scallion, spicy mayo, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54682273",
+                    "name" : "Spider",
+                    "description" : "(Inside). Soft shell crab tempura, avocado, fish eggs, wasabi mayo, spicy sprouts, scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54682283",
+                    "name" : "Bibimbap",
+                    "description" : "(Inside). Seasoed spinach, beansprout, carrot, mushroom, cucumber, kochujang paste, sesame oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54682328",
+                    "name" : "Hamachi Verde",
+                    "description" : "(Inside). Avocado, kanpyo, jalapeno, tobiko, scallion (Outside) hamachi, kiwi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54682406",
+                    "name" : "Pachinko",
+                    "description" : "(inside). Shrimp tempura, avocado, cucumber (outside) tuna, kiwi, salmon, mango, eel strawberry and wasabi mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54682452",
+                    "name" : "Triple Spicy Double Tuna",
+                    "description" : "(Inside). Tuna, spicy sauce, siracha, tempura crunch, scallion, (outside) seared albacore, sichimi pepper, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54682496",
+                    "name" : "Yakuza",
+                    "description" : "(Inside). Soft shell crab tempura mixed with tobiko, spicy mayo, cucumber (outside) crab tempura spicy mix, chili sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54682568",
+                    "name" : "Ooki Eel",
+                    "description" : "(Inside). Eel, avocado, cream cheese roll lightly battered (outside) spicy tuna, tempura crunch, scallion, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54682601",
+                    "name" : "Spring Garden",
+                    "description" : "(Inside). Cooked shrimp, avocado, cucumber, frisee lettuce, wasabi mayo, masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54682623",
+                    "name" : "Naked Salmon",
+                    "description" : "Spicy salmon tartare, avocado, over crispy sticky rice, masago and jalapeno slices on top.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54682629",
+                    "name" : "Philly",
+                    "description" : "Salmon, cream cheese, cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "54682675",
+                    "name" : "Medusa",
+                    "description" : "(Inside). Shrimp tempura, avocado, spicy sprouts, spicy mayo (outside) lump crab salad, wasabi mayo, red tabiko, scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54682704",
+                    "name" : "Dragon",
+                    "description" : "(Inside). Eel, cucumber, tempura crunch (outside) sliced avocado, tobiko, sweet glaze.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54682729",
+                    "name" : "Doma",
+                    "description" : "(Inside). Assorted sashimi, mango, avocado, spicy sprouts, tobiko, wrapped with thinly sliced cucumber, yuzu sauce (no rice).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54682760",
+                    "name" : "Chloe",
+                    "description" : "(Inside). Eel, spicy sprouts, scallion (outside) spicy salmon crunch, wrapped with soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54682823",
+                    "name" : "Island",
+                    "description" : "(Inside). Salmon, spicy aioli, tmpura crunch, (outside) salmon, mango, wasabi tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54682877",
+                    "name" : "DIY Hand Roll",
+                    "description" : "Tuna or salmon tartar, cucumber, avocado, spicy sprouts, tobiko, spicy aioli, nori, and sushi rice to make your own custom hand roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                },
+                {
+                    "id" : "54683027",
+                    "name" : "Tuna Club",
+                    "description" : "Crunch spicy tuna tartar and avocado made with soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54683056",
+                    "name" : "Rachel",
+                    "description" : "(Inside). Smoked salmon, cream cheese, avocado, lightly battered, topped with tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54683102",
+                    "name" : "Lobster Tempura Roll",
+                    "description" : "Lobster tempura, mixed greens, korean pear, kaiware, tobiko wrapped in soybean paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54683159",
+                    "name" : "Omakase",
+                    "description" : "6 Individually prepared maki pieces with chef's selection of fish and assorted toppings of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7737987", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54683222",
+                    "name" : "Beverages",
+                    "description" : "Coke, diet coke, sprite, ginger ale, iced tea, coffee.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "54683228",
+                    "name" : "Iced Green Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "54683238",
+                    "name" : "Voss Sparkling Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

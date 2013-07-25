@@ -1,0 +1,119 @@
+stdClass Object
+(
+    [is_claimed] => 
+    [rating] => 3.5
+    [mobile_url] => http://m.yelp.com/biz/tasty-chicken-brooklyn
+    [rating_img_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png
+    [review_count] => 6
+    [name] => Tasty Chicken
+    [snippet_image_url] => http://s3-media2.ak.yelpcdn.com/photo/Gk1oWyxNl4gMF7xJswRd_g/ms.jpg
+    [rating_img_url_small] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+    [url] => http://www.yelp.com/biz/tasty-chicken-brooklyn
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => Back to the original name, Tasty Chicken has some excellent fried comfort food. 
+
+I fell in love with them years ago when i tried their jalepano poppers! Of...
+                    [time_created] => 1296604261
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/Gk1oWyxNl4gMF7xJswRd_g/ms.jpg
+                            [id] => EUlfxYKZSO7esvntG3HfOQ
+                            [name] => Louis P.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => wSwh3Orv5D96DWCfD8WQig
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => This place is okay. Food quality is okay, prices are pretty standard. Nothing memorable. Ordered delivery. Phone person was friendly.
+                    [time_created] => 1338331195
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/photo/b92HjRnbM5DcaWEsxRV72w/ms.jpg
+                            [id] => fOruG48ap2pQwbk2en4n_g
+                            [name] => M M.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => zNcnUtG1pclFz9kFOCVdQA
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => soooo after my deep love for Vinny's chicken i never thought anything else would compare but this place is reallyy good. I usually go with spicy chicken on...
+                    [time_created] => 1333170286
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/v38iIyYIqg2qTARaHF-T6w/ms.jpg
+                            [id] => ppQVbzHl2wVhhT8E05Q1mQ
+                            [name] => Christine Q.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => lmKOwacdD_QzGleNJpV7lA
+                )
+
+        )
+
+    [phone] => 7182591111
+    [snippet_text] => Back to the original name, Tasty Chicken has some excellent fried comfort food. 
+
+I fell in love with them years ago when i tried their jalepano poppers! Of...
+    [image_url] => http://s3-media3.ak.yelpcdn.com/bphoto/GQ1_cDb3-xSQPCZlxzhArw/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => American (Traditional)
+                    [1] => tradamerican
+                )
+
+        )
+
+    [display_phone] => +1-718-259-1111
+    [rating_img_url_large] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png
+    [id] => tasty-chicken-brooklyn
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [cross_streets] => 17th Ave & Bay 16th St
+            [city] => Brooklyn
+            [display_address] => Array
+                (
+                    [0] => 1709 86th St
+                    [1] => (b/t 17th Ave & Bay 16th St)
+                    [2] => Bath Beach
+                    [3] => Brooklyn, NY 11214
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Bath Beach
+                    [1] => Bensonhurst
+                )
+
+            [postal_code] => 11214
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 1709 86th St
+                )
+
+            [state_code] => NY
+        )
+
+)

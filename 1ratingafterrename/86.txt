@@ -1,0 +1,118 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/regency-cafe-lansdowne
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 22
+    [name] => Regency Cafe
+    [snippet_image_url] => http://s3-media1.ak.yelpcdn.com/photo/lfIYCQRAgZ8yzpTyIzmahg/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/regency-cafe-lansdowne
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => Oh. My. *Goodness!* I love this little place. I've only been here for 20 minutes and I know I'll be back. The staff are wonderfully friendly and warm. They...
+                    [time_created] => 1363527921
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/lfIYCQRAgZ8yzpTyIzmahg/ms.jpg
+                            [id] => ZhvQtpT0WKTcKcBmp-rKow
+                            [name] => Lindsey T.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => BfGL7uR9nGGYDbQXEi-TIQ
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 3
+                    [excerpt] => Regency Cafe has some friendly staff and great coffee.  It's usually crowded but never full or difficult to find a seat.  There's a wide selection of...
+                    [time_created] => 1369960977
+                    [rating_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png
+                    [rating_image_small_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/D_T59jwNrDdPEs6vx7X_hw/ms.jpg
+                            [id] => 2HyekJejRMDk4fXF8H3H6A
+                            [name] => Adam R.
+                        )
+
+                    [rating_image_large_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png
+                    [id] => 2L9SqzxfRpQacFKdsHPdoQ
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => Lansdowne at one time had two 'Satellite Restaurants' from Philadelphia: Horn & Hardart's and Linton's. A local Cafe called the Marlin, too; and they were...
+                    [time_created] => 1335994770
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/fpndBzZKg6JL0ewGEZRcrg/ms.jpg
+                            [id] => E_9Mix_1Z2njw4ct7VRCGw
+                            [name] => Anthony R.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => 2VXmY0HIYkTMW8I6DN2-cw
+                )
+
+        )
+
+    [phone] => 4844619002
+    [snippet_text] => Oh. My. *Goodness!* I love this little place. I've only been here for 20 minutes and I know I'll be back. The staff are wonderfully friendly and warm. They...
+    [image_url] => http://s3-media4.ak.yelpcdn.com/bphoto/Bvr_snuzuHNyUCUe4D71GA/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Bakeries
+                    [1] => bakeries
+                )
+
+            [1] => Array
+                (
+                    [0] => Coffee & Tea
+                    [1] => coffee
+                )
+
+            [2] => Array
+                (
+                    [0] => Cafes
+                    [1] => cafes
+                )
+
+        )
+
+    [display_phone] => +1-484-461-9002
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => regency-cafe-lansdowne
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Lansdowne
+            [display_address] => Array
+                (
+                    [0] => 29 N Lansdowne Ave
+                    [1] => Lansdowne, PA 19050
+                )
+
+            [postal_code] => 19050
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 29 N Lansdowne Ave
+                )
+
+            [state_code] => PA
+        )
+
+)

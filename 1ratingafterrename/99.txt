@@ -1,0 +1,123 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/kabila-cuisine-of-india-union-city
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 121
+    [name] => Kabila Cuisine Of India
+    [snippet_image_url] => http://s3-media4.ak.yelpcdn.com/photo/I53VoWTsBd4A-PpKVrfP-A/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/kabila-cuisine-of-india-union-city
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => I've always been told that you know you've walked into a damn good Indian restaurant when a majority of the customers are Indian.
+
+Kabila is just that....
+                    [time_created] => 1374017264
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/I53VoWTsBd4A-PpKVrfP-A/ms.jpg
+                            [id] => -hGWRHjjoXop5TKcQKptMQ
+                            [name] => Audrey C.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => CCpbFoR351sZ3yg5B5ejvg
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => The food was great!  Tried the lamb punjaba, chicken Masala and garlic naan.
+
+Service was good, servers were friendly and helpful and greeted  with a...
+                    [time_created] => 1373692601
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/tgBp0qBS_ZM0U4JLhipw9g/ms.jpg
+                            [id] => G9kgWg4gIw_77PioVQWpKw
+                            [name] => Ronnie G.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => VRPq3leNI6DFGofCk8vdeA
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => I am a huge fan of Kabila! I've been coming to this restaurant for about 5 years now. My whole family loves their food!
+
+My all time favorite go to dish is...
+                    [time_created] => 1367222137
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media2.ak.yelpcdn.com/photo/DyG0_gZ-7mY8gy01U2b4rw/ms.jpg
+                            [id] => EGBvo-7i6ieSj7olW-rB7g
+                            [name] => Parleen S.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => mblMW4Uew-ItC670_M-rLQ
+                )
+
+        )
+
+    [phone] => 5104716666
+    [snippet_text] => I've always been told that you know you've walked into a damn good Indian restaurant when a majority of the customers are Indian.
+
+Kabila is just that....
+    [image_url] => http://s3-media4.ak.yelpcdn.com/bphoto/XnZZMKbPfk8MggNoNPNtMA/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Indian
+                    [1] => indpak
+                )
+
+            [1] => Array
+                (
+                    [0] => Caterers
+                    [1] => catering
+                )
+
+        )
+
+    [display_phone] => +1-510-471-6666
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => kabila-cuisine-of-india-union-city
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [cross_streets] => Hesperian Blvd & Kohoutek Way
+            [city] => Union City
+            [display_address] => Array
+                (
+                    [0] => 29286 Union City Blvd
+                    [1] => (b/t Hesperian Blvd & Kohoutek Way)
+                    [2] => Union City, CA 94587
+                )
+
+            [postal_code] => 94587
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 29286 Union City Blvd
+                )
+
+            [state_code] => CA
+        )
+
+)
+Pip

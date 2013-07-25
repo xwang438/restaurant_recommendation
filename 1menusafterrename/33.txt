@@ -1,0 +1,1289 @@
+{
+    "menu" : {
+        "id" : "292128",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8893854", 
+                "name" : "Drinks",
+                "description" : "Drinks",
+                "items" : [
+                {
+                    "id" : "63248573",
+                    "name" : "20 oz. Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63248574",
+                    "name" : "16.9 oz. Poland Spring",
+                    "description" : "Bottle water.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63248575",
+                    "name" : "20 oz. Vitamin Water Dragon Fruit",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63248576",
+                    "name" : "5 Hour Energy Bottle",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63248577",
+                    "name" : "8.4 oz. Red Bull",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63248578",
+                    "name" : "2 Liter Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893855", 
+                "name" : "Cold Appetizers and Salads",
+                "description" : "Cold Appetizers and Salads",
+                "items" : [
+                {
+                    "id" : "63248579",
+                    "name" : "Samosa Chat",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248580",
+                    "name" : "Dahi Puri",
+                    "description" : "Served with chick peas, potatoes and topped with yogurt and tamarind sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248581",
+                    "name" : "Tandoori Chicken Salad",
+                    "description" : "Mixed green salad with shredded chicken. Served with Indian style dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248582",
+                    "name" : "Chopped Kutchumber",
+                    "description" : "Chopped red onions, tomatoes, cucumbers and chick peas in a lemon dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248583",
+                    "name" : "Paani Poori",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248584",
+                    "name" : "Bhel Poori",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248585",
+                    "name" : "Haveli Garden Salad",
+                    "description" : "Green vegetables, nuts, tossed in a special house made salad dressing with spices and lemon juices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893856", 
+                "name" : "Non-Vegetarian Appetizers",
+                "description" : "Appetizers Non Vegetarian",
+                "items" : [
+                {
+                    "id" : "63248586",
+                    "name" : "Lamb Samosa",
+                    "description" : "Turnovers stuffed with minced lamb and spices. Served deep fried in vegetable oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63248587",
+                    "name" : "Chicken Pakora",
+                    "description" : "Cubes of boneless chicken spiced and dipped in chick pea batter. Deep fried in vegetable oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248588",
+                    "name" : "Shrimp Poori",
+                    "description" : "Fresh shrimp flavored with garlic, mustard seeds and curry leaves.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248589",
+                    "name" : "Haveli Mixed Platter for 2",
+                    "description" : "Combination of vegetarian and non-vegetarian appetizers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248590",
+                    "name" : "Haveli Diwani Kebab",
+                    "description" : "Chicken, fresh garlic, ginger and special spices served kebab style.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248591",
+                    "name" : "Chicken Tikki",
+                    "description" : "Boneless chicken pieces marinated in a yogurt and spice sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248592",
+                    "name" : "Kashmiri Kebab",
+                    "description" : "Chicken marinated in special spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248593",
+                    "name" : "Chili Chicken",
+                    "description" : "Marinated chicken cubes with green chili, fresh garlic, ginger, soy sauce and a twist of lemon. Sauteed with green onion and pepper in hot Chinese spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248594",
+                    "name" : "Shrimp Manchurian",
+                    "description" : "Crispy shrimp in a hot cilantro sauce.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "10.95" }
+,                        { "name" : "Large",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248596",
+                    "name" : "Chicken 65",
+                    "description" : "Curry leaf, garlic and garam masala tossed with chicken.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893857", 
+                "name" : "Vegetarian Appetizers",
+                "description" : "Appetizers Vegetarian",
+                "items" : [
+                {
+                    "id" : "63248597",
+                    "name" : "Onion Bhajia",
+                    "description" : "Sliced onions and spices rolled in chick peas, flour and deep fried.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248598",
+                    "name" : "Vegetarian Pakora",
+                    "description" : "Fritters. Spiced vegetables dipped in chick pea batter and deep fried.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248599",
+                    "name" : "Vegetarian Samosa",
+                    "description" : "Two triangular shaped pastry stuffed with mildly spiced potatoes, peas and deep fried.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248600",
+                    "name" : "Aloo Tikki",
+                    "description" : "Two triangular shaped pastry stuffed with mildly spiced potatoes, peas and deep fried.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248601",
+                    "name" : "Sabzi Platter for 2",
+                    "description" : "Combination of vegetarian appetizers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248602",
+                    "name" : "Haveli Sabzi Platter for 2",
+                    "description" : "Combination of vegetarian appetizers with cucumber salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63248603",
+                    "name" : "Chili Paneer",
+                    "description" : "Homemade cheese cubes sauteed with onion and green pepper in hot Chinese spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248604",
+                    "name" : "Gobi Manchurian",
+                    "description" : "Fresh cauliflower in a cilantro garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248605",
+                    "name" : "Corn Manchurian",
+                    "description" : "Fresh cauliflower in a cilantro garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248606",
+                    "name" : "Vegetarian Manchurian",
+                    "description" : "Sweet, sour and spicy vegetable dumplings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893858", 
+                "name" : "Soups",
+                "description" : "Soups",
+                "items" : [
+                {
+                    "id" : "63248607",
+                    "name" : "Mulligatawny Soup",
+                    "description" : "Lentil soup with chicken, rice and a touch of cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248608",
+                    "name" : "Vegetable Dal Soup",
+                    "description" : "Lentil soup with vegetables, wild spices and a twist of lemon.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248609",
+                    "name" : "Coconut Soup",
+                    "description" : "Coconut cream and sweetened milk. Served warm with pistachios.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248610",
+                    "name" : "Tomato Soup",
+                    "description" : "A tangy light tomato flavored soup with authentic Indian spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248611",
+                    "name" : "Corn Soup",
+                    "description" : "Fresh vegetable stock with fresh corn to make for a fine Indian soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893859", 
+                "name" : "Chicken Dinners",
+                "description" : "Chicken Dinners",
+                "items" : [
+                {
+                    "id" : "63248612",
+                    "name" : "Chicken Curry",
+                    "description" : "Skinless boneless chicken cooked in our mild curry sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248613",
+                    "name" : "Chicken Korma",
+                    "description" : "Boneless chicken cooked in a mild rich sauce with cashews and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248614",
+                    "name" : "Chicken Tikki Masala",
+                    "description" : "Tender boneless and skinless chicken breast marinated in a blend of ginger, garlic, yogurt and various spices. Baked in tandoor and sauteed with tomatoes, butter and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248615",
+                    "name" : "Chicken Saag",
+                    "description" : "Boneless chicken cooked with chopped spinach and Indian spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248616",
+                    "name" : "Chicken Vindaloo",
+                    "description" : "Very hot and spiced chicken cooked with potatoes and a touch of vinegar. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248617",
+                    "name" : "Chicken Gassi",
+                    "description" : "South Indian style fresh chicken cooked with coconut, red chili and roasted spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248618",
+                    "name" : "Chicken Chettinad",
+                    "description" : "South Indian style fresh chicken with lots of roasted spices and grated coconut. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248619",
+                    "name" : "Comdi Chicken",
+                    "description" : "Slow cooked chicken with spices Maharathan style. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248620",
+                    "name" : "Mugalai Murgh",
+                    "description" : "Boneless chicken pieces and mushrooms cooked in a mild spiced cream sauce and topped with cashew nuts.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248621",
+                    "name" : "Chicken Madras",
+                    "description" : "Pieces of boneless chicken in a special chili sauce and blended with spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248622",
+                    "name" : "Kadai Chicken",
+                    "description" : "Chicken sauteed with onion, fresh tomato, green pepper and cooked in a special Indian style hot pot. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248623",
+                    "name" : "Chicken Patia",
+                    "description" : "Mild spiced chicken cooked in mango, tomatoes, touch of sugar and lemon juice. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248624",
+                    "name" : "Chicken Bhunna",
+                    "description" : "Boneless chicken cooked with fresh cream, tomatoes and our favorite Indian spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893860", 
+                "name" : "Lamb Dinners",
+                "description" : "Lamb Dinners",
+                "items" : [
+                {
+                    "id" : "63248625",
+                    "name" : "Lamb Curry",
+                    "description" : "Tender cubed lamb cooked in our mild curry sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248626",
+                    "name" : "Lamb Saag",
+                    "description" : "Tender lamb cubes with chopped spinach and Indian spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248627",
+                    "name" : "Rogan Josh",
+                    "description" : "Lamb cubes cooked with tomatoes in fresh ground spices and yogurt sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248628",
+                    "name" : "Lamb Vindaloo",
+                    "description" : "Very hot and spiced lamb cooked with potatoes and a touch of vinegar. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248629",
+                    "name" : "Boti Kebab Masala",
+                    "description" : "Lamb marinated in a blend of ginger, garlic, yogurt and various spices. Baked in tandoor and sauteed with tomatoes, butter and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248630",
+                    "name" : "Lamb Pasanda",
+                    "description" : "Lamb cubes cooked with cream sauce, herbs, spices and topped with cashew nuts. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248631",
+                    "name" : "Keema Matter",
+                    "description" : "Minced meat and green peas cooked with fresh herbs. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248632",
+                    "name" : "Lamb Bhunna",
+                    "description" : "Lamb cubes cooked with fresh tomato, onion, green peppers and special sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248633",
+                    "name" : "Coconut Lamb Saag",
+                    "description" : "Fresh spinach, coconut, slow stew lamb and garlic chili. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248634",
+                    "name" : "Lamb Chettiand",
+                    "description" : "South Indian style lamb with lots of roasted spices and grated coconut. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248635",
+                    "name" : "Marathi Gosht",
+                    "description" : "Slow cooked lamb in Maharathan style with poppy seeds and sesame seeds. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893861", 
+                "name" : "Seafood Dinners",
+                "description" : "Seafood Dinners",
+                "items" : [
+                {
+                    "id" : "63248636",
+                    "name" : "Shrimp Curry",
+                    "description" : "Shrimp cooked with onion and fresh tomatoes. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248637",
+                    "name" : "Fish Masala Dinner",
+                    "description" : "Fresh selected pieces of salmon cooked in a creamy tomato sauce with onion and green pepper. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248638",
+                    "name" : "Shrimp Tandoori Masala",
+                    "description" : "Shrimp cooked in a creamy tomato sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248639",
+                    "name" : "Shrimp Saag Dinner",
+                    "description" : "Shrimp cooked with spinach and our favorite Indian spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248640",
+                    "name" : "Shrimp Kadahi",
+                    "description" : "Shrimp cooked in a thick sauce with onions, tomatoes and bell peppers. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248641",
+                    "name" : "Shrimp Vindaloo",
+                    "description" : "Shrimp cooked with pieces of potato, fresh tomato and a touch of garlic in a very hot spiced curry. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248642",
+                    "name" : "Shrimp Achari",
+                    "description" : "Shrimp cooked with our chef's favorite spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248643",
+                    "name" : "Shrimp Moilee",
+                    "description" : "Shrimp with tempered mustard seed, curry leaf, ginger, garlic and smothered in a coconut milk sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248644",
+                    "name" : "Prawn Gassi",
+                    "description" : "South Indian style with jumbo shrimp in roasted spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248645",
+                    "name" : "Goan Fish Curry",
+                    "description" : "Cinnamon and clove infused Portuguese style market fish with malt vinegar. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63248646",
+                    "name" : "Goan Shrimp Curry",
+                    "description" : "Cinnamon and clove infused Portuguese style market shrimp with malt vinegar. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248647",
+                    "name" : "Meen Moilee",
+                    "description" : "Market fish with tempered curry leaf, ginger and garlic in a coconut milk sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893862", 
+                "name" : "Vegetarian Dinners",
+                "description" : "Vegetarian Dinners",
+                "items" : [
+                {
+                    "id" : "63248648",
+                    "name" : "Aloo Palak",
+                    "description" : "Potatoes cooked with chopped spinach in a special blend of spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248649",
+                    "name" : "Aloo Gobi",
+                    "description" : "Potatoes and cauliflower cooked with herb and spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248650",
+                    "name" : "Chana Masala",
+                    "description" : "Potatoes and chick peas cooked with herbs and Indian spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248651",
+                    "name" : "Saag Mushroom",
+                    "description" : "Spinach and mushrooms cooked with mild spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248652",
+                    "name" : "Saag Paneer",
+                    "description" : "Fresh homemade cottage cheese with spinach and fresh spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248653",
+                    "name" : "Shaahi Paneer",
+                    "description" : "Homemade cheese cooked in a creamy tomato sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248654",
+                    "name" : "Baigan Bhartha",
+                    "description" : "Eggplant cooked with green peas, onions, tomatoes and flavored with fresh ginger spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248655",
+                    "name" : "Baigan Masala",
+                    "description" : "Small eggplant stuffed with our chef's special sauces. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248656",
+                    "name" : "Navarattan Korma Curry",
+                    "description" : "Mushroom and fresh vegetables cooked in a thick cream sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248657",
+                    "name" : "Malai Kofta",
+                    "description" : "Vegetable balls deep fried and cooked with delicious gravy topped with sour cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248658",
+                    "name" : "Mattar Paneer",
+                    "description" : "Green peas and homemade cheese cooked in a thick curry sauce with fresh tomatoes. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248659",
+                    "name" : "Dal Makhani",
+                    "description" : "Lentils flavored with freshly ground spices and sauteed in butter. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63248660",
+                    "name" : "Bhindi Masala",
+                    "description" : "Fresh okra cooked with fresh onion Indian style. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248661",
+                    "name" : "Kadai Paneer",
+                    "description" : "Homemade cheese cooked in our special Indian style, spiced and sauteed with fresh tomato, onion, green pepper and served hot pot style. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248662",
+                    "name" : "Banglore Gassi",
+                    "description" : "South Indian style mixed vegetables with fresh coconut and roasted coriander spice. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248663",
+                    "name" : "Baigan Dahi Wala",
+                    "description" : "Fresh baby eggplant cooked with yogurt and spices in a mild sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893863", 
+                "name" : "Kebab Specials",
+                "description" : "Kebab Specials",
+                "items" : [
+                {
+                    "id" : "63248664",
+                    "name" : "Chicken Tandoori",
+                    "description" : "Spring chicken marinated in yogurt and ten different spices.",
+                    "sizes" : [
+                        { "name" : "Half",  "price" : "12.95" }
+,                        { "name" : "Whole",  "price" : "23.95" }
+                    ]
+                },
+                {
+                    "id" : "63248665",
+                    "name" : "Chicken Tikki Kebab",
+                    "description" : "Boneless chicken pieces marinated in yogurt and blended spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248666",
+                    "name" : "Seekh Kebab",
+                    "description" : "Minced lamb meat mixed with green peppers, delicately flavored with ginger and barbecued on skewers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248667",
+                    "name" : "Boti Kebab",
+                    "description" : "Tender chunks of lamb flavored with ginger and garlic cooked to perfection.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63248668",
+                    "name" : "Shrimp Tandoori Kebab",
+                    "description" : "Jumbo shrimp delicately spiced and marinated in yogurt and baked in oven tandoori style.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63248669",
+                    "name" : "Haveli Mixed Grill Kebab",
+                    "description" : "A platter of assorted tandoori favorites. Chicken tikki, seekh kebab, shrimp boti kebab and chicken tandoori.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63248670",
+                    "name" : "Fish Tandoori Kebab",
+                    "description" : "Marinated salmon fish cooked with garlic, ginger, lemon and a touch of Indian spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63248671",
+                    "name" : "Angare Duck Kebab",
+                    "description" : "Crusted duck with cracked black pepper, garlic and spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63248672",
+                    "name" : "Murgh Malai Kebab",
+                    "description" : "Mild sour cream and yogurt marinated with spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248673",
+                    "name" : "Murgh Barrah Kebab",
+                    "description" : "Tender chicken breast with sour cream and saffron.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893864", 
+                "name" : "Rice Dishes",
+                "description" : "Rice Dishes",
+                "items" : [
+                {
+                    "id" : "63248674",
+                    "name" : "Chicken Biryani",
+                    "description" : "Basmati rice, tender cubes of chicken flavored with herbs and spices. Cooked with cashews or almonds. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248675",
+                    "name" : "Lamb Biryani",
+                    "description" : "Basmati rice, tender cubes of lamb flavored with herbs and spices. Cooked with cashews or almonds. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248676",
+                    "name" : "Shrimp Biryani",
+                    "description" : "Basmati rice, tender cubes of shrimp flavored with herbs and spices. Cooked with cashews or almonds. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63248677",
+                    "name" : "Vegetable Biryani",
+                    "description" : "Basmati rice and garden fresh vegetables. Cooked with cashews or almonds. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248678",
+                    "name" : "Haveli Biryani for 2",
+                    "description" : "Special biryani chicken, lamb and shrimp cooked with cashews or almonds. Served with raita and dal.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63248679",
+                    "name" : "Peas Pullao",
+                    "description" : "Basmati rice, green peas and a touch of lemon seeds. Cooked with cashews or almonds. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248680",
+                    "name" : "Lemon Rice",
+                    "description" : "Crackle mustard seed curry leaf with fresh lemon juice and basmati rice. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248681",
+                    "name" : "Jira Rice",
+                    "description" : "Crackle cumin seed with basmati rice. Served with raita.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248682",
+                    "name" : "Plain Basmati Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893865", 
+                "name" : "Indian Breads",
+                "description" : "Indian Breads",
+                "items" : [
+                {
+                    "id" : "63248683",
+                    "name" : "Roti",
+                    "description" : "Whole wheat dried bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63248684",
+                    "name" : "Naan",
+                    "description" : "Unleavened handmade bread baked in a clay oven.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63248685",
+                    "name" : "Paratha Plain",
+                    "description" : "Unleavened pan-fried multi-layer bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63248686",
+                    "name" : "Aloo Paratha",
+                    "description" : "Layered bread stuffed with potatoes and peas.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248687",
+                    "name" : "Pudina Paratha",
+                    "description" : "Buttered and layered whole wheat bread with dry mint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.25" }
+                    ]
+                },
+                {
+                    "id" : "63248688",
+                    "name" : "Poori",
+                    "description" : "Unleavened and deep fried puffed bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248689",
+                    "name" : "Garlic Naan",
+                    "description" : "Clay oven bread stuffed with fresh garlic and fresh coriander.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248690",
+                    "name" : "Chicken Naan",
+                    "description" : "Stuffed with boned tandoori chicken.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248691",
+                    "name" : "Onion Kulcha",
+                    "description" : "Clay oven bread stuffed with fresh onions, green chiles and coriander.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248692",
+                    "name" : "Keema Naan",
+                    "description" : "Clay oven bread stuffed with minced lamb and green peas with herbs and spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248693",
+                    "name" : "Haveli Special Naan",
+                    "description" : "Clay oven bread stuffed with fresh grated coconut, a touch of sugar and assorted nuts.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248694",
+                    "name" : "Half Haveli Bread Basket",
+                    "description" : "Special naan, onion kulcha and naan.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248695",
+                    "name" : "Full Haveli Bread Basket",
+                    "description" : "Alu paratha, garlic naan, naan, onion kulcha and pudina paratha.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893866", 
+                "name" : "Side Orders",
+                "description" : "Side Orders",
+                "items" : [
+                {
+                    "id" : "63248696",
+                    "name" : "Plain Yogurt",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63248697",
+                    "name" : "Raita",
+                    "description" : "Dipping sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63248698",
+                    "name" : "Mango Chutney",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63248699",
+                    "name" : "Pickle",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63248700",
+                    "name" : "Plain Basmati Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63248701",
+                    "name" : "Chips",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.39" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893867", 
+                "name" : "Lunch Specials",
+                "description" : "Lunch Specials (11:30 Am - 3 Pm)",
+                "items" : [
+                {
+                    "id" : "63248702",
+                    "name" : "Mixed Vegetables Lunch",
+                    "description" : "Assorted fresh vegetables sauteed in fresh herbs and spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248703",
+                    "name" : "Aloo Palak Lunch",
+                    "description" : "Potatoes cooked with chopped spinach in a special blend of spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248704",
+                    "name" : "Chana Poori Lunch",
+                    "description" : "Chickpeas cooked with ginger, onion and fresh spices served with poori bread. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248705",
+                    "name" : "Matter Paneer Lunch",
+                    "description" : "Fresh homemade cottage cheese cooked gently with tender garden peas and spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248706",
+                    "name" : "Palak Paneer Lunch",
+                    "description" : "Fresh homemade cottage cheese with spinach and fresh spices. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248707",
+                    "name" : "Chicken Curry Lunch",
+                    "description" : "Chicken cooked with spices in a thick gravy sauce. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248708",
+                    "name" : "Chicken Korma Lunch",
+                    "description" : "Boneless chicken cooked in a mild ranch sauce, cashews and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248709",
+                    "name" : "Chicken Tikki Masala Lunch",
+                    "description" : "Tender skinless and boneless chicken marinated in a blend of ginger, garlic, yogurt and various spices. Baked in tandoor and sauteed with tomatoes, butter and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248710",
+                    "name" : "Lamb Curry Lunch",
+                    "description" : "Tender cubed lamb cooked in our mildly spiced curry. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248711",
+                    "name" : "Keema Aloo Lunch",
+                    "description" : "Minced meat and potato cooked with green peas and fresh herbs. Served with poori bread. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248712",
+                    "name" : "Lamb Saag Lunch",
+                    "description" : "Lean cubed lamb cooked with seasoned curried spinach. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248713",
+                    "name" : "Boti Kabab Masala Lunch",
+                    "description" : "Lamb marinated in a blend of ginger, garlic, yogurt and various spices. Baked in tandoor and sauteed with tomatoes, butter and cream. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248714",
+                    "name" : "Shrimp Jalfrezie Lunch",
+                    "description" : "Shrimp marinated with freshly ground spices and sauteed with onions, tomatoes and green peppers. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248715",
+                    "name" : "Shrimp Tandoori Masala Lunch",
+                    "description" : "Shrimp marinated with freshly ground spices and sauteed with onion and tomatoes. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248716",
+                    "name" : "Shrimp Poori Lunch",
+                    "description" : "Fresh shrimp flavored with garlic, mustard seeds and curry leaves. Served with basmati rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893868", 
+                "name" : "Desserts",
+                "description" : "Desserts",
+                "items" : [
+                {
+                    "id" : "63248717",
+                    "name" : "Kheer",
+                    "description" : "A famous Indian sweet made from milk, rice and dry fruits. Flavored with cardamom and blended with raisins.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63248718",
+                    "name" : "Gulab Jamun",
+                    "description" : "Cheese ball dipped in syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63248719",
+                    "name" : "Bombay Mango Kulfi",
+                    "description" : "Homemade Indian style ice cream with mangoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248720",
+                    "name" : "Ras Malai",
+                    "description" : "Homemade cheese patties served in a sweet cream sauce flavored with cardamom and garnished with pistachios.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63248721",
+                    "name" : "Gajar Ka Halwa",
+                    "description" : "Carrot cooked with milk and sugar.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

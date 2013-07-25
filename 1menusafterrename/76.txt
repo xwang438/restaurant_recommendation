@@ -1,0 +1,493 @@
+{
+    "menu" : {
+        "id" : "292320",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894228", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251704",
+                    "name" : "Hummus Dip",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251705",
+                    "name" : "Stuffed Grape Leaves",
+                    "description" : "With rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251706",
+                    "name" : "Falafel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251707",
+                    "name" : "Tabouleh Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251708",
+                    "name" : "Hot Wings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251709",
+                    "name" : "Kebeh",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251710",
+                    "name" : "Spanakopita",
+                    "description" : "Spinach pie.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894229", 
+                "name" : "Salads",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251711",
+                    "name" : "Greek Salad",
+                    "description" : "Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251712",
+                    "name" : "Greek Gyros Salad",
+                    "description" : "Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251713",
+                    "name" : "Greek Chicken Breast Salad",
+                    "description" : "Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251714",
+                    "name" : "Greek Avocado Chicken Breast Salad",
+                    "description" : "Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251715",
+                    "name" : "Greek Combo Salad",
+                    "description" : "Chicken and gyros. Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251716",
+                    "name" : "Greek Shrimp Salad",
+                    "description" : "Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251717",
+                    "name" : "Greek Trio Salad",
+                    "description" : "Chicken, gyros and shrimp. Served with pita bread and tzatziki sauce with choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894230", 
+                "name" : "Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251718",
+                    "name" : "Gyros Sandwich",
+                    "description" : "Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251719",
+                    "name" : "Chicken Breast Sandwich",
+                    "description" : "Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251720",
+                    "name" : "Charbroiled Chicken Kebab Sandwich",
+                    "description" : "Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251721",
+                    "name" : "Greek Combo Sandwich",
+                    "description" : "Chicken and gryos. Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251722",
+                    "name" : "Falafel Sandwich",
+                    "description" : "Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251723",
+                    "name" : "Gyros Supreme Sandwich",
+                    "description" : "Served with choice of French fries, rice pilaf or salad.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894231", 
+                "name" : "Plates",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251724",
+                    "name" : "Gyros Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251725",
+                    "name" : "Chicken Breast Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251726",
+                    "name" : "Chicken Kebab Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251727",
+                    "name" : "Kafte Kebab Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251728",
+                    "name" : "Beef Kebab Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251729",
+                    "name" : "Shrimp Kebab Plate",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894232", 
+                "name" : "Combo Plates",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251730",
+                    "name" : "Gyros with Humus",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251731",
+                    "name" : "Chicken Kebab &amp; Gyros",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251732",
+                    "name" : "Chicken &amp; Shrimp Kebab",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251733",
+                    "name" : "Chicken Kebab &amp; Gyros with Humus",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251734",
+                    "name" : "Chicken Kebab, Gyros &amp; Falafel",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251735",
+                    "name" : "Spanakopita &amp; Gyros",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251736",
+                    "name" : "Spanakopita &amp; Chicken Kebab",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251737",
+                    "name" : "Beef &amp; Kafta Kebab",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251738",
+                    "name" : "Chicken &amp; Beef with Humus",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251739",
+                    "name" : "Beef, Chicken &amp; Kafta Kebab",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251740",
+                    "name" : "Beef, Chicken &amp; Shrimp Kebab",
+                    "description" : "Served with choice of French fries or rice, salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894233", 
+                "name" : "Veggie Plates",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251741",
+                    "name" : "Spanakopita Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251742",
+                    "name" : "Falafel, Humus &amp; Tabouleh Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251743",
+                    "name" : "Falafel Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251744",
+                    "name" : "Stuffed Grape Leaves &amp; Spanakopita Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251745",
+                    "name" : "Humus, Falafel, Tabouleh &amp; Grape Leaves Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251746",
+                    "name" : "Spanakopita, Humus &amp; Falafel Plate",
+                    "description" : "Served with Greek salad, pita bread and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894234", 
+                "name" : "Kafta",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251747",
+                    "name" : "Kafte",
+                    "description" : "Ground angus beef marinated with our specialty seasonings, charbroiled on pita bread with lettuce, grilled onions and tomatoes served with rice or French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251748",
+                    "name" : "Kafte with Cheese",
+                    "description" : "Ground angus beef marinated with our specialty seasonings, charbroiled on pita bread with lettuce, grilled onions and tomatoes served with rice or French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251749",
+                    "name" : "Kafte with Cheese &amp; Bacon",
+                    "description" : "Ground angus beef marinated with our specialty seasonings, charbroiled on pita bread with lettuce, grilled onions and tomatoes served with rice or French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63251750",
+                    "name" : "Kafte with Cheese, Bacon &amp; Avocado",
+                    "description" : "Ground angus beef marinated with our specialty seasonings, charbroiled on pita bread with lettuce, grilled onions and tomatoes served with rice or French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251751",
+                    "name" : "Kafte with Cheese, Bacon &amp; Mushrooms",
+                    "description" : "Ground angus beef marinated with our specialty seasonings, charbroiled on pita bread with lettuce, grilled onions and tomatoes served with rice or French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894235", 
+                "name" : "Extras",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251752",
+                    "name" : "Pita Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.95" }
+                    ]
+                },
+                {
+                    "id" : "63251753",
+                    "name" : "Side Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63251754",
+                    "name" : "French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63251755",
+                    "name" : "Rice Pilaf",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63251756",
+                    "name" : "Baklava",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63251758",
+                    "name" : "Greek Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

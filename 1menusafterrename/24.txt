@@ -1,0 +1,3201 @@
+{
+    "menu" : {
+        "id" : "292111",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8893701", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247096",
+                    "name" : "Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.5" }
+,                        { "name" : "Large",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63247097",
+                    "name" : "Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.5" }
+,                        { "name" : "Large",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63247099",
+                    "name" : "Decaffeinated Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.5" }
+,                        { "name" : "Large",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63247100",
+                    "name" : "Espresso",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63247101",
+                    "name" : "Cappuccino",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63247102",
+                    "name" : "Herbal Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247103",
+                    "name" : "Hot Chocolate",
+                    "description" : "Served with whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63247104",
+                    "name" : "Cafe Latte",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63247105",
+                    "name" : "Frappuccino",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63247106",
+                    "name" : "Mochaccino",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63247107",
+                    "name" : "Fountain Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.4" }
+                    ]
+                },
+                {
+                    "id" : "63247108",
+                    "name" : "Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.65" }
+                    ]
+                },
+                {
+                    "id" : "63247109",
+                    "name" : "Chocolate Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.35" }
+                    ]
+                },
+                {
+                    "id" : "63247110",
+                    "name" : "Egg Cream",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.9" }
+                    ]
+                },
+                {
+                    "id" : "63247111",
+                    "name" : "Spring Water",
+                    "description" : "Bottled.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.4" }
+                    ]
+                },
+                {
+                    "id" : "63247112",
+                    "name" : "Iced Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.65" }
+                    ]
+                },
+                {
+                    "id" : "63247113",
+                    "name" : "Iced Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.65" }
+                    ]
+                },
+                {
+                    "id" : "63247114",
+                    "name" : "Iced Frappe",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.35" }
+                    ]
+                },
+                {
+                    "id" : "63247115",
+                    "name" : "Iced Cappuccino",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.35" }
+                    ]
+                },
+                {
+                    "id" : "63247116",
+                    "name" : "Fresh Lemonade",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.9" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893706", 
+                "name" : "Fruit and Juices",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247163",
+                    "name" : "Fresh Fruit Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Cup",  "price" : "3.9" }
+,                        { "name" : "Bowl",  "price" : "6.15" }
+                    ]
+                },
+                {
+                    "id" : "63247164",
+                    "name" : "Freshly Squeezed Orange Juice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.9" }
+,                        { "name" : "Medium",  "price" : "3.9" }
+,                        { "name" : "Large",  "price" : "4.35" }
+                    ]
+                },
+                {
+                    "id" : "63247165",
+                    "name" : "Greek Yogurt with Honey",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.45" }
+                    ]
+                },
+                {
+                    "id" : "63247166",
+                    "name" : "Create Your Own Smoothie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.4" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893683", 
+                "name" : "Muffins, Breads and Bagels",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246809",
+                    "name" : "Fresh Baked Muffin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63246810",
+                    "name" : "Thomas' English Muffin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63246811",
+                    "name" : "Buttered Toast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63246812",
+                    "name" : "Buttered Hard Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63246813",
+                    "name" : "Cinnamon Toast",
+                    "description" : "3 slices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63246814",
+                    "name" : "Toasted Jumbo Bagel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63246815",
+                    "name" : "Bagel Platter",
+                    "description" : "With lox, cream cheese, Bermuda onion, lettuce, tomato and olives.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.25" }
+                    ]
+                },
+                {
+                    "id" : "63246816",
+                    "name" : "Two Fried Eggs On A Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893684", 
+                "name" : "Pancakes, French Toast and Waffles",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246817",
+                    "name" : "Plain Pancakes",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246818",
+                    "name" : "Oat Bran Pancakes",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63246819",
+                    "name" : "Silver Dollar Pancakes",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246820",
+                    "name" : "Old Fashioned French Toast",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246821",
+                    "name" : "Challah French Toast",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246822",
+                    "name" : "Stuffed Challah French Toast",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63246823",
+                    "name" : "Granny's Pancakes",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63246824",
+                    "name" : "Plain Waffle",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63246825",
+                    "name" : "Oat Bran Waffle",
+                    "description" : "Served with butter and log cabin maple syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63246826",
+                    "name" : "Super Waffle",
+                    "description" : "Served with bacon, ham, sausage and two eggs.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246827",
+                    "name" : "Waffle Sundae",
+                    "description" : "Served with two scoops of ice cream, nuts and whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893685", 
+                "name" : "Eggs and Omelets",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246828",
+                    "name" : "Two Eggs Your Way",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63246829",
+                    "name" : "Eggs Benedict",
+                    "description" : "Two eggs with Canadian bacon over toasted Thomas English muffin topped with Hollandaise sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246830",
+                    "name" : "Eggs Benedict with Lox",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246831",
+                    "name" : "Eggs Benedict with Spinach",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63246832",
+                    "name" : "Plain Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246833",
+                    "name" : "Western Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246834",
+                    "name" : "Cheese Omelet",
+                    "description" : "With choice of American, Swiss, cheddar, mozzarella or feta.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246835",
+                    "name" : "Fresh Mozzarella and Basil Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.5" }
+                    ]
+                },
+                {
+                    "id" : "63246836",
+                    "name" : "Irish Omelet",
+                    "description" : "Fresh sausage, Irish bacon, onions and mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63246837",
+                    "name" : "Italian Peasant Omelet",
+                    "description" : "With bacon, potatoes, tomatoes and mozzarella.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246838",
+                    "name" : "Spinach and Feta Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246839",
+                    "name" : "Ham and Cheese Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246840",
+                    "name" : "Garden Omelet",
+                    "description" : "Broccoli, zucchini, peppers, mushroom and onions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246841",
+                    "name" : "Michael's Special Omelet",
+                    "description" : "Peppers, mushroom, bacon, onions and Swiss cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.5" }
+                    ]
+                },
+                {
+                    "id" : "63246842",
+                    "name" : "Michael's Combination Omelet",
+                    "description" : "Canadian bacon, cheddar cheese, onions, tomatoes, zucchini and mushroom.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246843",
+                    "name" : "Greek Omelet",
+                    "description" : "Feta cheese and grilled tomatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246844",
+                    "name" : "Lox, Eggs and Onions Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246845",
+                    "name" : "Fresh Turkey Omelet",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246846",
+                    "name" : "Avocado Omelet with Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246847",
+                    "name" : "Irish Special",
+                    "description" : "Three Irish sausages with baked beans, french fries and toast.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246848",
+                    "name" : "Lumberjack Special",
+                    "description" : "Two eggs your way, bacon, ham and sausage and your choice of pancakes or french toast.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246849",
+                    "name" : "Irish Breakfast Special",
+                    "description" : "Two eggs with Irish bacon, Irish sausage, Irish pudding and Irish tomato. Served with homefries, toast and coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246850",
+                    "name" : "Mediterranean Omelet",
+                    "description" : "With grilled chicken strips, olives and feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246851",
+                    "name" : "Tony's Omelet",
+                    "description" : "Egg whites and grilled chicken.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246852",
+                    "name" : "Laura's Omelet",
+                    "description" : "Ham, goat cheese, onions, peppers, mushrooms and tomatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246853",
+                    "name" : "Two Fried Eggs on a Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893691", 
+                "name" : "Starters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246945",
+                    "name" : "Greek Antipasto",
+                    "description" : "Taramosalata, tzatziki, eggplant salad, skordalia and garnish.",
+                    "sizes" : [
+                        { "name" : "For One",  "price" : "8.95" }
+,                        { "name" : "For Two",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246946",
+                    "name" : "Jumbo Shrimp Cocktail",
+                    "description" : "Includes five pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246947",
+                    "name" : "Grilled Shrimp",
+                    "description" : "Includes four pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246948",
+                    "name" : "Shrimp Scampi",
+                    "description" : "Includes four pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246949",
+                    "name" : "Buffalo Wings",
+                    "description" : "Served with blue cheese dressing.",
+                    "sizes" : [
+                        { "name" : "6 Wings",  "price" : "9.95" }
+,                        { "name" : "12 Wings",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63246950",
+                    "name" : "Chicken Fingers",
+                    "description" : "Served with honey mustard.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246951",
+                    "name" : "Fresh Little Neck Clams",
+                    "description" : "On the half shell.",
+                    "sizes" : [
+                        { "name" : "6 Clams",  "price" : "8.95" }
+,                        { "name" : "12 Clams",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246952",
+                    "name" : "Homemade Mozzarella Sticks",
+                    "description" : "Includes five pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246953",
+                    "name" : "Bruschetta",
+                    "description" : "Charcoal toasted peasant bread brushed with garlic oil and topped with marinated tomatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63246954",
+                    "name" : "Chicken Quesadilla",
+                    "description" : "With sour cream and guacamole.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246955",
+                    "name" : "Bruschetta with Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246956",
+                    "name" : "Fried Zucchini",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246957",
+                    "name" : "Grilled Calamari",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246958",
+                    "name" : "Fried Calamari",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246959",
+                    "name" : "Grilled Octopus",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246960",
+                    "name" : "Potato Skins",
+                    "description" : "Stuffed with bacon and broccoli and topped with melted cheddar cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63246961",
+                    "name" : "Baked Stuffed Clams",
+                    "description" : "With crabmeat.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246962",
+                    "name" : "Stuffed Mushrooms",
+                    "description" : "With crabmeat.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246963",
+                    "name" : "Fresh Mozzarella, Tomato &amp; Basil",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63246964",
+                    "name" : "Clams Oreganata",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246965",
+                    "name" : "Spinach Pie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63246966",
+                    "name" : "Fish and Chips ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246967",
+                    "name" : "Grilled Seafood Sampler",
+                    "description" : "Octopus, calamari, shrimp and stuffed clam oreganata.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246968",
+                    "name" : "Appetizer Combo",
+                    "description" : "Buffalo wings, homemade mozzarella sticks, fried zucchini and onion rings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246969",
+                    "name" : "Nachos Platter",
+                    "description" : "Tortilla chips, chili con carne, cheddar, jalapenos, guacamole and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893703", 
+                "name" : "Soup",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247136",
+                    "name" : "French Onion Soup",
+                    "description" : "Topped with melted mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63247137",
+                    "name" : "Soup of the Day",
+                    "description" : "Served with crackers. Please contact restaurant for available options.",
+                    "sizes" : [
+                        { "name" : "12 oz.",  "price" : "3.5" }
+,                        { "name" : "16 oz.",  "price" : "3.95" }
+,                        { "name" : "32 oz.",  "price" : "6" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893690", 
+                "name" : "Salads and Salad Platters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246914",
+                    "name" : "House Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63246915",
+                    "name" : "Sliced Romanian Steak Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246916",
+                    "name" : "Classic Caesar Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246917",
+                    "name" : "Classic Caesar Salad with Grilled Chicken Breast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246918",
+                    "name" : "Caesar Salad with Grilled Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246919",
+                    "name" : "Greek Salad",
+                    "description" : "Served with feta cheese, tomatoes, cucumbers, kalamata olives, onions, crispy lettuce, hard boiled egg, stuffed grape leaves and anchovies over mesclun greens.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "8.95" }
+,                        { "name" : "Large",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246920",
+                    "name" : "Greek Salad with Chicken Breast",
+                    "description" : "Served with feta cheese, tomatoes, cucumbers, kalamata olives, onions, crispy lettuce, hard boiled egg, stuffed grape leaves and anchovies over mesclun greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246921",
+                    "name" : "Greek Salad with Grilled Shrimp",
+                    "description" : "Served with feta cheese, tomatoes, cucumbers, kalamata olives, onions, crispy lettuce, hard boiled egg, stuffed grape leaves and anchovies over mesclun greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246922",
+                    "name" : "Michael's Salad",
+                    "description" : "Strips of turkey, ham and Swiss cheese over mesclun greens with tomatoes, onions and olives.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246923",
+                    "name" : "Fresh Baby Spinach Salad",
+                    "description" : "Served with bacon, hard boiled egg and fresh mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246924",
+                    "name" : "Tuna Salad alla James",
+                    "description" : "Tuna with fresh avocado, finely chopped onions and celery. Served over mixed greens with tomatoes and cucumbers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246925",
+                    "name" : "Waldorf Salad with Grilled Chicken",
+                    "description" : "Apples, dried cranberries, walnuts and mesclun greens with balsamic vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246926",
+                    "name" : "Goat Cheese Walnut Salad",
+                    "description" : "Mixed field greens topped with goat cheese, fresh sliced granny smith apples, walnuts, plum tomatoes and onions with a balsamic vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246927",
+                    "name" : "Fresh Grilled Tuna Salad",
+                    "description" : "Served over mixed greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246929",
+                    "name" : "Fresh Grilled Salmon Salad",
+                    "description" : "Served over mixed greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63246930",
+                    "name" : "Cobb Salad",
+                    "description" : "Grilled chicken breast, avocado, bleu cheese, bacon, tomatoes, cucumbers, Bermuda onion and hard boiled egg. Served over mesclun greens.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246931",
+                    "name" : "Grilled Chicken Breast Salad",
+                    "description" : "Served over mixed greens with sliced avocado.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246932",
+                    "name" : "Chef's Salad",
+                    "description" : "Served with crispy lettuce, roasted turkey, roast beef, Swiss cheese, ham, olives, hard boiled egg, garnish and your choice of dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246933",
+                    "name" : "Village Salad",
+                    "description" : "Served with grilled chicken or gyro strips, tomatoes, cucumbers, bell peppers, capers, kalamata olives and feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246934",
+                    "name" : "Combination Salad",
+                    "description" : "Greek salad with grilled chicken and gyro strips.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63246935",
+                    "name" : "Tuna Salad Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.45" }
+                    ]
+                },
+                {
+                    "id" : "63246936",
+                    "name" : "Shrimp Salad Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.45" }
+                    ]
+                },
+                {
+                    "id" : "63246937",
+                    "name" : "Individual Tuna Salad Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.45" }
+                    ]
+                },
+                {
+                    "id" : "63246938",
+                    "name" : "Individual Sardines Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "63246939",
+                    "name" : "Supreme Whole Shrimp Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.45" }
+                    ]
+                },
+                {
+                    "id" : "63246940",
+                    "name" : "Combination Cold Platter",
+                    "description" : "Sliced egg, tuna and shrimp salad. Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.45" }
+                    ]
+                },
+                {
+                    "id" : "63246941",
+                    "name" : "Fresh Egg Salad Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246942",
+                    "name" : "Chicken Salad Platter",
+                    "description" : "Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246943",
+                    "name" : "Combination on Pita Platter",
+                    "description" : "Chicken souvlaki and gyro strips served with Greek salad. Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.45" }
+                    ]
+                },
+                {
+                    "id" : "63246944",
+                    "name" : "Combination Platter",
+                    "description" : "Chicken souvlaki and gyro stips served with Greek salad and french fries. Served on a bed of crispy lettuce with coleslaw, potato salad, tomatoes, cucumbers, hard boiled egg and peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.45" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893688", 
+                "name" : "Paninis",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246895",
+                    "name" : "Grilled Chicken Panini",
+                    "description" : "With fresh mozzarella cheese, fresh cilantro and a chipotle sauce. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246896",
+                    "name" : "Fresh Sliced Turkey Panini",
+                    "description" : "With Monterey Jack cheese and crispy bacon. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246897",
+                    "name" : "Cordon Bleu Panini",
+                    "description" : "With breast of chicken, Boars Head Virginia ham and Swiss cheese. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246899",
+                    "name" : "Roast Beef Panini",
+                    "description" : "With American cheese, caramelized onions and chipotle sauce. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246900",
+                    "name" : "Hot Corned Beef Panini",
+                    "description" : "With sauerkraut and melted Swiss cheese. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246901",
+                    "name" : "Grilled Portobello Mushroom Panini",
+                    "description" : "With roasted peppers, caramelized onions, melted provolone cheese and basil pesto sauce. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246902",
+                    "name" : "Chicken Fajita Panini",
+                    "description" : "Grilled chicken with cheddar cheese, roasted peppers, caramelized onions and Mexican salsa. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246903",
+                    "name" : "Chicken Parmigiana Panini",
+                    "description" : "With fresh marinara sauce and melted mozzarella cheese. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246904",
+                    "name" : "Mexican Grilled Chicken Panini",
+                    "description" : "With jalapeno peppers and Monterey Jack cheese. Served with a cup of soup and choice of potato chips or french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246905",
+                    "name" : "Billy Jack Panini",
+                    "description" : "Served with sun dried tomatoes, goat cheese, fresh arugula and granny smith apples.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246906",
+                    "name" : "Grilled Tuna Panini",
+                    "description" : "Served with tomatoes, arugula and sesame ginger dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246907",
+                    "name" : "Giancarlo Panini",
+                    "description" : "Grilled chicken, roasted eggplant, roasted peppers, fresh mozzarella and pesto sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893689", 
+                "name" : "Pizza",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246908",
+                    "name" : "Greek Pizza",
+                    "description" : "With spinach, tomato and feta.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246909",
+                    "name" : "Michael's Supreme Pizza",
+                    "description" : "With Italian sausage, pepperoni, onions, green peppers and black olives.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246910",
+                    "name" : "Laura's Pizza",
+                    "description" : "With fresh mozzarella and grilled vegetables (zucchini, eggplant and mushrooms).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246911",
+                    "name" : "Roman Pizza",
+                    "description" : "With Italian sausage, sun-dried tomatoes, basil and portobello mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246912",
+                    "name" : "Patsy's Chicken Pizza",
+                    "description" : "With grilled chicken, fresh mozzarella, broccoli and capers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63246913",
+                    "name" : "Pita Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893692", 
+                "name" : "Seafood",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246970",
+                    "name" : "Two Broiled Lobster Tails",
+                    "description" : "6 oz. each. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "32.95" }
+                    ]
+                },
+                {
+                    "id" : "63246971",
+                    "name" : "Broiled Jumbo Shrimp Scampi",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.75" }
+                    ]
+                },
+                {
+                    "id" : "63246972",
+                    "name" : "Broiled Fillet of Lemon Sole",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63246973",
+                    "name" : "Broiled Salmon Filet",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246974",
+                    "name" : "Broiled Scallops",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246975",
+                    "name" : "Broiled Fisherman's Platter",
+                    "description" : "Lobster tail, fillet, shrimp, stuffed clam and scallops. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "30.95" }
+                    ]
+                },
+                {
+                    "id" : "63246976",
+                    "name" : "Fried Jumbo Shrimp",
+                    "description" : "Includes six pieces. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246977",
+                    "name" : "Fried Fillet of Sole",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246978",
+                    "name" : "Fried Seafood Combination",
+                    "description" : "Fillet of sole, shrimp, fish cake and scallops. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63246979",
+                    "name" : "Fried Fish Cakes with Spaghetti",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246980",
+                    "name" : "Fried Calamari",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246981",
+                    "name" : "Grilled Calamari",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246982",
+                    "name" : "Jumbo Stuffed Shrimp with Cheese and Bacon",
+                    "description" : "Made with mozzarella cheese and bacon. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.95" }
+                    ]
+                },
+                {
+                    "id" : "63246990",
+                    "name" : "Jumbo Stuffed Shrimp with Crabmeat",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.95" }
+                    ]
+                },
+                {
+                    "id" : "63246983",
+                    "name" : "Broiled Stuffed Fillet of Sole",
+                    "description" : "Stuffed with crab meat. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246984",
+                    "name" : "Stuffed Fillet Florentine",
+                    "description" : "Stuffed with spinach and feta cheese. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63246985",
+                    "name" : "Surf and Turf",
+                    "description" : "Fillet mignon and lobster tail. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "30.95" }
+                    ]
+                },
+                {
+                    "id" : "63246986",
+                    "name" : "Beef and Reef",
+                    "description" : "With broiled Roumanian steak and two stuffed shrimp. Served with onion rings. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25.95" }
+                    ]
+                },
+                {
+                    "id" : "63246987",
+                    "name" : "Chef's Special",
+                    "description" : "Broiled shell steak with three broiled jumbo shrimp. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "26.95" }
+                    ]
+                },
+                {
+                    "id" : "63246988",
+                    "name" : "Seafood Kebab",
+                    "description" : "Lobster tail, shrimp, scallops, fillet of sole, fresh mushroom caps, peppers and tomato. Served over rice pilaf. Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "28.95" }
+                    ]
+                },
+                {
+                    "id" : "63246989",
+                    "name" : "Broiled Seafood Combination for Two",
+                    "description" : "Shrimp, scallops, fillet of sole, stuffed clams, stuffed mushrooms and lobster tails. Served with two cups of soup or two salads, two potatoes and two vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "65" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893693", 
+                "name" : "Specialty Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246991",
+                    "name" : "Classic Reuben Sandwich",
+                    "description" : "Corned beef or pastrami with sauerkraut on rye bread topped with melted Swiss cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246992",
+                    "name" : "Tuna Melt Sandwich",
+                    "description" : "Served on a toasted English muffin with tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63246993",
+                    "name" : "Monte Cristo Sandwich",
+                    "description" : "Challah French toast served open faced with grilled ham, turkey and melted Swiss cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                },
+                {
+                    "id" : "63246994",
+                    "name" : "Michael's Special Sandwich",
+                    "description" : "Served with sauteed seasonal vegetables and choice of cheese. Served on pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63246995",
+                    "name" : "Open Sliced Romanian Steak Sandwich",
+                    "description" : "Served on a bun with lettuce, tomato, onion rings and French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246996",
+                    "name" : "Fresh Mozzarella and Prosciutto Sandwich",
+                    "description" : "Roasted red peppers, sun dried tomatoes on focaccia bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246997",
+                    "name" : "Grilled Vegetables Sandwich",
+                    "description" : "Zucchini, eggplant and red peppers on focaccia bread with melted mozzarella.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63246998",
+                    "name" : "French Dip Sandwich",
+                    "description" : "Grilled roast beef on a hero bread with natural juice, lettuce, tomatoes and French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63246999",
+                    "name" : "Grilled Breast of Chicken Sandwich",
+                    "description" : "Served with grilled zucchini and fresh mozzarella with pesto sauce on focaccia bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247000",
+                    "name" : "Breaded Chicken Cutlet Sandwich",
+                    "description" : "Served on focaccia bread with bruschetta mix.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247001",
+                    "name" : "Fresh Grilled Salmon Sandwich",
+                    "description" : "Served on focaccia bread with arugula, wasabi mayonnaise and sesame oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893694", 
+                "name" : "Deli Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247002",
+                    "name" : "Roast Beef Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247003",
+                    "name" : "Brisket Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247004",
+                    "name" : "Pot Roast Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247005",
+                    "name" : "Roast Turkey Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247006",
+                    "name" : "Virginia Ham Deli Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247007",
+                    "name" : "Corned Beef Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247008",
+                    "name" : "Pastrami Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247009",
+                    "name" : "BLT Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247010",
+                    "name" : "Breaded Veal Cutlet Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247011",
+                    "name" : "Veal Cutlet Parmigiana Deli Sandwich",
+                    "description" : "Served on a hero. Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63247012",
+                    "name" : "Chicken Cutlet Parmigiana Deli Sandwich",
+                    "description" : "Served on a hero. Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247013",
+                    "name" : "Eggplant Parmigiana Deli Sandwich",
+                    "description" : "Served on a hero. Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.45" }
+                    ]
+                },
+                {
+                    "id" : "63247014",
+                    "name" : "Chunky Chicken Salad Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247015",
+                    "name" : "Egg Salad Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.45" }
+                    ]
+                },
+                {
+                    "id" : "63247016",
+                    "name" : "Sliced Hard Boiled Eggs Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.45" }
+                    ]
+                },
+                {
+                    "id" : "63247017",
+                    "name" : "Grilled Cheese Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247018",
+                    "name" : "Tuna Salad Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247019",
+                    "name" : "Shrimp Salad Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.45" }
+                    ]
+                },
+                {
+                    "id" : "63247020",
+                    "name" : "Fried Filet of Sole Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247021",
+                    "name" : "Bumble Bee Tuna Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.45" }
+                    ]
+                },
+                {
+                    "id" : "63247022",
+                    "name" : "Sardines Deli Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247023",
+                    "name" : "Western Omelet Sandwich",
+                    "description" : "Served with cole slaw and a pickle.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893695", 
+                "name" : "Wraps",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247024",
+                    "name" : "Michael's Wrap",
+                    "description" : "Grilled chicken strips, bacon, melted Swiss cheese, Dijon mustard, crisp lettuce, tomato and red onion on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247025",
+                    "name" : "Greek Salad Wrap",
+                    "description" : "Grilled chicken, lettuce, tomato, feta cheese, olives, red onions, anchovies and Greek dressing on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247026",
+                    "name" : "Mexican Wrap",
+                    "description" : "Grilled spicy chicken breast with Jack cheese, avocado and Bermuda onion on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247027",
+                    "name" : "Fresh Mozzarella Wrap",
+                    "description" : "Grilled mushrooms with fresh mozzarella, tomatoes, fresh basil and olive oil on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247028",
+                    "name" : "Italian Wrap",
+                    "description" : "Prosciutto, fresh mozzarella and sun-dried tomatoes sprinkled with balsamic vinaigrette on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247029",
+                    "name" : "Philly Cheese Steak Wrap",
+                    "description" : "Melted cheese, grilled onions and peppers on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247030",
+                    "name" : "Caesar Wrap",
+                    "description" : "Grilled chicken breast, romaine lettuce and Caesar dressing on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247031",
+                    "name" : "Gyro Wrap",
+                    "description" : "Onion, tomato, lettuce and tzatziki sauce on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247032",
+                    "name" : "Portobello Wrap",
+                    "description" : "Fresh mozzarella, arugula and roasted red pepper with chipotle sauce on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247033",
+                    "name" : "Vegetarian Wrap",
+                    "description" : "Grilled mushrooms, zucchini, eggplant, asparagus, roasted red pepper, arugula and choice of dressing on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247034",
+                    "name" : "Napolitan0 Wrap",
+                    "description" : "Fresh roasted herb chicken, fresh mozzarella, roasted red pepper, mesclun greens and pesto sauce on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247035",
+                    "name" : "Fresh Grilled Salmon Wrap",
+                    "description" : "With mixed greens and wasabi mayonnaise on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247036",
+                    "name" : "BBQ Chicken Wrap",
+                    "description" : "Chipotle sauce with baby greens on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247037",
+                    "name" : "Roast Turkey Wrap",
+                    "description" : "With honey mustard, roast peppers and mixed greens on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247039",
+                    "name" : "Fresh Grilled Tuna Wrap",
+                    "description" : "Seared with wasabi mayonnaise, arugula and chopped tomatoes topped with sesame oil  on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247038",
+                    "name" : "Grilled Shrimp Wrap",
+                    "description" : "With baby arugula, grilled pepper, zucchini and Italian dressing on choice of wrap and served with house salad, french fries or sweet potato fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893696", 
+                "name" : "Mediterranean Specialties",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247040",
+                    "name" : "Pastichio",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247041",
+                    "name" : "Spinach Pie",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247042",
+                    "name" : "Veal Milanese",
+                    "description" : "Served with marinara sauce and pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63247043",
+                    "name" : "Veal Parmigiana",
+                    "description" : "Served with pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247044",
+                    "name" : "Chicken Milanese",
+                    "description" : "Served with marinara sauce and pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247045",
+                    "name" : "Chicken Cutlet Parmigiana",
+                    "description" : "Served with pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247046",
+                    "name" : "Eggplant Parmigiana",
+                    "description" : "Served with pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247047",
+                    "name" : "Shrimp Parmigiana",
+                    "description" : "Served with pasta of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63247048",
+                    "name" : "Vegetable Lasagna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247049",
+                    "name" : "Souvlaki on Pita",
+                    "description" : "Served with Greek salad and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247050",
+                    "name" : "Gyro on Pita",
+                    "description" : "Served with Greek salad and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247051",
+                    "name" : "Chicken Souvlaki on Pita",
+                    "description" : "Served with Greek salad and tzatziki sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247052",
+                    "name" : "Souvlaki Platter",
+                    "description" : "Served with Greek salad, pita and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247053",
+                    "name" : "Gyro Platter",
+                    "description" : "Served with Greek salad, pita and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247054",
+                    "name" : "Chicken Souvlaki Platter",
+                    "description" : "Served with Greek salad, pita and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893697", 
+                "name" : "Burgers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247055",
+                    "name" : "Beef Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247056",
+                    "name" : "Cheese Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247057",
+                    "name" : "Patty Melt",
+                    "description" : "Grilled cheese and beef burger with grilled onions. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                },
+                {
+                    "id" : "63247058",
+                    "name" : "Pizza Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247059",
+                    "name" : "Twin Beef Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247060",
+                    "name" : "Laura's Burger",
+                    "description" : "Served with goat cheese, tomato and arugula. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247061",
+                    "name" : "BBQ Burger",
+                    "description" : "Topped with our special BBQ sauce and sauteed onions. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247062",
+                    "name" : "Michael's Burger",
+                    "description" : "Topped with bacon, mushrooms, sauteed onions and Swiss cheese. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247063",
+                    "name" : "Cajun Burger",
+                    "description" : "Served with mild Cajun spices, topped with melted cheddar cheese, grilled onions and tomatoes. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247064",
+                    "name" : "Mushroom Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247065",
+                    "name" : "Irish Bacon Burger",
+                    "description" : "Served with sauteed onions. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247066",
+                    "name" : "Breast of Chicken Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247067",
+                    "name" : "Turkey Burger",
+                    "description" : "Freshly ground turkey breast, low in fat and cholesterol. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247068",
+                    "name" : "Veggie Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247069",
+                    "name" : "Buffalo Burger",
+                    "description" : "8 oz. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.9" }
+                    ]
+                },
+                {
+                    "id" : "63247070",
+                    "name" : "Grilled Salmon Burger",
+                    "description" : "Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247071",
+                    "name" : "Mexican Burger",
+                    "description" : "Served with avocado, jalapeno peppers and cheddar cheese. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247072",
+                    "name" : "Tony's Burger",
+                    "description" : "Swiss cheese, bacon and fried egg. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247073",
+                    "name" : "Portobello Burger with Meat",
+                    "description" : "Served with fresh mozzarella cheese, lettuce and tomato. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247074",
+                    "name" : "Portobello Burger with No Meat",
+                    "description" : "Served with fresh mozzarella cheese, lettuce and tomato. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247075",
+                    "name" : "Santa Fe Burger",
+                    "description" : "Served with poblano peppers and Monterrey Jack cheese. Topped with chips. Served with cole slaw and pickles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893698", 
+                "name" : "Triple Deckers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247076",
+                    "name" : "Sliced Turkey Club",
+                    "description" : "With bacon, lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247077",
+                    "name" : "Roast Beef Club",
+                    "description" : "With cheese, lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247078",
+                    "name" : "Virginia Ham Club",
+                    "description" : "With Swiss cheese, lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247079",
+                    "name" : "Grilled Breast of Chicken Club",
+                    "description" : "With bacon, lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247080",
+                    "name" : "Tuna Fish Club",
+                    "description" : "With lettuce, tomato and hard-boiled egg. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247081",
+                    "name" : "Chicken Salad Club",
+                    "description" : "With bacon, lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247082",
+                    "name" : "Shrimp Salad with Avocado Triple Decker",
+                    "description" : "With lettuce and tomato. Served with cole slaw, pickle and french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893699", 
+                "name" : "Diet Delights",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247083",
+                    "name" : "California Salad",
+                    "description" : "Fresh fruit salad with cottage cheese and jello served on a bed of crisp lettuce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                },
+                {
+                    "id" : "63247084",
+                    "name" : "Diet Turkey Burger",
+                    "description" : "Cottage cheese and tomato on a bed of crispy lettuce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.75" }
+                    ]
+                },
+                {
+                    "id" : "63247085",
+                    "name" : "Grilled Chicken Slim Line",
+                    "description" : "Served on a bed of lettuce with fresh fruit and cottage cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.75" }
+                    ]
+                },
+                {
+                    "id" : "63247086",
+                    "name" : "Grilled Chicken Over Arugula",
+                    "description" : "With asparagus.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.75" }
+                    ]
+                },
+                {
+                    "id" : "63247087",
+                    "name" : "Sunbelt Burger Deluxe",
+                    "description" : "With fresh fruit and cottage cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.75" }
+                    ]
+                },
+                {
+                    "id" : "63247088",
+                    "name" : "Grilled Veggie Burger",
+                    "description" : "With cottage cheese and mixed fruits.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893704", 
+                "name" : "Poultry",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247138",
+                    "name" : "Half Broiled Perdue Chicken",
+                    "description" : "Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247139",
+                    "name" : "Half Roasted Perdue Chicken",
+                    "description" : "Served with dressing and gravy. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247149",
+                    "name" : "Greek Style Half Chicken",
+                    "description" : "Served with peppers, onions and fresh mushrooms, over rice pilaf and vegetables. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247140",
+                    "name" : "Sauteed Chicken Breast Primavera",
+                    "description" : "Served with scallions, fresh mushrooms, carrots and asparagus. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247141",
+                    "name" : "Roast Vermont Turkey",
+                    "description" : "Served with stuffing and gravy. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247142",
+                    "name" : "Grilled Chicken Kebab",
+                    "description" : "Served over rice or with potato and vegetable. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247143",
+                    "name" : "Chicken Scampi",
+                    "description" : "Served with light creamy sauce or garlic sauce. Served over rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247144",
+                    "name" : "Chicken alla Michael's",
+                    "description" : "Stuffed with prosciutto, mozzarella and asparagus. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247145",
+                    "name" : "Stuffed Chicken Breast",
+                    "description" : "Stuffed with broccoli and mozzarella. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247146",
+                    "name" : "Chicken Cordon Bleu",
+                    "description" : "Stuffed with feta cheese, kalamata olives, tomatoes, fresh dill and shallots. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63247147",
+                    "name" : "Mediterranean Chicken",
+                    "description" : "Stuffed with feta cheese, kalamata olives, tomatoes, fresh dill and shallots. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247148",
+                    "name" : "Grilled Breast of Chicken",
+                    "description" : "Served over rice pilaf. Served with soup or salad and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893705", 
+                "name" : "Meat",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247150",
+                    "name" : "Roast Sirloin of Beef Au Jus",
+                    "description" : "Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247151",
+                    "name" : "Grilled Chopped Sirloin Steak",
+                    "description" : "Served with grilled onions. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63247152",
+                    "name" : "Filet Mignon Shish Kebab",
+                    "description" : "Served over rice pilaf with onions, peppers and fresh mushrooms. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25.95" }
+                    ]
+                },
+                {
+                    "id" : "63247153",
+                    "name" : "Large Char-Grilled Shell Steak",
+                    "description" : "Served with onion rings and mushroom caps. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "26.95" }
+                    ]
+                },
+                {
+                    "id" : "63247154",
+                    "name" : "Small Char-Grilled Shell Steak",
+                    "description" : "Served with onion rings. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247155",
+                    "name" : "Sizzling Steak",
+                    "description" : "Served with sauteed onions and fresh mushrooms. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "27.95" }
+                    ]
+                },
+                {
+                    "id" : "63247156",
+                    "name" : "Center Cut Pork Chops",
+                    "description" : "Includes two. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247157",
+                    "name" : "Grilled Rib Lamb Chops",
+                    "description" : "Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "22.95" }
+                    ]
+                },
+                {
+                    "id" : "63247158",
+                    "name" : "Romanian Steak",
+                    "description" : "Served with onion rings. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63247159",
+                    "name" : "Grilled London Broil",
+                    "description" : "Served with fresh mushroom sauce. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63247160",
+                    "name" : "Baked Meat Loaf",
+                    "description" : "Served with fresh mushroom sauce. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247161",
+                    "name" : "Filet Mignon",
+                    "description" : "Served with onion rings and mushroom caps. Served with soup or salad, and potato and vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "26.95" }
+                    ]
+                },
+                {
+                    "id" : "63247162",
+                    "name" : "Broiled Meat Combination for 2 ",
+                    "description" : "Two lamb chops, 2 center cut pork chops, Romanian steak and two grilled chicken breasts.  Served with 2 cups of soup or 2 salads, 2 potatoes and 2 vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "57" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893707", 
+                "name" : "Hot Open Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247167",
+                    "name" : "Roast Turkey Hot Open Sandwich",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247168",
+                    "name" : "Roast Beef Hot Open Sandwich",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63247169",
+                    "name" : "Virginia Ham Hot Open Sandwich",
+                    "description" : "Served with soup or salad and potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893687", 
+                "name" : "Pasta",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246880",
+                    "name" : "Linguine with Seafood",
+                    "description" : "Shrimp, scallops, clams and mussels in a light red or white sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63246881",
+                    "name" : "Linguine with Asparagus and Shrimp",
+                    "description" : "Served with capers and garlic.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246882",
+                    "name" : "Penne alla Vodka",
+                    "description" : "Heavy cream and vodka in a light pink sauce with basil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246883",
+                    "name" : "Angel Hair Caprese",
+                    "description" : "Served with fresh mozzarella in a fresh basil tomato sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246884",
+                    "name" : "Angelo's Pasta",
+                    "description" : "Choice of penne or linguine with scallions, zucchini, artichoke hearts, mushrooms and red peppers tossed in a fresh garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246885",
+                    "name" : "Linguine with Broccoli",
+                    "description" : "In a light creamy fresh garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246886",
+                    "name" : "Fettuccine Alfredo",
+                    "description" : "Served with nutmeg and pecorino Romano cheese in a white cream sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246887",
+                    "name" : "Dorothy's Pasta",
+                    "description" : "Penne with goat cheese and wilted arugula in a fresh garlic olive oil sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246888",
+                    "name" : "Angel Hair Pasta with Shrimp Primavera",
+                    "description" : "Served with fresh seasonal vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246889",
+                    "name" : "Jumbo Cheese Ravioli with Vodka Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63246890",
+                    "name" : "Fettuccine Carbonara",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246891",
+                    "name" : "Rigatoni with Chicken and Portobello Mushrooms",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63246892",
+                    "name" : "Linguine with Clam Sauce",
+                    "description" : "Fresh clams served with choice of red or white sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246893",
+                    "name" : "Baked Rigatoni",
+                    "description" : "Served with ricotta, mozzarella cheese and tomato sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63246894",
+                    "name" : "Spaghetti Bolognese",
+                    "description" : "Serve portobello mushroom and peas.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893686", 
+                "name" : "Daily Specials",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63246854",
+                    "name" : "Broiled Filet Mignon Daily Special",
+                    "description" : "With crabmeat stuffed mushroom. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63246855",
+                    "name" : "Sizzling Steak Daily Special",
+                    "description" : "With sauteed onions and fresh mushrooms. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "24.95" }
+                    ]
+                },
+                {
+                    "id" : "63246856",
+                    "name" : "Fish Kebob Over Rice Daily Special",
+                    "description" : "Shrimp, filet of sole, scallops and lobster tail. Served with cup of soup or salad, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25.95" }
+                    ]
+                },
+                {
+                    "id" : "63246857",
+                    "name" : "Grilled Shrimp Kebob Over Rice Daily Special",
+                    "description" : "With onions, green peppers and mushrooms. Served with cup of soup or salad, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63246858",
+                    "name" : "Grilled Salmon Daily Special",
+                    "description" : "With jumbo grilled shrimps in lemon butter sauce. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246859",
+                    "name" : "Laura's Special",
+                    "description" : "Filet mignon with Alaskan king crab legs. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25.95" }
+                    ]
+                },
+                {
+                    "id" : "63246860",
+                    "name" : "Stuffed Scallops Daily Special",
+                    "description" : "With crabmeat. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246861",
+                    "name" : "Charcoal Grilled Octopus Appetizer Daily Special",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63246862",
+                    "name" : "Charcoal Grilled Octopus Dinner Daily Special",
+                    "description" : "Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63246863",
+                    "name" : "Broiled Stuffed Filet Daily Special",
+                    "description" : "With crabmeat. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246864",
+                    "name" : "Roast Long Island Duck Daily Special",
+                    "description" : "With stuffing and orange sauce. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246865",
+                    "name" : "Mediterranean Stuffed Breast of Chicken Daily Special",
+                    "description" : "Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246866",
+                    "name" : "Chicken Pescatore Daily Special",
+                    "description" : "Sauteed chicken breast with jumbo garlic shrimp, scallions, fresh mushrooms and sun-dried tomatoes in a white wine sauce. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246867",
+                    "name" : "Beef &amp; Reef Daily Special",
+                    "description" : "Whole broiled Romanian steak with 2 crabmeat stuffed shrimp. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "23.95" }
+                    ]
+                },
+                {
+                    "id" : "63246868",
+                    "name" : "Red Snapper Daily Special",
+                    "description" : "Fillet or whole. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : "Fillet",  "price" : "15.95" }
+,                        { "name" : "Whole",  "price" : "19.95" }
+                    ]
+                },
+                {
+                    "id" : "63246869",
+                    "name" : "Grilled Brook Trout (Whole) Daily Special",
+                    "description" : "Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246870",
+                    "name" : "Grilled Tuna Steak Daily Special",
+                    "description" : "Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63246871",
+                    "name" : "Striped Bass (Fillet) Daily Special",
+                    "description" : "Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63246872",
+                    "name" : "Poppiano Michaels Daily Special",
+                    "description" : "Mussels, clams and shrimp in spicy tomato broth, scallops and lobster tail. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "23.95" }
+                    ]
+                },
+                {
+                    "id" : "63246873",
+                    "name" : "Veal Piccata Daily Special",
+                    "description" : "Artichoke and capers. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246874",
+                    "name" : "Veal Marsala Daily Special",
+                    "description" : "With marsala wine and fresh mushrooms. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246875",
+                    "name" : "Veal Francaise Daily Special",
+                    "description" : "With lemon butter and sauce. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246876",
+                    "name" : "Chicken &amp; Veal Marsala Daily Special",
+                    "description" : "With marsala wine and fresh mushrooms. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246877",
+                    "name" : "Chicken Piccata Daily Special",
+                    "description" : "With artichoke and capers. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246878",
+                    "name" : "Chicken Marsala Daily Special",
+                    "description" : "With fresh mushrooms. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63246879",
+                    "name" : "Chicken Francaise Daily Special",
+                    "description" : "With lemon butter sauce. Served with cup of soup or salad, potato and vegetable, dessert, coffee or tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893708", 
+                "name" : "Side Orders",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247170",
+                    "name" : "French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.3" }
+                    ]
+                },
+                {
+                    "id" : "63247171",
+                    "name" : "Home Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.3" }
+                    ]
+                },
+                {
+                    "id" : "63247172",
+                    "name" : "Disco Fries",
+                    "description" : "Served with gravy and melted cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.3" }
+                    ]
+                },
+                {
+                    "id" : "63247173",
+                    "name" : "Baked Potato (Dinner Only)",
+                    "description" : "Served after 5 p.m.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.85" }
+                    ]
+                },
+                {
+                    "id" : "63247174",
+                    "name" : "Mashed Potatoes",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.1" }
+                    ]
+                },
+                {
+                    "id" : "63247175",
+                    "name" : "Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.3" }
+                    ]
+                },
+                {
+                    "id" : "63247176",
+                    "name" : "Cole Slaw",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.85" }
+                    ]
+                },
+                {
+                    "id" : "63247177",
+                    "name" : "Potato Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.85" }
+                    ]
+                },
+                {
+                    "id" : "63247178",
+                    "name" : "Bacon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.1" }
+                    ]
+                },
+                {
+                    "id" : "63247179",
+                    "name" : "Ham",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.1" }
+                    ]
+                },
+                {
+                    "id" : "63247180",
+                    "name" : "Sausage",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.1" }
+                    ]
+                },
+                {
+                    "id" : "63247181",
+                    "name" : "Irish Bacon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.3" }
+                    ]
+                },
+                {
+                    "id" : "63247182",
+                    "name" : "Irish Sausage",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.3" }
+                    ]
+                },
+                {
+                    "id" : "63247183",
+                    "name" : "Irish Baked Beans",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.3" }
+                    ]
+                },
+                {
+                    "id" : "63247184",
+                    "name" : "Fresh Vegetables",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.3" }
+                    ]
+                },
+                {
+                    "id" : "63247185",
+                    "name" : "Cottage Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.3" }
+                    ]
+                },
+                {
+                    "id" : "63247186",
+                    "name" : "Garlic Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.3" }
+                    ]
+                },
+                {
+                    "id" : "63247187",
+                    "name" : "Sweet Potato Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.85" }
+                    ]
+                },
+                {
+                    "id" : "63247188",
+                    "name" : "Fresh Vegetables Platter",
+                    "description" : "Broccoli, spinach, string beans and carrots, served with potato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893700", 
+                "name" : "Children's Menu",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247089",
+                    "name" : "Children's Beefburger Patty",
+                    "description" : "Served with french fries and veggies, a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247090",
+                    "name" : "Children's Fried Fillet of Sole",
+                    "description" : "Served with french fries, veggies and tartar sauce, a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247091",
+                    "name" : "Children's Sliced Roast Turkey",
+                    "description" : "Giblet gravy, cranberry sauce, veggies and mashed potato. Served with a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247092",
+                    "name" : "Children's Grilled American Cheese",
+                    "description" : "Served with french fries and veggies, a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247093",
+                    "name" : "Children's Spaghetti w/ Meat Sauce",
+                    "description" : "Served with a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247094",
+                    "name" : "Children's Chicken Fingers",
+                    "description" : "Served with french fries and veggies, a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63247095",
+                    "name" : "Fish &amp; Chips",
+                    "description" : "Served with a small soda or chocolate milk and dessert, jello pudding or scoop of ice cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893702", 
+                "name" : "Homemade Desserts and Ice Cream",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247117",
+                    "name" : "Creamy Cheesecake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.4" }
+                    ]
+                },
+                {
+                    "id" : "63247118",
+                    "name" : "Chocolate Mousse",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.4" }
+                    ]
+                },
+                {
+                    "id" : "63247119",
+                    "name" : "Lemon Meringue",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247120",
+                    "name" : "Carrot Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247121",
+                    "name" : "Creamy Rice Pudding",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.4" }
+                    ]
+                },
+                {
+                    "id" : "63247122",
+                    "name" : "Jello",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63247123",
+                    "name" : "Apple Crumb Cake ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.4" }
+                    ]
+                },
+                {
+                    "id" : "63247124",
+                    "name" : "Tiramisu",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247125",
+                    "name" : "Vanilla Ice Cream",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "1 Scoop",  "price" : "2.75" }
+,                        { "name" : "2 Scoops",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63247126",
+                    "name" : "Chocolate Ice Cream",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "1 Scoop",  "price" : "2.75" }
+,                        { "name" : "2 Scoops",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63247127",
+                    "name" : "Strawberry Ice Cream",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "1 Scoop",  "price" : "2.75" }
+,                        { "name" : "2 Scoops",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63247128",
+                    "name" : "Ice Cream Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63247129",
+                    "name" : "Fruit Salad Sundae",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247130",
+                    "name" : "Banana Split",
+                    "description" : "Three generous scoops of ice cream and banana, cushioned between chocolate syrup and a lavish layer of whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.45" }
+                    ]
+                },
+                {
+                    "id" : "63247131",
+                    "name" : "Ice Cream Sundae",
+                    "description" : "Two generous scoops of ice cream cushioned between chocolate syrup and a lavish layer of whipped cream topped with glazed walnuts.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.45" }
+                    ]
+                },
+                {
+                    "id" : "63247132",
+                    "name" : "Tartufo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.2" }
+                    ]
+                },
+                {
+                    "id" : "63247133",
+                    "name" : "Milkshakes",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63247134",
+                    "name" : "Layer Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247135",
+                    "name" : "Assorted Fruit Pies",
+                    "description" : "Please contact restaurant for today's selections.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.45" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

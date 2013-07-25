@@ -1,0 +1,867 @@
+{
+    "menu" : {
+        "id" : "292220",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894105", 
+                "name" : "Soup and Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63250803",
+                    "name" : "Miso Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63250804",
+                    "name" : "Kani Soup",
+                    "description" : "Crabmeat, seaweed and scallions.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63250805",
+                    "name" : "Green Salad",
+                    "description" : "With ginger dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63250806",
+                    "name" : "Seaweed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63250807",
+                    "name" : "Avocado Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63250808",
+                    "name" : "Kani Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63250809",
+                    "name" : "Seafood Salad",
+                    "description" : "Assorted fish with spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63250810",
+                    "name" : "Edamame",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "63250811",
+                    "name" : "Shrimp Shumai",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250812",
+                    "name" : "Eggplant Lady",
+                    "description" : "Shrimp, crab meat, avocado and masago topped with eggplant tempura.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250813",
+                    "name" : "Gyoza",
+                    "description" : "Pork.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63250814",
+                    "name" : "Summer Roll",
+                    "description" : "Your choice of fish with avocado, mango, rice paper and mango sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63250815",
+                    "name" : "Jay's Surprise",
+                    "description" : "Spicy tuna, avocado and tempura flakes over eel tempura and served with eel sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63250816",
+                    "name" : "Tuna Tata",
+                    "description" : "Spicy tuna, avocado and spicy masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "63250817",
+                    "name" : "Spicy Tuna Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63250818",
+                    "name" : "Salmon Pizza",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63250819",
+                    "name" : "Yellowtail Jalapeno",
+                    "description" : "Light seared yellowtail, holopilo and ponzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63250820",
+                    "name" : "Tuna Dumplings",
+                    "description" : "Lobster, avocado, masago and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63250821",
+                    "name" : "Spicy Tuna Sandwich",
+                    "description" : "Spicy tuna, soy paper, tobiko, tempura flakes, sweet sauce and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894103", 
+                "name" : "Roll and Hand Roll",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63250766",
+                    "name" : "Cucumber Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63250748",
+                    "name" : "California Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250754",
+                    "name" : "Tuna Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250755",
+                    "name" : "Salmon Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250761",
+                    "name" : "Salmon Skin Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250756",
+                    "name" : "Yellowtail Scallion Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63250759",
+                    "name" : "Boston Roll",
+                    "description" : "Shrimp, avocado and cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63250774",
+                    "name" : "New York Roll",
+                    "description" : "Shrimp, cucumber and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63250749",
+                    "name" : "Spicy Tuna Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250750",
+                    "name" : "Spicy Salmon Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250752",
+                    "name" : "Spicy Crab Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250753",
+                    "name" : "Spicy Shrimp Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250767",
+                    "name" : "Tuna Avocado Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250770",
+                    "name" : "Salmon Avocado Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250760",
+                    "name" : "Eel Cucumber Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250771",
+                    "name" : "Eel Avocado Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250762",
+                    "name" : "Futomaki Roll",
+                    "description" : "Crab stick, egg, avocado, cucumber and masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250757",
+                    "name" : "Philadelphia Roll",
+                    "description" : "Smoked salmon, cucumber and cream cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63250758",
+                    "name" : "Alaska Roll",
+                    "description" : "Salmon, avocado and cucumber.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63250751",
+                    "name" : "Spicy Yellowtail Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63250765",
+                    "name" : "Shrimp Tempura Cucumber Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63250763",
+                    "name" : "American Roll",
+                    "description" : "Shrimp tempura, avocado, cream cheese and kani.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63250764",
+                    "name" : "Lobster Avocado Roll",
+                    "description" : "Lobster salad, avocado and tempura flakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63250777",
+                    "name" : "Crab Meat Cream Cheese Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250778",
+                    "name" : "Avocado Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63250772",
+                    "name" : "Sweet Potato Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250773",
+                    "name" : "Fried Tofu Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250775",
+                    "name" : "Green Tree Roll",
+                    "description" : "Sweet potato, avocado, cucumber, top kiwi and mango sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "63250776",
+                    "name" : "Hawaii Roll",
+                    "description" : "Cucumber, avocado, asparagus, top mango and mango sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "63250768",
+                    "name" : "Three Roll Special",
+                    "description" : "Your choice of three rolls.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63250769",
+                    "name" : "Two Roll Special",
+                    "description" : "Your choice of two rolls.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894106", 
+                "name" : "Sushi and Sashimi",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63250822",
+                    "name" : "Egg",
+                    "description" : "Tamago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "63250823",
+                    "name" : "Crab Stick",
+                    "description" : "Kani.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63250824",
+                    "name" : "Fried Tofu",
+                    "description" : "Inari.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63250825",
+                    "name" : "Shrimp",
+                    "description" : "Ebi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250826",
+                    "name" : "Squid",
+                    "description" : "Ika.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250827",
+                    "name" : "Smelt Fish Roe",
+                    "description" : "Masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "63250828",
+                    "name" : "Yellowtail",
+                    "description" : "Hamachi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250829",
+                    "name" : "Striped Bass",
+                    "description" : "Suzuki.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250830",
+                    "name" : "Mackerel",
+                    "description" : "Saba.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63250831",
+                    "name" : "Red Clam",
+                    "description" : "Hokkigai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63250832",
+                    "name" : "Eel",
+                    "description" : "Unagi.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250833",
+                    "name" : "Octopus",
+                    "description" : "Tako.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250834",
+                    "name" : "Salmon",
+                    "description" : "Sake.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250835",
+                    "name" : "Albacore",
+                    "description" : "White tuna.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "63250836",
+                    "name" : "Tuna",
+                    "description" : "Maguro.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63250837",
+                    "name" : "Smoked Salmon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63250838",
+                    "name" : "Scallops",
+                    "description" : "Hotategai.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63250839",
+                    "name" : "Salmon Roe",
+                    "description" : "Ikura.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63250840",
+                    "name" : "Three Orders Special",
+                    "description" : "Your choice of three orders. Two pieces per order.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894107", 
+                "name" : "Sushi and Sashimi Roll Platters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63250841",
+                    "name" : "Tuna Combo",
+                    "description" : "Six pieces of tuna sushi and your choice of tuna roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "63250842",
+                    "name" : "Salmon Combo",
+                    "description" : "Six pieces of salmon sushi and your choice of salmon roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "63250843",
+                    "name" : "Eel Combo",
+                    "description" : "Six pieces of eel sushi and one eel cucumber avocado roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "63250844",
+                    "name" : "Yellowtail Combo",
+                    "description" : "Six pieces of yellowtail sushi and your choice of yellowtail roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "63250845",
+                    "name" : "Sushi Deluxe",
+                    "description" : "10 pieces of assorted sushi and your choice of tuna roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17" }
+                    ]
+                },
+                {
+                    "id" : "63250846",
+                    "name" : "Sashimi Combo",
+                    "description" : "Three pieces of tuna, three pieces of salmon, three pieces of yellowtail, three pieces of white tuna and three pieces of striped bass. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18" }
+                    ]
+                },
+                {
+                    "id" : "63250847",
+                    "name" : "Sushi Sashimi Combo",
+                    "description" : "Three pieces of tuna sushi, three pieces of salmon sushi, one piece of tuna sashimi, one piece of salmon sashimi and one tuna roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "19" }
+                    ]
+                },
+                {
+                    "id" : "63250848",
+                    "name" : "Jay's 39 Piece Combo",
+                    "description" : "Three pieces of tuna sushi, three pieces of salmon sushi, three pieces of yellowtail sushi, three pieces of shrimp sushi, three pieces of eel sushi, tuna lover roll, California roll and spicy tuna roll. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "36" }
+                    ]
+                },
+                {
+                    "id" : "63250849",
+                    "name" : "Jay's 60 Piece Combo",
+                    "description" : "California roll, spicy tuna roll, tuna lover roll, two shrimp tempura rolls and two eel rolls. Served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "42" }
+                    ]
+                },
+                {
+                    "id" : "63250850",
+                    "name" : "Jay's 104 Piece Combo",
+                    "description" : "Four pieces of tuna sushi and sashimi, four pieces of tuna sushi and sashimi, four pieces of salmon sushi and sashimi, four pieces of yellowtail sushi and sashimi, four pieces of shrimp sushi and sashimi, four pieces of eel sushi and sashimi and your choi",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "90" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894104", 
+                "name" : "Special Rolls",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63250791",
+                    "name" : "Don't Ask Me Again Roll",
+                    "description" : "Tuna, salmon, whited fish, crab, avocado, make tempura, spicy sauce and masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63250793",
+                    "name" : "Oyster Roll",
+                    "description" : "Deep fried oyster, cucumber, avocado, and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63250801",
+                    "name" : "Naruto Roll",
+                    "description" : "Tuna, salmon, yellowtail, avocado, crab stick, masago wrapped in cucumber and ponzu sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63250779",
+                    "name" : "Love Roll",
+                    "description" : "Spicy tuna, tempura flake, topped with spicy tuna scallion, sweet sauce and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250780",
+                    "name" : "Philly Row Home Roll",
+                    "description" : "Broiled eel, cucumber and avocado inside, spicy tuna on top with spicy mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63250781",
+                    "name" : "Chorishi's Fire Roll",
+                    "description" : "Shrimp tempura, avocado and spicy tuna on top with spicy mayo and crunchy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63250782",
+                    "name" : "Today's Roll",
+                    "description" : "Shrimp tempura, crab, avocado, topped with tuna salmon, sweet sauce, spicy sauce, scallion and tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250783",
+                    "name" : "Romantic Roll",
+                    "description" : "Spicy tuna, white tuna, tuna, avocado, pineapple, masago, wrapped in soy paper and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63250784",
+                    "name" : "Christmas Tree Roll",
+                    "description" : "Shrimp tempura, avocado, crab meat, spicy tuna and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250785",
+                    "name" : "Volcano Roll",
+                    "description" : "King Crab, avocado, cucumber, wrapped in stripe bass on top special sauce, baked.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250786",
+                    "name" : "Black Dragon Roll",
+                    "description" : "Shrimp tempura or spicy tuna, avocado, topped with eel, eel sauce and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250787",
+                    "name" : "Green Dragon Roll",
+                    "description" : "Eel and cucumber roll topped with avocado.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63250788",
+                    "name" : "Rainbow Roll",
+                    "description" : "Spicy crab stick, avocado, cucumber roll, topped with tuna, salmon, striped bass and avocado.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63250789",
+                    "name" : "Yummy Roll",
+                    "description" : "Crabmeat, avocado, cucumber, topped with baked baby lobster, sauce and scallion.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63250790",
+                    "name" : "Oh My Goodness Roll",
+                    "description" : "Chopped lobster and shrimp roll, deep fried, served with spicy tuna and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63250792",
+                    "name" : "Sansom Roll",
+                    "description" : "White fish with mango topped with tuna, avocado and mango sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                },
+                {
+                    "id" : "63250794",
+                    "name" : "Revive Fire Roll",
+                    "description" : "Soft shell crab, cucumber, spicy sauce, topped with spicy crab and tobiko.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63250795",
+                    "name" : "Sakura Roll",
+                    "description" : "Spicy crab meat, topped with shrimp, spicy mayo sauce and masago. Wrapped in soy paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                },
+                {
+                    "id" : "63250796",
+                    "name" : "Lump Crab Meat Roll",
+                    "description" : "Shrimp tempura and avocado roll topped with a spicy lump crab meat wasabi, tobiko and eel sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63250797",
+                    "name" : "Angel Wing Roll",
+                    "description" : "Shrimp tempura, avocado, top crab, spicy sauce and eel sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63250798",
+                    "name" : "American Dream Roll",
+                    "description" : "Spicy tuna and salmon make tempura roll, topped with mango and spicy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63250799",
+                    "name" : "Sunflower Roll",
+                    "description" : "Shrimp tempura, avocado, topped with with lobster and mango wrapped in soy paper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63250800",
+                    "name" : "Spider Roll",
+                    "description" : "Soft-shell crab, avocado, cucumber and masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63250802",
+                    "name" : "King Kong Roll",
+                    "description" : "King crab soft shell crab, crab, shrimp, avocado, cucumber, wrapped in soy paper topped with spicy lump crab and masago.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "28.95" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

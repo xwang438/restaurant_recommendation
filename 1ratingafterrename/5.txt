@@ -1,0 +1,118 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 3.5
+    [mobile_url] => http://m.yelp.com/biz/state-street-bistro-and-pizza-new-haven
+    [rating_img_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png
+    [review_count] => 7
+    [name] => State Street Bistro & Pizza
+    [snippet_image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/07ecbaa39caf/gfx/blank_user_medium.gif
+    [rating_img_url_small] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png
+    [url] => http://www.yelp.com/biz/state-street-bistro-and-pizza-new-haven
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => Chef Shlomi has some amazing foods on his menu. This isn't your typical neighboorhood bistro. If you crave foods with FLAVOR, stop in and check out the...
+                    [time_created] => 1345775056
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media4.ak.yelpcdn.com/photo/zlfeMSECfhSzimqnvbeYAg/ms.jpg
+                            [id] => FgNFs5QUagj8vWRCozBoQg
+                            [name] => Pete T.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => KGPq0PzUHH6PRkHA_P0I8Q
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 1
+                    [excerpt] => Stopped there after picking up someone at the train station. A real no frills take out kind of place. You can eat in but really not a sit down kind of place...
+                    [time_created] => 1344777820
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/WyDoRWzZi3ovW8FwM0tqrg/ms.jpg
+                            [id] => CAkDLMoofOLeSANu3nkfdA
+                            [name] => Eddie R.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png
+                    [id] => Al0jPq5vaQ5NJAR9yotOUg
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 1
+                    [excerpt] => Where should I start? Pizza promised to be at my house between 30-40 minutes. Took an hour and 15 minutes after the delivery guy called me 5 times and asked...
+                    [time_created] => 1335181216
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/07ecbaa39caf/gfx/blank_user_medium.gif
+                            [id] => -8IzqbfVsZ8ZL3B2IT0REw
+                            [name] => Meagan Z.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png
+                    [id] => W2FxCrcJTMeAF_5gdaq-FA
+                )
+
+        )
+
+    [phone] => 2037723299
+    [snippet_text] => A recent great review in the New Haven Advocate got me to check this place out. I got the Chef Shlomi pizza (primarily olives, anchovies, lemon zest) and it...
+    [image_url] => http://s3-media1.ak.yelpcdn.com/bphoto/YSyI9kn3_d8ngLye6Fi2Ig/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => French
+                    [1] => french
+                )
+
+            [1] => Array
+                (
+                    [0] => Pizza
+                    [1] => pizza
+                )
+
+            [2] => Array
+                (
+                    [0] => American (Traditional)
+                    [1] => tradamerican
+                )
+
+        )
+
+    [display_phone] => +1-203-772-3299
+    [rating_img_url_large] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png
+    [id] => state-street-bistro-and-pizza-new-haven
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => New Haven
+            [display_address] => Array
+                (
+                    [0] => 1390 State St
+                    [1] => New Haven, CT 06511
+                )
+
+            [postal_code] => 06511
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 1390 State St
+                )
+
+            [state_code] => CT
+        )
+
+)

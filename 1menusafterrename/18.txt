@@ -1,0 +1,938 @@
+{
+    "menu" : {
+        "id" : "292096",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "5743470", 
+                "name" : "Starters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38869638",
+                    "name" : "Mozzarella Sticks",
+                    "description" : "Served with marinara or melba sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38869641",
+                    "name" : "Fried Mushrooms",
+                    "description" : "Served with ranch dressing or horseradish sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "38869644",
+                    "name" : "Jalapeno Poppers",
+                    "description" : "served with salsa",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "38869645",
+                    "name" : "Wing Dings (Dozen)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869646",
+                    "name" : "Wing Zings",
+                    "description" : "Served with blue cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869648",
+                    "name" : "Buffalo Wings",
+                    "description" : "Dozen served with blue cheese and celery",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869651",
+                    "name" : "Chicken Tenders",
+                    "description" : "Six served with honey mustard or barbecue sauce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869652",
+                    "name" : "Buffalo Tenders",
+                    "description" : "Six served with blue cheese and celer",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869653",
+                    "name" : "Steamed Clams",
+                    "description" : "Dozen when available",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "38869655",
+                    "name" : "Sampler Platter",
+                    "description" : "Mozzarella sticks, chicken tenders &amp; jalapeno poppers with marinara, honey mustard &amp; sour cream",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743474", 
+                "name" : "Salads",
+                "description" : "Choice of dressing: french, russian, creamy italian, lite Italian, oil &amp; vinegar, blue cheese, ranch, parmesan peppercorn, honey mustard, sandwiches",
+                "items" : [
+                {
+                    "id" : "38869665",
+                    "name" : "Chef Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "38869667",
+                    "name" : "Grilled Chicken Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743475", 
+                "name" : "Soup",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38869670",
+                    "name" : "Soup of the Day",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Cup",  "price" : "3.25" }
+,                        { "name" : "Bowl",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "38869671",
+                    "name" : "Chowder",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Cup",  "price" : "3.75" }
+,                        { "name" : "Bowl",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "38869672",
+                    "name" : "Lobster Bisque",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Cup",  "price" : "4.25" }
+,                        { "name" : "Bowl",  "price" : "4.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743477", 
+                "name" : "Entrees",
+                "description" : "All of the above are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter",
+                "items" : [
+                {
+                    "id" : "38869676",
+                    "name" : "NY Strip Steak (Regular Cut)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.25" }
+                    ]
+                },
+                {
+                    "id" : "38869680",
+                    "name" : "NY Strip Steak",
+                    "description" : "Large cut includes salad",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.25" }
+                    ]
+                },
+                {
+                    "id" : "38869681",
+                    "name" : "Chopped Sirloin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "38869682",
+                    "name" : "Chicken Teriyaki",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "38869683",
+                    "name" : "Chicken Parmesan",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "38869684",
+                    "name" : "Boneless Fried Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869685",
+                    "name" : "Roast Turkey with Stuffing",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.75" }
+                    ]
+                },
+                {
+                    "id" : "38869686",
+                    "name" : "10 oz. Filet Mignon",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.25" }
+                    ]
+                },
+                {
+                    "id" : "38869688",
+                    "name" : "One 6 oz. Filet &amp; One Seafood Item",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743479", 
+                "name" : "Featured Dinners - Monday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter",
+                "items" : [
+                {
+                    "id" : "38869696",
+                    "name" : "Baked Ham",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869697",
+                    "name" : "Barbecued Baby Back Ribs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743480", 
+                "name" : "Featured Dinners - Tuesday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter",
+                "items" : [
+                {
+                    "id" : "38869699",
+                    "name" : "Yankee Pot Roast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "38869700",
+                    "name" : "Boneless Chicken Breasts",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "38869702",
+                    "name" : "Meatloaf",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743482", 
+                "name" : "Featured Dinners - Wednesday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter. Available every day",
+                "items" : [
+                {
+                    "id" : "38869706",
+                    "name" : "Roast Beef",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "38869709",
+                    "name" : "Haddock",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "38869711",
+                    "name" : "Scallops",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "38869712",
+                    "name" : "Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "38869714",
+                    "name" : "Fried Clam Strips",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "38869715",
+                    "name" : "Combo (Any Two)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.5" }
+                    ]
+                },
+                {
+                    "id" : "38869717",
+                    "name" : "Combo (Any Three)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743484", 
+                "name" : "Featured Dinners - Thursday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter",
+                "items" : [
+                {
+                    "id" : "38869727",
+                    "name" : "Corned Beef and Cabbage",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "38869733",
+                    "name" : "Roast Turkey with Stuffing",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743485", 
+                "name" : "Featured Dinners - Friday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter. Available every day",
+                "items" : [
+                {
+                    "id" : "38869739",
+                    "name" : "Haddock",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "38869742",
+                    "name" : "Scallops",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "38869744",
+                    "name" : "Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "38869746",
+                    "name" : "Fried Clam Strips",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "38869748",
+                    "name" : "Creamed Cod",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "38869751",
+                    "name" : "Combo (Any Two)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.5" }
+                    ]
+                },
+                {
+                    "id" : "38869756",
+                    "name" : "Combo (Any Three)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743488", 
+                "name" : "Featured Dinners - Saturday",
+                "description" : "All dinners are served with choice of potato and vegetable or two vegetables, rye bread &amp; butter",
+                "items" : [
+                {
+                    "id" : "38869763",
+                    "name" : "Roast Beef",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "38869765",
+                    "name" : "Prime Rib",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.5" }
+                    ]
+                },
+                {
+                    "id" : "38869769",
+                    "name" : "Barbecued Baby Back Ribs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743493", 
+                "name" : "Main Menu",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38869793",
+                    "name" : "Roast Turkey",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "38869798",
+                    "name" : "Pilgrim",
+                    "description" : "Turkey, stuffing, and cranberry",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869804",
+                    "name" : "Turkey Rueben",
+                    "description" : "With either cole slaw or sauerkraut",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869813",
+                    "name" : "Roast Beef",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869815",
+                    "name" : "French Dip",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "38869819",
+                    "name" : "Ham &amp; Cheese (Cold or Grilled)",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38869823",
+                    "name" : "Tuna Salad",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "38869825",
+                    "name" : "Tuna Melt",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "38869832",
+                    "name" : "Chicken Dijon",
+                    "description" : "Grilled chicken, bacon &amp; swiss with dijon mustard on a kaiser roll",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869838",
+                    "name" : "Grilled Chicken",
+                    "description" : "With american cheese, lettuce, tomato. Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38869840",
+                    "name" : "Fried Chicken",
+                    "description" : "With american cheese, lettuce, tomato. Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38869842",
+                    "name" : "Buffalo Chicken",
+                    "description" : "Served with blue cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38869850",
+                    "name" : "Liverwurst",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "38869853",
+                    "name" : "Corned Beef",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869856",
+                    "name" : "Rueben",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "38869858",
+                    "name" : "Western",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "38869861",
+                    "name" : "Grilled Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "38869863",
+                    "name" : "Bacon, Lettuce, &amp; Tomato",
+                    "description" : "Available every day",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "38869865",
+                    "name" : "Fried Clam Strips on a Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "38869867",
+                    "name" : "Fried Haddock",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "38869871",
+                    "name" : "Our Traditional Hamburger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "38869873",
+                    "name" : "Our Traditional Cheeseburger",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "38869877",
+                    "name" : "Hot Dog",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "38869880",
+                    "name" : "Hot Dog",
+                    "description" : "With chili, cheddar cheese, or sauerkraut. Veggie burgers are available",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "38869886",
+                    "name" : "Warm Baked Virginia Ham",
+                    "description" : "With melted cheese. Veggie burgers are available",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869890",
+                    "name" : "Monte Cristo",
+                    "description" : "Ham, turkey &amp; swiss grilled on rye with dijon mustard. Veggie burgers are available",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "38869893",
+                    "name" : "Veggie Rueben",
+                    "description" : "Tomato, swiss cheese &amp; sauerkraut with russian. Veggie burgers are available",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743512", 
+                "name" : "Hot Sandwiches",
+                "description" : "Served as a club for an additional $1.25. Sandwiches served on white, rye, wheat bread or kaiser roll. French fries may be substituted for potato chips for an additional $1.00, onion rings for $1.50. Cheese additional $0.75, bacon additional $0.75. The ab",
+                "items" : [
+                {
+                    "id" : "38869953",
+                    "name" : "Hot Turkey Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "38869956",
+                    "name" : "Hot Roast Beef Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743517", 
+                "name" : "Subs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38869978",
+                    "name" : "Chicken Parmesan",
+                    "description" : "Served with mozzarella cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869985",
+                    "name" : "Philly Cheese Steak",
+                    "description" : "With onions, peppers, and cheddar cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38869987",
+                    "name" : "Prime Rib",
+                    "description" : "With cheddar cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743523", 
+                "name" : "Specialty Burgers",
+                "description" : "10 Ounce ground sirloin served on a kaiser roll with potato chips &amp; pickle. French fries may be substituted for potato chips for an additional $1.00, onion rings for $1.50",
+                "items" : [
+                {
+                    "id" : "38870003",
+                    "name" : "American Burger",
+                    "description" : "With lettuce, tomato, onion and cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38870005",
+                    "name" : "Classic Burger",
+                    "description" : "With lettuce, tomato, sautéed peppers &amp; onions and cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38870008",
+                    "name" : "Horseradish Burger",
+                    "description" : "With lettuce and choice of cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38870010",
+                    "name" : "Bacon Cheddar Burger",
+                    "description" : "With lettuce, tomato and onion",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "38870012",
+                    "name" : "Mushroom Swiss Burger",
+                    "description" : "With lettuce and sauteed onions",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38870019",
+                    "name" : "Texas Burger",
+                    "description" : "With barbecue sauce, bacon, sauteed onions and american cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "38870025",
+                    "name" : "Deluxe Burger",
+                    "description" : "With fried onion rings and bleu cheese dressing",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38870029",
+                    "name" : "Southwest Burger",
+                    "description" : "With pepperjack cheese, jalapenos and salsa",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "38870032",
+                    "name" : "Hamburger Club",
+                    "description" : "With lettuce, tomato and bacon served on toast",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38870036",
+                    "name" : "Cheeseburger Club",
+                    "description" : "With lettuce, tomato and bacon served on toast",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "38870045",
+                    "name" : "Patty Melt",
+                    "description" : "With sauteed onions &amp; choice of cheese on grilled rye",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "38870051",
+                    "name" : "Italian Burger",
+                    "description" : "With mushrooms &amp; peppers, mozzarella cheese &amp; marinara",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38870054",
+                    "name" : "Jumbo Burger",
+                    "description" : "Two 7 oz. patties with lettuce, tomato, onion &amp; choice of cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5743533", 
+                "name" : "Sides",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38870059",
+                    "name" : "French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "38870060",
+                    "name" : "Small Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "38870061",
+                    "name" : "Gravy Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.25" }
+                    ]
+                },
+                {
+                    "id" : "38870066",
+                    "name" : "Cheddar Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "38870068",
+                    "name" : "Bacon Cheddar Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "38870070",
+                    "name" : "Mashed Potatoes",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "38870072",
+                    "name" : "Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "38870073",
+                    "name" : "Tossed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "38870074",
+                    "name" : "Cole Slaw",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "38870075",
+                    "name" : "Macaroni &amp; Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "38870076",
+                    "name" : "Bowl of Chili",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

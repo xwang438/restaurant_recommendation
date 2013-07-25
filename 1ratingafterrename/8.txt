@@ -1,0 +1,130 @@
+stdClass Object
+(
+    [is_claimed] => 1
+    [rating] => 4
+    [mobile_url] => http://m.yelp.com/biz/ameer-kabob-chicago
+    [rating_img_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+    [review_count] => 84
+    [name] => Ameer Kabob
+    [snippet_image_url] => http://s3-media1.ak.yelpcdn.com/photo/cw6aoAcxE8N-RPSyz6ZL3Q/ms.jpg
+    [rating_img_url_small] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+    [url] => http://www.yelp.com/biz/ameer-kabob-chicago
+    [reviews] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rating] => 4
+                    [excerpt] => I much prefer Ameer Kabab over Falafel and Grill. 
+
+The kafta entree's meat is tender and juicy and the rice is fresh and flavorful. I cannot say the same...
+                    [time_created] => 1368557788
+                    [rating_image_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png
+                    [rating_image_small_url] => http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/cw6aoAcxE8N-RPSyz6ZL3Q/ms.jpg
+                            [id] => rsF_Yi9DrVXzUykMYxAeTg
+                            [name] => Dave C.
+                        )
+
+                    [rating_image_large_url] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+                    [id] => QiKU2qXuSU2_-YMF8DtlpQ
+                )
+
+            [1] => stdClass Object
+                (
+                    [rating] => 5
+                    [excerpt] => Let's see. Decor, cute, but not fancy. 
+Prices: DC and Socal being my main frames of reference, this is dirt cheap 
+Service: pretty good (under new...
+                    [time_created] => 1358793193
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media1.ak.yelpcdn.com/photo/fpxK4C2bHQwFINXeaI_Cgw/ms.jpg
+                            [id] => THIo3xErYo8A4oWLrIgChg
+                            [name] => Zaina- B.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png
+                    [id] => ScaugZC_PQmObazdb3fCzQ
+                )
+
+            [2] => stdClass Object
+                (
+                    [rating] => 1
+                    [excerpt] => Food was TERRIBLE!! We got delivery and everything was horrible! Pita was as hard as a rock and tasted like sand paper. They sent the wrong salad and the...
+                    [time_created] => 1369626278
+                    [rating_image_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png
+                    [rating_image_small_url] => http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png
+                    [user] => stdClass Object
+                        (
+                            [image_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/07ecbaa39caf/gfx/blank_user_medium.gif
+                            [id] => c22W0G2WGadW4yN23YR6xA
+                            [name] => L. Y.
+                        )
+
+                    [rating_image_large_url] => http://s3-media3.ak.yelpcdn.com/assets/2/www/img/cc5d90a21966/ico/stars/v1/stars_large_1.png
+                    [id] => B7ayxoQQtV_FepLU5kcwTw
+                )
+
+        )
+
+    [phone] => 7734898888
+    [snippet_text] => I much prefer Ameer Kabab over Falafel and Grill. 
+
+The kafta entree's meat is tender and juicy and the rice is fresh and flavorful. I cannot say the same...
+    [image_url] => http://s3-media3.ak.yelpcdn.com/bphoto/8witc-K2Xxhbz8Xnzo9yig/ms.jpg
+    [categories] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Mediterranean
+                    [1] => mediterranean
+                )
+
+            [1] => Array
+                (
+                    [0] => Middle Eastern
+                    [1] => mideastern
+                )
+
+            [2] => Array
+                (
+                    [0] => Halal
+                    [1] => halal
+                )
+
+        )
+
+    [display_phone] => +1-773-489-8888
+    [rating_img_url_large] => http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png
+    [id] => ameer-kabob-chicago
+    [is_closed] => 
+    [location] => stdClass Object
+        (
+            [city] => Chicago
+            [display_address] => Array
+                (
+                    [0] => 1050 N Milwaukee Ave
+                    [1] => Noble Square
+                    [2] => Chicago, IL 60642
+                )
+
+            [neighborhoods] => Array
+                (
+                    [0] => Noble Square
+                )
+
+            [postal_code] => 60642
+            [country_code] => US
+            [address] => Array
+                (
+                    [0] => 1050 N Milwaukee Ave
+                )
+
+            [state_code] => IL
+        )
+
+)

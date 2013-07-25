@@ -1,0 +1,215 @@
+{
+    "menu" : {
+        "id" : "292152",
+        "groups" : [
+        {
+            "id" : "3",
+            "name" : "Dinner",
+            "categories" : [
+            {
+                "id" : "7741799", 
+                "name" : "Sopa",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54714807",
+                    "name" : "Caldo Verde",
+                    "description" : "Pureed potato broth with collards and chourico.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741800", 
+                "name" : "Saladas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54714836",
+                    "name" : "Salada De Cores",
+                    "description" : "Chopped vegetables, red wine coriander vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14" }
+                    ]
+                },
+                {
+                    "id" : "54714862",
+                    "name" : "Salada De Marisco",
+                    "description" : "Spicy seafood salad, hearts of palm, orange, watercress.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741804", 
+                "name" : "Entradas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54714893",
+                    "name" : "Moelas",
+                    "description" : "Braised chicken gizzards.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9" }
+                    ]
+                },
+                {
+                    "id" : "54714914",
+                    "name" : "Bacalhau Cru",
+                    "description" : "Salt cod sashimi, rabe puree, olives, basil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54714928",
+                    "name" : "Sardinhas Na Brasa",
+                    "description" : "Whole grilled sardines, roasted peppers.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12" }
+                    ]
+                },
+                {
+                    "id" : "54714979",
+                    "name" : "Camarao Com Piri Piri",
+                    "description" : "Shrimp with hot sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15" }
+                    ]
+                },
+                {
+                    "id" : "54715067",
+                    "name" : "Pasteis De Bacalhau",
+                    "description" : "Potato &amp; salt cod croquettes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10" }
+                    ]
+                },
+                {
+                    "id" : "54715073",
+                    "name" : "Alheira",
+                    "description" : "Smoked sausage, sauteed greens, fried egg.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741827", 
+                "name" : "Peixe E Marisco",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54715100",
+                    "name" : "Lulas Estufadas",
+                    "description" : "Fried and braised squid, tomatoes, cumin, mashed potatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "34" }
+                    ]
+                },
+                {
+                    "id" : "54715121",
+                    "name" : "Bacalhau A Gomes De Sa",
+                    "description" : "Salt cod, caramelized onions, potato, egg, olives.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "35" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741835", 
+                "name" : "Vegetariano",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54715153",
+                    "name" : "Acorda De Cogumelos",
+                    "description" : "Bread soup, mushrooms, cheese, poached eggs.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "28" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741840", 
+                "name" : "Carne",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54715178",
+                    "name" : "Carne De Porco A Alentejano",
+                    "description" : "Pork &amp; clams, fried potatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "35" }
+                    ]
+                },
+                {
+                    "id" : "54715194",
+                    "name" : "Bife A Portuguesa",
+                    "description" : "Picanha steak, presunto, fried egg, fried potatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "36" }
+                    ]
+                },
+                {
+                    "id" : "54715206",
+                    "name" : "Arroz De Pato",
+                    "description" : "Baked duck rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "34" }
+                    ]
+                }]
+            },
+            {
+                "id" : "7741854", 
+                "name" : "Sobremesas",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "54715326",
+                    "name" : "Bolo De Amendoa",
+                    "description" : "Flourless almond cake, citrus curd, whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54715341",
+                    "name" : "Pudim De Pao De Chocolate",
+                    "description" : "Chocolate hazelnut bread pudding.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54715354",
+                    "name" : "Tarte De Coco",
+                    "description" : "Coconut tart with chocolate whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7" }
+                    ]
+                },
+                {
+                    "id" : "54715382",
+                    "name" : "Prato De Chocolates",
+                    "description" : "Chocolate: hazelnut stuffed figs, salami, almond balls.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "54715400",
+                    "name" : "Bolo De Bolacha",
+                    "description" : "Coffee soaked wafers, buttercream, fruit compote.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}
