@@ -1,0 +1,646 @@
+{
+    "menu" : {
+        "id" : "292295",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8320216", 
+                "name" : "Cold Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904419",
+                    "name" : "Yogurt Spread",
+                    "description" : "Creamy yogurt seasoned with dill, mint and garlic.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904423",
+                    "name" : "Tabbuli",
+                    "description" : "Cracked bulgur wheat mixed with parsley, scallions and tomatoes tossed with lemon juice. ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904428",
+                    "name" : "Potato Salad",
+                    "description" : "Cubed potatoes, corn, peas, cubed carrots, and pickles tossed with a creamy mayonnaise base sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904431",
+                    "name" : "Spinach Tarator",
+                    "description" : "Spinach sautéed with onions served with creamy yogurt and garlic.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904433",
+                    "name" : "Cucumber Salad",
+                    "description" : "Shredded cucumbers blended with garlic yogurt and mint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904434",
+                    "name" : "Shakshuka",
+                    "description" : "Cubes of eggplant fried in olive oil served with garlic and tomato sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904436",
+                    "name" : "Stuffed Grape Leaves",
+                    "description" : "Grape leaves stuffed with rice, garlic, pomegranate syrup and herbs cooked with olive oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904438",
+                    "name" : "Eggplant Salad",
+                    "description" : "Mashed char-grilled smoky eggplant mixed with garlic, olive oil and lemon juice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904441",
+                    "name" : "White Bean Salad",
+                    "description" : "White kidney beans, tossed with tomatoes, onion, parsley, green peppers, olive oil, and lemon juice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904447",
+                    "name" : "Fried Mixed Vegetables",
+                    "description" : "Cubes of eggplants, zucchini, green peppers fried and served with garlic and yogurt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904454",
+                    "name" : "Spicy Salad",
+                    "description" : "A mixture of minced tomatoes, fresh peppers and parsley, tossed with spices, olive oil, onion, red pepper paste, and pomegranate and lemon juice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "58904461",
+                    "name" : "Mediterranean Salad",
+                    "description" : "Add feta cheese $1.00. Romaine lettuce, tomatoes, cucumber, onions, served with lemon and olive oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "58904467",
+                    "name" : "Shepherd Salad",
+                    "description" : "Finely diced tomatoes cucumbers, green peppers, onions, parsley, tossed in olive oil and fresh lemon juice. Add feta cheese $1.00.",
+                    "sizes" : [
+                        { "name" : "(Small)",  "price" : "6.95" }
+,                        { "name" : "(Large)",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "58904471",
+                    "name" : "Mixed Appetizer Plate",
+                    "description" : "Saksuka, potato salad, mixed fried veggie, spinach tarator, tabbuli, stuffed grape leaves.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "58908587",
+                    "name" : "Humus",
+                    "description" : "Chickpeas and sesame pasta seasoned with garlic and olive oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320223", 
+                "name" : "Hot Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904483",
+                    "name" : "Fried Cheese Pastries",
+                    "description" : "Crispy cigar-shaped rolls of phyllo pastry with a blend of zesty feta cheese and fresh parsley.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904490",
+                    "name" : "Pan-Fried Pastry",
+                    "description" : "A pan fried phyllo pastry with ground beef. (One piece, 2 pieces).",
+                    "sizes" : [
+                        { "name" : "(1)",  "price" : "4.95" }
+,                        { "name" : "(2)",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "58904495",
+                    "name" : "Gozleme",
+                    "description" : "Stuffed phyllo pastry cooked on a griddle. Stuffing choices are feta cheese, and parsley, ground beef, spinach, potatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320225", 
+                "name" : "Soups",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904499",
+                    "name" : "Red Lentil Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "58904500",
+                    "name" : "Cream Of Chicken Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "58904505",
+                    "name" : "Yogurt And Rice Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320228", 
+                "name" : "Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904510",
+                    "name" : "Turkish Hot Dog",
+                    "description" : "Turkish hot dog with mayonnaise based veggie salad which includes pickles, carrots, peas, potato and corn.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904521",
+                    "name" : "Cheese Panini",
+                    "description" : "Panini with turkish feta cheese, tomato and turkish black olives.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904525",
+                    "name" : "Grilled Cheese Sandwich",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "58904527",
+                    "name" : "Grilled Sausage And Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "58904529",
+                    "name" : "Falafel",
+                    "description" : "Panini bread, hummus, lettuce, tomatoes and small croquette of mashed chick peas seasoned with turkish spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "58904535",
+                    "name" : "Turkish Panini",
+                    "description" : "Panini with turkish beef sausage, salami, mozzarella cheese, ketchup, mayonnaise and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "58904541",
+                    "name" : "Gyro Sandwich: Chicken Or Beef",
+                    "description" : "Thinly sliced roasted beef, sauteed onion, lettuce, tomato and garlic yogurt sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320234", 
+                "name" : "Kebabs",
+                "description" : "Served with rice pilaf and salad.",
+                "items" : [
+                {
+                    "id" : "58904547",
+                    "name" : "Char-Grilled Meatballs",
+                    "description" : "Turkish style meatballs are spiced with traditional flavors such as onion, garlic, parsley and cumin.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904549",
+                    "name" : "Gyro Plate",
+                    "description" : "Thinly sliced roasted beef.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904553",
+                    "name" : "Skewered Spicy Ground Beef",
+                    "description" : "This kebab brings you the traditional flavor of spicy turkish meatballs on skewer.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904558",
+                    "name" : "Chicken Shish Kebab",
+                    "description" : "Marinated chicken thigh cubes on skewer that are char-grilled for perfection.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904561",
+                    "name" : "Iskender",
+                    "description" : "Gyro served with pita bread, tomato sauce and yogurt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "58904562",
+                    "name" : "Shrimp Shish Kebab",
+                    "description" : "Marinated with turkish spices, shrimp is skewered and grilled to perfection.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "58904565",
+                    "name" : "Lamb Shish Kebab",
+                    "description" : "Classic shish kebab with amazingly marinated cubes of lamb.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "58904567",
+                    "name" : "Grilled Lamb Chop",
+                    "description" : "Marinated with turkish spices, lamb chops are grilled usually well done.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "58904575",
+                    "name" : "Mixed Kebab Plate",
+                    "description" : "Half potions of chicken kebab, adana kebab, ciz biz kofte and shish kebab.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "24.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320245", 
+                "name" : "Sunday Special",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904598",
+                    "name" : "Stuffed Pita Bread",
+                    "description" : "Pide, also known as pita, is a pizza-like dish, served with either cheese or ground beef.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320247", 
+                "name" : "Entrees",
+                "description" : "Served with rice pilaf and soup or salad.",
+                "items" : [
+                {
+                    "id" : "58904608",
+                    "name" : "White Beans Cooked With Lamb",
+                    "description" : "White beans cooked with tomato, onion, green pepper and red pepper paste.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904611",
+                    "name" : "Chickpeas Cooked With Lamb",
+                    "description" : "Chickpeas cooked with tomato, onion, green pepper and red pepper paste.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904617",
+                    "name" : "Meatball Stew With Veggies",
+                    "description" : "Meat cooked with potato, carrot, tomato, onion, zucchini, peas, green pepper and red pepper paste.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904621",
+                    "name" : "Spiced Beef Patties",
+                    "description" : "Pan fried ground beef with tomato sauce, comes with french fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904628",
+                    "name" : "Woman's Thighs Meat Patties",
+                    "description" : "Meat patties that is made with beef, rice and spices. ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904633",
+                    "name" : "Beef Kebab With Eggplant",
+                    "description" : "Baked beef cubes, eggplant.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904638",
+                    "name" : "Moussaka",
+                    "description" : "Eggplant sauteed with ground beef.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904644",
+                    "name" : "Beef Eggplant",
+                    "description" : "Fried whole eggplants stuffed with ground beef and baked to perfection.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904647",
+                    "name" : "Chicken With Bechamel Sauce",
+                    "description" : "Chicken thighs are baked to perfection in a creamy sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "58904655",
+                    "name" : "Sauteed Beef Cubes",
+                    "description" : "Beef cubes, onion, tomato, green pepper.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "58904660",
+                    "name" : "Ottoman Dish",
+                    "description" : "Classic ottoman dish made with beef or lamb over smoked eggplant puree.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "58904674",
+                    "name" : "Shrimp Casserole",
+                    "description" : "Shrimp baked with sauteed onions, tomatoes, peppers, mushrooms and mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320258", 
+                "name" : "Vegetarian Entrees",
+                "description" : "Served with rice pilaf and your choice of soup or salad.",
+                "items" : [
+                {
+                    "id" : "58904700",
+                    "name" : "White Beans Stew",
+                    "description" : "White beans cooked with tomato, onion, green pepper and red pepper paste.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "58904704",
+                    "name" : "Chickpeas Stew",
+                    "description" : "Chickpeas cooked with tomato, onion, green pepper and red pepper paste.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "58904722",
+                    "name" : "Okra Stew",
+                    "description" : "Baby okra cooked with tomato, onion, green and red pepper, garlic and lemon juice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "58904732",
+                    "name" : "Mixed Vegetables Stew",
+                    "description" : "Mixed sauteed veggies baked in a tomato sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "58904735",
+                    "name" : "Falafel",
+                    "description" : "Small croquette of mashed chick peas seasoned with turkish spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320263", 
+                "name" : "Brunch",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904737",
+                    "name" : "Scrambled Eggs Deluxe",
+                    "description" : "Scrambled eggs with tomato, green pepper and feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "58904743",
+                    "name" : "Eggs With Turkish Sausage",
+                    "description" : "Sunny side up eggs blended with fried turkish sausage.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "58904746",
+                    "name" : "Cheesy Eggs",
+                    "description" : "Scrambled eggs with feta cheese and parsley.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "58904750",
+                    "name" : "Breakfast Plate",
+                    "description" : "Butter, jelly or honey, tomatoes, cucumbers, feta cheese, black olives, hardboiled egg with a cup of tea.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320267", 
+                "name" : "Side Dishes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904766",
+                    "name" : "Side Dishes",
+                    "description" : "Rice pilaf or french fries or yogurt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320271", 
+                "name" : "House Specials",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904788",
+                    "name" : "Beef Or Spinach",
+                    "description" : "Homemade poached ground beef or spinach dumplings served with garlic and yogurt and spicy butter sauce and sprinkled dried mint. Also ask for frozen manti sold by the pound for your convenience.",
+                    "sizes" : [
+                        { "name" : "(Side Dish)",  "price" : "11.95" }
+,                        { "name" : "(Entree)",  "price" : "16.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320272", 
+                "name" : "Turkish Pastries",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58904794",
+                    "name" : "Su Boregi",
+                    "description" : "Layered pastry with feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904796",
+                    "name" : "Carsaf Boregi",
+                    "description" : "Flaky pastry with ground beef, potatoes or spinach and feta cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "58904800",
+                    "name" : "Un Kurabiyesi",
+                    "description" : "Turkish shortbread cookies.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8320275", 
+                "name" : "Desserts",
+                "description" : "Add $1.00 and get it served with a scoop of vanilla ice-cream.",
+                "items" : [
+                {
+                    "id" : "58904804",
+                    "name" : "Baklava",
+                    "description" : "Phyllo pastry with walnuts and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904809",
+                    "name" : "Sekerpare",
+                    "description" : "Unique turkish cookie with syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "58904811",
+                    "name" : "Kadayif",
+                    "description" : "Shredded phyllo pastry with walnuts and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904814",
+                    "name" : "Firinda Sutlac",
+                    "description" : "Baked rice pudding.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "58904815",
+                    "name" : "Supangle",
+                    "description" : "Chocolate pudding that has chocolate cake pieces inside.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

@@ -1,0 +1,520 @@
+{
+    "menu" : {
+        "id" : "292131",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8255385", 
+                "name" : "Subs",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374146",
+                    "name" : "Lamb Kabob Sub",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "58374147",
+                    "name" : "Chicken Kabob Sub",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374148",
+                    "name" : "Lamb Kobiedah Kabob Sub",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374149",
+                    "name" : "Chicken Kobiedah Kabob Sub",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "58374150",
+                    "name" : "Grilled Chicken Sub",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255386", 
+                "name" : "Buffet",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374151",
+                    "name" : "Chicken Tikka Masala",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "4.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374152",
+                    "name" : "Chicken Khorma",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "4.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374153",
+                    "name" : "Palak Paneer",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "4.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374154",
+                    "name" : "Mixed Vegetables",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "3.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "58374155",
+                    "name" : "Pumpkin",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "3.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "58374156",
+                    "name" : "Chick Peas",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "3.99" }
+,                        { "name" : "w/ Rice &amp; Bread",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "58374157",
+                    "name" : "Chicken Biryani",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255387", 
+                "name" : "Side Orders",
+                "description" : "Healthy food all made fresh to order",
+                "items" : [
+                {
+                    "id" : "58374158",
+                    "name" : "Afghan Flat Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.49" }
+                    ]
+                },
+                {
+                    "id" : "58374159",
+                    "name" : "Panini Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "58374160",
+                    "name" : "Bolani",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "58374161",
+                    "name" : "Samosa",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "58374162",
+                    "name" : "Falafel",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "58374163",
+                    "name" : "Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.49" }
+                    ]
+                },
+                {
+                    "id" : "58374164",
+                    "name" : "Small Chicken Tikka Masala",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255388", 
+                "name" : "Salads",
+                "description" : "Choice of meats $2.99 extra",
+                "items" : [
+                {
+                    "id" : "58374165",
+                    "name" : "Garden Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "58374166",
+                    "name" : "Greek Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "58374167",
+                    "name" : "Chicken Kabob Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "58374168",
+                    "name" : "Lamb Kabob Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255389", 
+                "name" : "Meals With Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374169",
+                    "name" : "Lamb Chops with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "10.99" }
+,                        { "name" : "Combo",  "price" : "14.99" }
+                    ]
+                },
+                {
+                    "id" : "58374170",
+                    "name" : "Lamb Kabob with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "7.99" }
+,                        { "name" : "Combo",  "price" : "12.99" }
+                    ]
+                },
+                {
+                    "id" : "58374171",
+                    "name" : "Chicken Kabob with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "6.75" }
+,                        { "name" : "Combo",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "58374172",
+                    "name" : "Lamb Kobiedah with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "6.99" }
+,                        { "name" : "Combo",  "price" : "10.99" }
+                    ]
+                },
+                {
+                    "id" : "58374173",
+                    "name" : "Chicken Kobiedah with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "5.99" }
+,                        { "name" : "Combo",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "58374174",
+                    "name" : "Salmon Fish Kabob with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "7.99" }
+,                        { "name" : "Combo",  "price" : "11.99" }
+                    ]
+                },
+                {
+                    "id" : "58374175",
+                    "name" : "Lamb/Chicken Combination with Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Only",  "price" : "13.99" }
+,                        { "name" : "Combo",  "price" : "21.99" }
+                    ]
+                },
+                {
+                    "id" : "58374176",
+                    "name" : "Lamb Gyro",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "58374177",
+                    "name" : "Chicken Gyro",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "58374178",
+                    "name" : "Panini Wrap with Lamb",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "58374179",
+                    "name" : "Panini Wrap with Chicken",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255390", 
+                "name" : "Desserts",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374180",
+                    "name" : "Chocolate Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "58374181",
+                    "name" : "Carrot Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "58374182",
+                    "name" : "Strawberry Cheese Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "58374183",
+                    "name" : "Cheese Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "58374184",
+                    "name" : "Bakhlava",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "58374185",
+                    "name" : "Rice Pudding",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "58374186",
+                    "name" : "Khear",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "58374187",
+                    "name" : "Fruit Pineapple",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255391", 
+                "name" : "Ice Cream",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374188",
+                    "name" : "Single Scoop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "58374189",
+                    "name" : "Double Scoop",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.49" }
+                    ]
+                },
+                {
+                    "id" : "58374190",
+                    "name" : "1/2 Pint",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "58374191",
+                    "name" : "1 Pint",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "58374192",
+                    "name" : "Milk Shake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255392", 
+                "name" : "Lamb/Chicken Combinations",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374193",
+                    "name" : "2 Person Combo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.99" }
+                    ]
+                },
+                {
+                    "id" : "58374194",
+                    "name" : "4 Person Combo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "42.99" }
+                    ]
+                },
+                {
+                    "id" : "58374195",
+                    "name" : "6 Person Combo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "63.99" }
+                    ]
+                },
+                {
+                    "id" : "58374196",
+                    "name" : "8 Person Combo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "84.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8255393", 
+                "name" : "Drinks",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "58374197",
+                    "name" : "Can Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.89" }
+                    ]
+                },
+                {
+                    "id" : "58374198",
+                    "name" : "Bottle Soda (20 oz)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.89" }
+                    ]
+                },
+                {
+                    "id" : "58374199",
+                    "name" : "Juice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "58374200",
+                    "name" : "Bottled Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

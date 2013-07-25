@@ -1,0 +1,404 @@
+{
+    "menu" : {
+        "id" : "292525",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8644945", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468349",
+                    "name" : "Aguas Frescas",
+                    "description" : "Your choice of tamarindo, jamaica or orchata.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "61468350",
+                    "name" : "Canned Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "61468351",
+                    "name" : "Mexican Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "61468352",
+                    "name" : "Canned Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "61468354",
+                    "name" : "Bottled Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "61468355",
+                    "name" : "Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "61468353",
+                    "name" : "Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644941", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468320",
+                    "name" : "Fresh Guacamole and Chips",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8" }
+                    ]
+                },
+                {
+                    "id" : "61468319",
+                    "name" : "Flautas de Pollo o Carnitas",
+                    "description" : "Three fried corn tortillas filled with your choice of protein.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "61468321",
+                    "name" : "Calamares Fritos",
+                    "description" : "Fried calamari layering on a bed of salad and tomato sauce on the side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "61468322",
+                    "name" : "Ensalada Real Santa Fe",
+                    "description" : "Lettuce, tomato, avocado, spinach and house dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6" }
+                    ]
+                },
+                {
+                    "id" : "61468323",
+                    "name" : "Nachos Santa Fe",
+                    "description" : "Corn tortilla chips topped with beans, Jack and cheddar cheese, jalapenos, guacamole, pico de gallo and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "61468324",
+                    "name" : "Quesadilla Santa Fe",
+                    "description" : "Flour tortilla, Oaxaca cheese and epazote. Served with guacamole, pico de gallo and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "61468325",
+                    "name" : "Tacos Estilo DF",
+                    "description" : "Choose a protein.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "61468326",
+                    "name" : "Real Santa Fe Torta Taquera",
+                    "description" : "Onion, cilantro, lettuce, tomatoes, hot sauce and your choice of protein.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644946", 
+                "name" : "Soups",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468356",
+                    "name" : "Caldo Tlalpeno",
+                    "description" : "Chicken soup with avocado and cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "61468357",
+                    "name" : "Sopa de Pollo",
+                    "description" : "Chicken Soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "61468358",
+                    "name" : "Sopa de Vegetales",
+                    "description" : "Vegetable soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644943", 
+                "name" : "Entrees",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468331",
+                    "name" : "Torta de Milanesa de Res o Pollo",
+                    "description" : "Lettuce, tomato, onion, beans and avocado.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "61468332",
+                    "name" : "Enchiladas Verdes o Rojas",
+                    "description" : "Corn tortilla filled with your choice of cheese or protein. Served with rice and beans.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "61468333",
+                    "name" : "Pollo Borracho",
+                    "description" : "Chicken breast made with beer, peppers, onion, fresh tomatoes and sauce. Served with rice and beans.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "61468334",
+                    "name" : "Alambre Tepito",
+                    "description" : "Grilled chicken breast, Black Angus skirt steak, sausage, bacon, onions, peppers and Oaxaca cheese. Served with rice, beans and flour tortillas.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "61468335",
+                    "name" : "Healthy Real Santa Fe Fajitas",
+                    "description" : "Choice of protein with onions, peppers, rice, beans and flour tortillas.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "61468336",
+                    "name" : "Arrachera American Style",
+                    "description" : "Black Angus skirt steak served with your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "61468337",
+                    "name" : "Arrachera al Tequila",
+                    "description" : "Black Angus skirt steak topped with a tequila mushrooms sauce and sauteed spinach. Served with mashed potatoes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "61468338",
+                    "name" : "Arrachera Santa Fe Tampiquena",
+                    "description" : "Black Angus skirt steak topped with pico de gallo. Served with a cheese enchiladas, rice and beans.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "61468339",
+                    "name" : "Chamorro Real Santa Fe al Guajillo",
+                    "description" : "Braised pork meat served with mashed potatoes and adobo sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "61468340",
+                    "name" : "Carnitas Michoacanas",
+                    "description" : "Michoacan style pork meat. Served with pico de gallo, rice and beans.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "61468341",
+                    "name" : "Grilled Salmon Santa Fe Style",
+                    "description" : "Grilled salmon topped with chipotle cream sauce and garlic. Served with mashed potatoes and vegetables.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644947", 
+                "name" : "New! Burritos",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468359",
+                    "name" : "Shrimp Burrito",
+                    "description" : " Rice, beans, lettuce, pico de gallo, guacamole, and cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "61468360",
+                    "name" : "Real Santa Fe Super Burrito",
+                    "description" : "Your choice of one filling: Grilled Chicken, Suadero, Beef Tongue, Al Pastor, Mushroom, Spinach. Rice, beans, lettuce, pico de gallo, guacamole, and cheese.",
+                    "sizes" : [
+                        { "name" : "Grilled Chicken",  "price" : "8.95" }
+,                        { "name" : "Saudero",  "price" : "8.95" }
+,                        { "name" : "Beef Tongue",  "price" : "8.95" }
+,                        { "name" : "Al Pastor",  "price" : "8.95" }
+,                        { "name" : "Mushroom",  "price" : "8.95" }
+,                        { "name" : "Spinach",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "61468361",
+                    "name" : "Grilled Skirt Steak",
+                    "description" : "Rice, beans, lettuce, pico de gallo, guacamole, and cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644944", 
+                "name" : "Side Dishes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468342",
+                    "name" : "Cebollitas",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "61468343",
+                    "name" : "Papas Fritas",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "61468344",
+                    "name" : "Arroz y Frijoles",
+                    "description" : "Rice and Beans.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "61468345",
+                    "name" : "Chips and Salsa",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "61468346",
+                    "name" : "Guacamole",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "61468347",
+                    "name" : "Pico de Gallo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "61468348",
+                    "name" : "Tortillas",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8644942", 
+                "name" : "Desserts",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "61468327",
+                    "name" : "Caramel Flan",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+                    ]
+                },
+                {
+                    "id" : "61468328",
+                    "name" : "Pastel de Tres Leches",
+                    "description" : "Three milk cakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "61468329",
+                    "name" : "Banana Burrito",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "61468330",
+                    "name" : "Chocolate Moose",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

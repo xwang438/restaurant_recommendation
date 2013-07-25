@@ -1,0 +1,1908 @@
+{
+    "menu" : {
+        "id" : "292341",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8894265", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252003",
+                    "name" : "Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63252004",
+                    "name" : "Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63252005",
+                    "name" : "Soft Drinks",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63252006",
+                    "name" : "Grade A Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.95" }
+,                        { "name" : "Large",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63252007",
+                    "name" : "Chocolate Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.95" }
+,                        { "name" : "Large",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63252008",
+                    "name" : "Fruit Juice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.95" }
+,                        { "name" : "Large",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63252009",
+                    "name" : "Hot Chocolate",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63252010",
+                    "name" : "Iced Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894253", 
+                "name" : "Egg Orders",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251898",
+                    "name" : "One Egg Any Style",
+                    "description" : "Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251899",
+                    "name" : "Two Eggs Any Style",
+                    "description" : "Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251904",
+                    "name" : "Skirt Steak and Eggs",
+                    "description" : "Skirt steak broiled to taste and two eggs any style. Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251900",
+                    "name" : "Two Pork Chops and Eggs",
+                    "description" : "Two broiled lean pork chops and two eggs any style. Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.25" }
+                    ]
+                },
+                {
+                    "id" : "63251901",
+                    "name" : "Country Fried Steak and Eggs",
+                    "description" : "An all-American favorite, breaded and seasoned beef fried to a golden brown and ladled with brown gravy. Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251902",
+                    "name" : "Country Fried Chicken and Eggs",
+                    "description" : "An all-American favorite, breaded and seasoned chicken fried to a golden brown and ladled with brown gravy.Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251903",
+                    "name" : "Chopped Hamburger Steak and Eggs",
+                    "description" : "12 oz. steak. Served with hash browns, toast, butter and jelly.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894254", 
+                "name" : "Three Egg Omelettes",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251905",
+                    "name" : "Plain Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251906",
+                    "name" : "Denver Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63251907",
+                    "name" : "Steak Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251908",
+                    "name" : "Bacon Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251909",
+                    "name" : "Ham Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251910",
+                    "name" : "Cheese Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.55" }
+                    ]
+                },
+                {
+                    "id" : "63251911",
+                    "name" : "Veggie Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251912",
+                    "name" : "Greek Cheese Omelette",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251913",
+                    "name" : "J.N. Michael's Omelette",
+                    "description" : "Ham, green peppers, onions, mushrooms and American cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894255", 
+                "name" : "From The Griddle and Belgium Waffles",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251914",
+                    "name" : "Malted Pancakes",
+                    "description" : "With whipped butter and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63251915",
+                    "name" : "Blueberry Pancakes",
+                    "description" : "Served with whipped cream and blueberries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251916",
+                    "name" : "Strawberry Pancakes",
+                    "description" : "Served with whipped cream and strawberries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251917",
+                    "name" : "Pecan Pancakes",
+                    "description" : "With whipped butter and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251926",
+                    "name" : "Strawberry Crepes",
+                    "description" : "Delicate crepe suzette with strawberries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251918",
+                    "name" : "Cherry Crepes",
+                    "description" : "Filled with Montmorency cherries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251919",
+                    "name" : "Potato Pancakes",
+                    "description" : "With whipped butter and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251920",
+                    "name" : "French Toast",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63251921",
+                    "name" : "Malted Belgium Waffle",
+                    "description" : "With whipped butter and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251922",
+                    "name" : "Strawberry Waffle",
+                    "description" : "Served with whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251923",
+                    "name" : "Blueberry Waffle",
+                    "description" : "Served with whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251924",
+                    "name" : "Pecan Waffle",
+                    "description" : "Served with pecans, whipped butter, and syrup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251925",
+                    "name" : "Banana Waffle",
+                    "description" : "Served with whipped cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894264", 
+                "name" : "Skillets",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63252001",
+                    "name" : "Steak Skillet",
+                    "description" : "Two eggs any style layered with hashbrowns, green peppers and onions and covered with mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.45" }
+                    ]
+                },
+                {
+                    "id" : "63252002",
+                    "name" : "Mexican Skillet",
+                    "description" : "Two eggs any style layered with hashbrowns, chorizo, jalapeno peppers and onions and covered with mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894244", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251804",
+                    "name" : "Soup of the Day",
+                    "description" : "Bowl. Please contact restaurant for today's selection.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "63251791",
+                    "name" : "Fresh Garlic Bread",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63251792",
+                    "name" : "Olympic Flame Saganaki",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251793",
+                    "name" : "Fried Zucchini",
+                    "description" : "With garlic dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.45" }
+                    ]
+                },
+                {
+                    "id" : "63251794",
+                    "name" : "Fried Cauliflower",
+                    "description" : "With garlic dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.45" }
+                    ]
+                },
+                {
+                    "id" : "63251795",
+                    "name" : "Fried Mushrooms",
+                    "description" : "With garlic dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.45" }
+                    ]
+                },
+                {
+                    "id" : "63251796",
+                    "name" : "Gyros",
+                    "description" : "Tender slices of gyros layered on top of raw onion and cucumber sauce. Served on grilled pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251797",
+                    "name" : "Fried Mozzarella Cheese Sticks",
+                    "description" : "Six pieces. Served with marinara sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251798",
+                    "name" : "Quesadilla",
+                    "description" : "A large flour tortilla filled with our house-smoked chicken, Monterey Jack cheese, house dried tomatoes, and scallions served with salsa and sour cream.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251799",
+                    "name" : "Potato Skins",
+                    "description" : "With blue cheese dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251800",
+                    "name" : "Buffalo Hot Wings",
+                    "description" : "With blue cheese dressing.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251801",
+                    "name" : "Veggie Combo",
+                    "description" : "Combination of buffalo wings (five to six pieces), breaded zucchini (six pieces), cheese sticks (four pieces) and breaded mushrooms (six pieces).",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251802",
+                    "name" : "Hearty Combo Combo",
+                    "description" : "Combination of buffalo wings (four pieces), potato skins (two pieces), cheese sticks (four pieces) and breaded zucchini (four pieces). Served with marinara and ranch sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.45" }
+                    ]
+                },
+                {
+                    "id" : "63251803",
+                    "name" : "Fried Onion Rings",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.96" }
+                    ]
+                },
+                {
+                    "id" : "63251805",
+                    "name" : "Nachos",
+                    "description" : "With taco meat, jalapenos and cheddar cheese sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894245", 
+                "name" : "Salads",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251812",
+                    "name" : "Greek Salad",
+                    "description" : "Lettuce, tomatoes, green peppers, hard boiled eggs, cucumbers, onions, feta cheese, anchovies and Greek olives. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251806",
+                    "name" : "Greek Village Salad",
+                    "description" : "Tomatoes, green peppers, cucumber, feta cheese and hard-boiled egg. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63251807",
+                    "name" : "Slimmer Salad",
+                    "description" : "12 oz. chopped steak served with cottage cheese, peach slices, hard-boiled egg, sliced tomatoes and raisin toast. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.55" }
+                    ]
+                },
+                {
+                    "id" : "63251808",
+                    "name" : "Weight-Lifter Salad",
+                    "description" : "Combination of lettuce, tomatoes, onions and hard-boiled egg. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251809",
+                    "name" : "Miss Julie Salad",
+                    "description" : "A simply spectacular combination of crisp salad greens, lean ham, turkey strips, American cheese, Swiss cheese, tomato wedges and hard-boiled egg. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251810",
+                    "name" : "Spinach Salad",
+                    "description" : "A large platter of fresh spinach, dressed lightly with bacon dressing, ripe avocado slices, crumbled bacon, mushrooms and chopped egg. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251811",
+                    "name" : "Mexican Salad",
+                    "description" : "Lettuce topped with Mexican-style ground beef, cheese, tomatoes and sour cream. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251813",
+                    "name" : "Caesar Salad",
+                    "description" : "Romaine, iceberg, croutons, bacon bits, tomatoes, cucumbers and red onions sprinkled with Parmesan cheese and served with creamy Caesar dressing. Served with a cup of soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894246", 
+                "name" : "Open-Faced Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251814",
+                    "name" : "Michael's Favorite Reuben Delight Hearty Sandwich",
+                    "description" : "Hot kosher corned beef and sauerkraut covered with melted Swiss cheese, thousand island dressing, and served on grilled rye bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251815",
+                    "name" : "Malibu Chicken Hearty Sandwich",
+                    "description" : "A tender seasoned grilled chicken breast topped with crisp bacon and melted cheese served with mayonnaise on a fresh croissant. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251816",
+                    "name" : "Tuna Delight Hearty Sandwich",
+                    "description" : "Tuna salad with a slice of grilled ham on a toasted English muffin open-faced and covered with melted cheddar cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251817",
+                    "name" : "Michael's Beef Delight Hearty Sandwich",
+                    "description" : "Roast beef on grilled light rye with Swiss cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251818",
+                    "name" : "Barbecue Chicken Breast Hearty Sandwich",
+                    "description" : "Grilled with barbecue sauce, Canadian style bacon, and melted Swiss cheese on sourdough bread on grilled Honest Oat Bran bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251819",
+                    "name" : "Nicole's Croissant Hearty Sandwich",
+                    "description" : "Open-faced with beef, turkey and ham with 1000 Island dressing and Swiss cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251820",
+                    "name" : "Nicole's Favorite Reuben Delight Light Sandwich",
+                    "description" : "Hot kosher corned beef and sauerkraut covered with melted Swiss cheese, thousand island dressing, and served on grilled rye bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251821",
+                    "name" : "Malibu Chicken Light Sandwich",
+                    "description" : "A tender seasoned grilled chicken breast topped with crisp bacon and melted cheese served with mayonnaise on a fresh croissant.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251822",
+                    "name" : "Tuna Delight Light sandwich",
+                    "description" : "Tuna salad with a slice of grilled ham on a toasted English muffin open-faced and covered with melted cheddar cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251823",
+                    "name" : "Michael's Beef Delight Light Sandwich",
+                    "description" : "Roast beef on grilled light rye with Swiss cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251824",
+                    "name" : "Barbeque Chicken Breast Light Sandwich",
+                    "description" : "Grilled with barbecue sauce, Canadian style bacon, and melted Swiss cheese on sourdough bread on grilled Honest Oat Bran bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251825",
+                    "name" : "Nicole's Croissant Light Sandwich",
+                    "description" : "Open-faced with beef, turkey and ham with 1000 Island dressing and Swiss cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894247", 
+                "name" : "More Than A Sandwich",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251826",
+                    "name" : "J.N. Michael's Stripper Hearty Sandwich",
+                    "description" : "A genuine New York steak, known for its tenderness and flavor, is adorned with sauteed onions, smothered in mozzarella cheese, and served on garlic bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251827",
+                    "name" : "Skirt Steak Hearty Sandwich",
+                    "description" : "Charbroiled skirt steak is adorned with sauteed onions, smothered in mozzarella cheese, and served on garlic bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251828",
+                    "name" : "Hearty Bacon Burger",
+                    "description" : "1/2 lb. Topped with bacon strips, cheddar cheese, and fresh sauteed mushrooms. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251829",
+                    "name" : "Urban Cowboy Barbecued Beef Hearty Sandwich",
+                    "description" : "Roasted beef simmered in a Western style BBQ sauce, piled high and served open-face on an extra large New York style roll. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251830",
+                    "name" : "Italian Beef Hearty Sandwich",
+                    "description" : "Roasted beef smothered in a red sauce on a grilled New York style roll, covered with a sheet of melted mozzarella cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251831",
+                    "name" : "Cajun Chicken Hearty Sandwich",
+                    "description" : "Chicken breast with grilled onions, red and green peppers and mozzarella cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251832",
+                    "name" : "Hearty Italian Steak Burger",
+                    "description" : "1/2 lb. Open-faced on grilled bun with marinara sauce and melted mozzarella cheese. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251833",
+                    "name" : "J.N. Michael's Stripper Light Sandwich",
+                    "description" : "A genuine New York steak, known for its tenderness and flavor, is adorned with sauteed onions, smothered in mozzarella cheese, and served on garlic bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251834",
+                    "name" : "Skirt Steak Light Sandwich",
+                    "description" : "Charbroiled skirt steak is adorned with sauteed onions, smothered in mozzarella cheese, and served on garlic bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251835",
+                    "name" : "Light Bacon Burger",
+                    "description" : "1/2 lb. Topped with bacon strips, cheddar cheese, and fresh sauteed mushrooms.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251836",
+                    "name" : "Light Urban Cowboy BBQ Beef Sandwich",
+                    "description" : "Roasted beef simmered in a Western style BBQ sauce, piled high and served open-face on an extra large New York style roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251837",
+                    "name" : "Light Italian Beef Sandwich",
+                    "description" : "Roasted beef smothered in a red sauce on a grilled New York style roll, covered with a sheet of melted mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251838",
+                    "name" : "Light Cajun Chicken Sandwich",
+                    "description" : "Chicken breast with grilled onions, red and green peppers and mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251839",
+                    "name" : "Light Italian Steak Burger",
+                    "description" : "1/2 lb. Open-faced on grilled bun with marinara sauce and melted mozzarella cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894248", 
+                "name" : "Showstopper Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251840",
+                    "name" : "Hearty Patty Melt Steakburger",
+                    "description" : "1/2 lb. Melted Swiss cheese and grilled onions on dark rye. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63251841",
+                    "name" : "Hearty 1/4 lb. Hot Dog",
+                    "description" : "Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63251842",
+                    "name" : "Hearty Monte Cristo",
+                    "description" : "Grilled ham and Swiss cheese on batter-dipped bread and turkey. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63251843",
+                    "name" : "Corned Beef Hearty Sandwich",
+                    "description" : "On light rye bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.75" }
+                    ]
+                },
+                {
+                    "id" : "63251844",
+                    "name" : "Hearty French Dip",
+                    "description" : "Choice roast beef served on French dip with a cup of Au Jus. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251845",
+                    "name" : "Hearty Old Fashioned Hamburger",
+                    "description" : "1/2 lb. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251846",
+                    "name" : "Hearty Old Fashioned Hamburger with Cheese",
+                    "description" : "1/2 lb. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251847",
+                    "name" : "Hearty Chicken Melt",
+                    "description" : "A tender filet of fried chicken, sliced grilled ham and melted Swiss cheese on light rye bread. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.75" }
+                    ]
+                },
+                {
+                    "id" : "63251848",
+                    "name" : "Light Patty Melt Steakburger",
+                    "description" : "1/2 lb. Melted Swiss cheese and grilled onions on dark rye.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251849",
+                    "name" : "Light 1/4 lb. Hot Dog",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251850",
+                    "name" : "Light Monte Cristo",
+                    "description" : "Grilled ham and Swiss cheese on batter-dipped bread and turkey.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63251851",
+                    "name" : "Corned Beef Light Sandwich",
+                    "description" : "On light rye bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63251852",
+                    "name" : "Light French Dip",
+                    "description" : "Choice roast beef served on French dip with a cup of Au Jus.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251853",
+                    "name" : "Light Old Fashioned Hamburger",
+                    "description" : "1/2 lb.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63251854",
+                    "name" : "Light Old Fashioned Hamburger with Cheese",
+                    "description" : "1/2 lb.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63251855",
+                    "name" : "Light Chicken Melt",
+                    "description" : "A tender filet of fried chicken, sliced grilled ham and melted Swiss cheese on light rye bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894249", 
+                "name" : "Three Stories Tall",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251856",
+                    "name" : "Club House 3 Stories Tall Hearty Club",
+                    "description" : "Bacon, lettuce, tomato, turkey and mayo. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63251857",
+                    "name" : "BLT 3 Stories Tall Hearty Club",
+                    "description" : "Bacon, lettuce, tomato and mayo. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251858",
+                    "name" : "Ham and Cheese 3 Stories Hearty Tall Club",
+                    "description" : "Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251859",
+                    "name" : "Tuna 3 Stories Tall Hearty Club",
+                    "description" : "Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251860",
+                    "name" : "Chicken Salad 3 Stories Tall Hearty Club",
+                    "description" : "Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251861",
+                    "name" : "Triple Decker Grilled Chicken Hearty Club",
+                    "description" : "Grilled chicken, tomatoes, lettuce, bacon and mayo. Served with a cup of soup and your choice of side.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251862",
+                    "name" : "Club House 3 Stories Tall Light Club",
+                    "description" : "Bacon, lettuce, tomato, turkey and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63251863",
+                    "name" : "BLT 3 Stories Tall Light Club",
+                    "description" : "Bacon, lettuce, tomato and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63251864",
+                    "name" : "Ham and Cheese 3 Stories Tall Light Club",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251865",
+                    "name" : "Tuna 3 Stories Tall Light Club",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251867",
+                    "name" : "Chicken Salad 3 Stories Tall Light Club",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63251866",
+                    "name" : "Triple Decker Grilled Chicken Light Club",
+                    "description" : "Grilled chicken, tomatoes, lettuce, bacon and mayo.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894250", 
+                "name" : "Hot Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251868",
+                    "name" : "Hot Roast Beef Sandwich",
+                    "description" : "Served with cup of soup, whipped potatoes and gravy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63251869",
+                    "name" : "Hot Turkey Sandwich",
+                    "description" : "Served with cup of soup, whipped potatoes and gravy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63251870",
+                    "name" : "Hot Pork Tenderloin Sandwich",
+                    "description" : "Served with cup of soup, whipped potatoes and gravy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63251871",
+                    "name" : "Hot Meatloaf Sandwich",
+                    "description" : "Served with cup of soup, whipped potatoes and gravy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894258", 
+                "name" : "Wraps",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251943",
+                    "name" : "Michael's Mega Wrap",
+                    "description" : "Fresh turkey, ham, Swiss cheese, romaine lettuce, onions and 1000 Island dressing. Served with steak fries and soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251944",
+                    "name" : "Southwest Steak Wrap",
+                    "description" : "Tender sliced steak with grilled onions, mozzarella cheese, romaine lettuce and salsa.  Served with steak fries and soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63251945",
+                    "name" : "Chicken Caesar Wrap",
+                    "description" : "Delicious sliced chicken breast with romaine lettuce, Parmesan cheese and Caesar dressing.  Served with steak fries and soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63251946",
+                    "name" : "Athenian Wrap",
+                    "description" : "Delicious sliced chicken breast with lettuce, tomatoes, olives, feta cheese and Greek dressing.  Served with steak fries and soup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894251", 
+                "name" : "A La Carte Meals",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251872",
+                    "name" : "Broiled Beef Shish-Ka-Bob A La Carte",
+                    "description" : "With rice pilaf. Served with your choice of side, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251873",
+                    "name" : "London Broil Marinated A La Carte",
+                    "description" : "With mushrooms. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251874",
+                    "name" : "BBQ Baby Back Ribs A La Carte",
+                    "description" : "A slab of tender meat ribs, brushed with spice BBQ sauce, oven-baked. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63251875",
+                    "name" : "Roast Turkey with Homemade Dressing A La Carte",
+                    "description" : "Served with rich chicken gravy and cranberry sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251876",
+                    "name" : "Southern Fried Chicken A La Carte",
+                    "description" : "Half deep-fried chicken, served with beehive honey. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.45" }
+                    ]
+                },
+                {
+                    "id" : "63251877",
+                    "name" : "Breaded Veal Cutlet A La Carte",
+                    "description" : "Lightly breaded and deep-fried, covered with rich brown gravy. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251878",
+                    "name" : "Grilled Baby Beef Liver A La Carte",
+                    "description" : "Lightly breaded and served with grilled onions or bacon. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251879",
+                    "name" : "Broiled Grecian Chicken A La Carte",
+                    "description" : "Half chicken. Broiled to order with olive oil and oregano, served with rice pilaf. Served with your choice of side, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251880",
+                    "name" : "Country Fried Steak A La Carte",
+                    "description" : "An all-American farm favorite. Breaded and seasoned beef fried to golden brown and ladled with your brown gravy. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251881",
+                    "name" : "Country Fried Chicken A La Carte",
+                    "description" : "An all-American farm favorite. Breaded and seasoned chicken fried to golden brown and ladled with your brown gravy. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63251882",
+                    "name" : "Cajun Chicken A La Carte",
+                    "description" : "Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251883",
+                    "name" : "Fried Chicken Strips A La Carte",
+                    "description" : "Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251884",
+                    "name" : "Broiled Beef Shish-Ka-Bob Dinner",
+                    "description" : "With rice pilaf. Served with your choice of side, vegetable and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251885",
+                    "name" : "London Broil Marinated Dinner",
+                    "description" : "With mushrooms. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251886",
+                    "name" : "BBQ Baby Back Ribs Dinner",
+                    "description" : "A slab of tender meat ribs, brushed with spice BBQ sauce, oven-baked. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.95" }
+                    ]
+                },
+                {
+                    "id" : "63251887",
+                    "name" : "Roasted Turkey with Homemade Dressing Dinner",
+                    "description" : "Served with rich chicken gravy and cranberry sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251888",
+                    "name" : "Southern Fried Chicken Dinner",
+                    "description" : "Half deep-fried chicken, served with beehive honey. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.45" }
+                    ]
+                },
+                {
+                    "id" : "63251889",
+                    "name" : "Breaded Veal Cutlet Dinner",
+                    "description" : "Lightly breaded and deep-fried, covered with rich brown gravy. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251890",
+                    "name" : "Grilled Baby Beef Liver Dinner",
+                    "description" : "Lightly breaded and served with grilled onions or bacon. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251891",
+                    "name" : "Broiled Grecian Chicken Dinner",
+                    "description" : "Half chicken. Broiled to order with olive oil and oregano, served with rice pilaf. Served with your choice of side, vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251892",
+                    "name" : "Country Fried Steak Dinner",
+                    "description" : "An all-American farm favorite. Breaded and seasoned beef fried to golden brown and ladled with your brown gravy. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251893",
+                    "name" : "Country Fried Chicken Dinner",
+                    "description" : "An all-American farm favorite. Breaded and seasoned chicken fried to golden brown and ladled with your brown gravy. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251894",
+                    "name" : "Cajun Chicken Dinner",
+                    "description" : "Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251895",
+                    "name" : "Fried Chicken Strips Dinner",
+                    "description" : "Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894259", 
+                "name" : "Italian Style Favorites",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251955",
+                    "name" : "Veal Parmigiana A La Carte",
+                    "description" : "Tender veal cutlet covered with mozzarella cheese and meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251956",
+                    "name" : "Chicken Parmigiana A La Carte",
+                    "description" : "With spaghetti and meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251957",
+                    "name" : "Spaghetti A La Carte",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251958",
+                    "name" : "Mostaccioli A La Carte",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251959",
+                    "name" : "Beef Ravioli A La Carte",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63251960",
+                    "name" : "Italian Sausage Parmigiana A La Carte",
+                    "description" : "With spaghetti and meat sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251961",
+                    "name" : "Chicken Alfredo with Broccoli A La Carte",
+                    "description" : "Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251962",
+                    "name" : "Shrimp Alfredo with Broccoli A La Carte",
+                    "description" : "Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251947",
+                    "name" : "Veal Parmigiana Dinner",
+                    "description" : "Tender veal cutlet covered with mozzarella cheese and meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251948",
+                    "name" : "Chicken Parmigiana Dinner",
+                    "description" : "With spaghetti and meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251949",
+                    "name" : "Spaghetti Dinner",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251950",
+                    "name" : "Mostaccioli Dinner",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251951",
+                    "name" : "Beef Ravioli Dinner",
+                    "description" : "With meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63251952",
+                    "name" : "Italian Sausage Parmigiana Dinner",
+                    "description" : "With spaghetti and meat sauce. Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251953",
+                    "name" : "Chicken Alfredo with Broccoli Dinner",
+                    "description" : "Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251954",
+                    "name" : "Shrimp Alfredo with Broccoli Dinner",
+                    "description" : "Served with your choice of side, your choice of drink, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894252", 
+                "name" : "East Side Favorites",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251896",
+                    "name" : "Philadelphia Steak Sandwich",
+                    "description" : "Sliced grilled tender steak with grilled onions, peppers, and topped with mozzarella cheese. Served on French bread with a cup of soup and your choice of potato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251897",
+                    "name" : "Chicken Fajita on Pita",
+                    "description" : "Chicken strips served on pita with sauteed peppers, onions, and comes with a side of sour cream and salsa. Served with a cup of soup and your choice of potato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894256", 
+                "name" : "Our Low-Cal Offerings",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251927",
+                    "name" : "Chicken Lo-Cal",
+                    "description" : "Boneless breast of chicken, broiled to perfection, and served with cottage cheese, hard-boiled egg, fruit and raisin toast.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.45" }
+                    ]
+                },
+                {
+                    "id" : "63251928",
+                    "name" : "Stuffed Cantaloupe",
+                    "description" : "Half cantaloupe stuffed with your choice of salad and served with cottage cheese.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251929",
+                    "name" : "Stuffed Tomato",
+                    "description" : "Tomato shell stuffed with your choice of salad and served with cottage cheese, hard-boiled egg, fruit and raisin toast.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251930",
+                    "name" : "Tuna Salad Plate",
+                    "description" : "Tuna salad served with fresh fruit of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251931",
+                    "name" : "Chicken Salad Plate",
+                    "description" : "Chicken salad served with fresh fruit of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63251932",
+                    "name" : "Stuffed Avocado",
+                    "description" : "Two avocado stuffed with your choice of salad and served with fresh fruit of the day.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.25" }
+                    ]
+                },
+                {
+                    "id" : "63251933",
+                    "name" : "Nicole's Fruit Plate Bonanza",
+                    "description" : "Special choice of seasonal fresh fruits and served with cottage cheese and sherbet.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894260", 
+                "name" : "John's Broiler Suggestions",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251963",
+                    "name" : "T-Bone Steak A La Carte",
+                    "description" : "18 oz. Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "22.95" }
+                    ]
+                },
+                {
+                    "id" : "63251964",
+                    "name" : "New York Cut Steak A La Carte",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.45" }
+                    ]
+                },
+                {
+                    "id" : "63251965",
+                    "name" : "Rib-Eye Steak A La Carte",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.45" }
+                    ]
+                },
+                {
+                    "id" : "63251966",
+                    "name" : "Broiled Chopped Steak A La Carte",
+                    "description" : "12 oz. Broiled to order and served with sauteed onions. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251967",
+                    "name" : "Center Cut Pork Chops A La Carte",
+                    "description" : "Three pieces. Broiled to order and served with apple sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251968",
+                    "name" : "Skirt Steak Marinated A La Carte",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251969",
+                    "name" : "T-Bone Steak Dinner",
+                    "description" : "18 oz. Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "25.95" }
+                    ]
+                },
+                {
+                    "id" : "63251970",
+                    "name" : "New York Cut Steak Dinner",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.45" }
+                    ]
+                },
+                {
+                    "id" : "63251971",
+                    "name" : "Rib-Eye Steak Dinner",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.45" }
+                    ]
+                },
+                {
+                    "id" : "63251972",
+                    "name" : "Broiled Chopped Steak Dinner",
+                    "description" : "12 oz. Broiled to order and served with sauteed onions. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251973",
+                    "name" : "Center Cut Pork Chops Dinner",
+                    "description" : "Three pieces. Broiled to order and served with apple sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                },
+                {
+                    "id" : "63251974",
+                    "name" : "Skirt Steak Marinated Dinner",
+                    "description" : "Broiled to order and served with sauteed mushrooms. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "17.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894261", 
+                "name" : "Combination Specials",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251975",
+                    "name" : "Steak, Rib and Shrimp Combination A La Carte",
+                    "description" : "U.S. choice New York steak, Louisiana shrimp and our famous ribs. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "20.95" }
+                    ]
+                },
+                {
+                    "id" : "63251976",
+                    "name" : "Rib and Steak Combination A La Carte",
+                    "description" : "U.S. choice New York steak cooked to perfection and served with our baby back ribs. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63251977",
+                    "name" : "Rib and Shrimp Combination A La Carte",
+                    "description" : "Our famous baby back ribs and Louisiana fried shrimp. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63251978",
+                    "name" : "Steak and Shrimp Combination A La Carte",
+                    "description" : "U.S. choice New York steak and Louisiana shrimp. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63251979",
+                    "name" : "Steak, Rib and Shrimp Combination Dinner",
+                    "description" : "U.S. choice New York steak, Louisiana shrimp and our famous ribs. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "23.95" }
+                    ]
+                },
+                {
+                    "id" : "63251980",
+                    "name" : "Rib and Steak Combination Dinner",
+                    "description" : "U.S. choice New York steak cooked to perfection and served with our baby back ribs. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63251981",
+                    "name" : "Rib and Shrimp Combination Dinner",
+                    "description" : "Our famous baby back ribs and Louisiana fried shrimp. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                },
+                {
+                    "id" : "63251982",
+                    "name" : "Steak and Shrimp Combination Dinner",
+                    "description" : "U.S. choice New York steak and Louisiana shrimp. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "21.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894262", 
+                "name" : "J.N. Michael's Fishing Pond",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251985",
+                    "name" : "Fried Whole Catfish A La Carte",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251986",
+                    "name" : "Baked Scrod A La Carte",
+                    "description" : "With broccoli. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251983",
+                    "name" : "French Fried Shrimp A La Carte",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251984",
+                    "name" : "Fried Perch A La Carte",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251987",
+                    "name" : "Grilled Salmon A La Carte",
+                    "description" : "With mustard dill sauce. Served with your choice of side, your choice of potato, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63251988",
+                    "name" : "Cajun Seafood A La Carte",
+                    "description" : "With sauteed onions and peppers, shrimp, scallops and crab meat in Cajun spices served over rice pilaf. Served with your choice of side, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63251991",
+                    "name" : "Fried Whole Catfish Dinner",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.95" }
+                    ]
+                },
+                {
+                    "id" : "63251992",
+                    "name" : "Baked Scrod Dinner",
+                    "description" : "With broccoli. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                },
+                {
+                    "id" : "63251989",
+                    "name" : "French Fried Shrimp Dinner",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "18.95" }
+                    ]
+                },
+                {
+                    "id" : "63251990",
+                    "name" : "Fried Perch Dinner",
+                    "description" : "With tartar sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63251993",
+                    "name" : "Grilled Salmon Dinner",
+                    "description" : "With mustard dill sauce. Served with your choice of side, your choice of potato or vegetable, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "16.25" }
+                    ]
+                },
+                {
+                    "id" : "63251994",
+                    "name" : "Cajun Seafood Dinner",
+                    "description" : "With sauteed onions and peppers, shrimp, scallops and crab meat in Cajun spices served over rice pilaf. Served with your choice of side, vegetables, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "15.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894263", 
+                "name" : "Vegetarian Selection",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251995",
+                    "name" : "Veggie Wrap A La Carte",
+                    "description" : "Roasted vegetables, sliced avocado and mozzarella cheese in a big flour tortilla served with steak fries and a cup of soup. Served with a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251996",
+                    "name" : "Veggie Stir Fry A La Carte",
+                    "description" : "A selection of fresh vegetables stir-fried in teriyaki sauce and served on a bed of rice. Served with your choice of side, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251997",
+                    "name" : "Veggie Fajita on Pita A La Carte",
+                    "description" : "Sauteed zucchini, squash, peppers, onions, broccoli and lima beans served with a side of sour cream and salsa. Served with your choice of side, a roll and butter.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63251998",
+                    "name" : "Veggie Wrap Dinner",
+                    "description" : "Roasted vegetables, sliced avocado and mozzarella cheese in a big flour tortilla served with steak fries and a cup of soup. Served with rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63251999",
+                    "name" : "Veggie Stir Fry Dinner",
+                    "description" : "A selection of fresh vegetables stir-fried in teriyaki sauce and served on a bed of rice. Served with your choice of side, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63252000",
+                    "name" : "Veggie Fajita on Pita Dinner",
+                    "description" : "Sauteed zucchini, squash, peppers, onions, broccoli and lima beans served with a side of sour cream and salsa. Served with your choice of side, rolls, butter and your choice of dessert.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8894257", 
+                "name" : "Side Orders",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63251934",
+                    "name" : "Tossed Salad",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63251936",
+                    "name" : "Sliced Greek Feta Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63251937",
+                    "name" : "Steak Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251938",
+                    "name" : "Hash Browns",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251939",
+                    "name" : "Baked Potato",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251940",
+                    "name" : "Whipped Potato",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251941",
+                    "name" : "Vegetable of the Day",
+                    "description" : "Please contact the restaurant for today's vegetable.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63251935",
+                    "name" : "Side of Peaches and Cottage Cheese",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "63251942",
+                    "name" : "Side of Broccoli",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

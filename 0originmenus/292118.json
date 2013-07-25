@@ -1,0 +1,3712 @@
+{
+    "menu" : {
+        "id" : "292118",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8893799", 
+                "name" : "Beverages ",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248146",
+                    "name" : "Can Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.15" }
+                    ]
+                },
+                {
+                    "id" : "63248147",
+                    "name" : "1 Liter Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63248148",
+                    "name" : "2 Liter Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63248149",
+                    "name" : "Bottled Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.15" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893771", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247707",
+                    "name" : "Roast Pork Egg Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63247708",
+                    "name" : "Shrimp Egg Roll",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.6" }
+                    ]
+                },
+                {
+                    "id" : "63247709",
+                    "name" : "Vegetable Spring Roll",
+                    "description" : "Two pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63247710",
+                    "name" : "Shrimp Toast",
+                    "description" : "Four pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247711",
+                    "name" : "Beef on a Stick",
+                    "description" : "Three pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247712",
+                    "name" : "Fantail Shrimp",
+                    "description" : "Three pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247713",
+                    "name" : "Pork Dumpling",
+                    "description" : "Six pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63247714",
+                    "name" : "Vegetable Dumpling",
+                    "description" : "Six pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247715",
+                    "name" : "Shrimp Dumpling",
+                    "description" : "Six pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247716",
+                    "name" : "Chicken Dumpling",
+                    "description" : "Six pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.85" }
+                    ]
+                },
+                {
+                    "id" : "63247717",
+                    "name" : "BBQ Spare Ribs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "7.95" }
+,                        { "name" : "Large",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63247718",
+                    "name" : "Boneless Ribs",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "7.5" }
+,                        { "name" : "Large",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247719",
+                    "name" : "Sliced Roast Pork",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63247720",
+                    "name" : "Cold Sesame Noodles",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247721",
+                    "name" : "Pu Pu Platter for Two",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247722",
+                    "name" : "Pork Bun",
+                    "description" : "One piece.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247723",
+                    "name" : "Fried Wonton",
+                    "description" : "Ten wontons.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63247724",
+                    "name" : "Cheese Wonton with Dipping Sauce",
+                    "description" : "Six pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63247725",
+                    "name" : "East Meets West Wings",
+                    "description" : "Four pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63247726",
+                    "name" : "Buffalo Wings",
+                    "description" : "Eight pieces. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247727",
+                    "name" : "Boneless Buffalo Wings",
+                    "description" : "Five pieces. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247728",
+                    "name" : "Chicken Tenders",
+                    "description" : "Five pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247729",
+                    "name" : "French Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63247730",
+                    "name" : "Fried Baby Shrimp",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247731",
+                    "name" : "Fried Scallops",
+                    "description" : "Five pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63247732",
+                    "name" : "Edamame",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893772", 
+                "name" : "Homemade Soup",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247733",
+                    "name" : "Wonton Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.25" }
+,                        { "name" : "Large",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63247735",
+                    "name" : "Egg Drop Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.25" }
+,                        { "name" : "Large",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63247736",
+                    "name" : "Wonton Egg Drop Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.75" }
+,                        { "name" : "Large",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247737",
+                    "name" : "Tomato Egg Drop Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.75" }
+,                        { "name" : "Large",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247738",
+                    "name" : "Chicken Rice Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.25" }
+,                        { "name" : "Large",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63247739",
+                    "name" : "Chicken Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.25" }
+,                        { "name" : "Large",  "price" : "4.5" }
+                    ]
+                },
+                {
+                    "id" : "63247740",
+                    "name" : "Vegetable Wonton Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.75" }
+,                        { "name" : "Large",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247741",
+                    "name" : "Hot and Sour Soup ",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.75" }
+,                        { "name" : "Large",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63247742",
+                    "name" : "Vegetable Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.75" }
+,                        { "name" : "Large",  "price" : "4.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893773", 
+                "name" : "China Town Style Soup",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247743",
+                    "name" : "Velvet Chicken Corn Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247744",
+                    "name" : "House Special Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247745",
+                    "name" : "Seafood Soup with Vegetables",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247746",
+                    "name" : "Subgum Wonton Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247747",
+                    "name" : "Roast Pork Yat Gat Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247748",
+                    "name" : "Chicken Yat Gat Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247749",
+                    "name" : "Shrimp Yat Gat Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247750",
+                    "name" : "Vegetable Yat Gat Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247751",
+                    "name" : "Mei Fun with Spinach and Roast Pork",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247752",
+                    "name" : "Chow Fun with Spinach and Roast Pork",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247753",
+                    "name" : "Mein Fun with Shrimp and Scallops",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247754",
+                    "name" : "Chow Fun with Shrimp and Scallops",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247755",
+                    "name" : "Mei Fun with Mixed Vegetables",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247756",
+                    "name" : "Chow Fun with Mixed Vegetables",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247757",
+                    "name" : "House Special Spinach Noodle Soup",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893774", 
+                "name" : "Fried Rice",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247758",
+                    "name" : "Small Roast Pork Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63247767",
+                    "name" : "Large Roast Pork Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63247759",
+                    "name" : "Small Shrimp Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247768",
+                    "name" : "Large Shrimp Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247760",
+                    "name" : "Small Vegetable Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.95" }
+                    ]
+                },
+                {
+                    "id" : "63247769",
+                    "name" : "Large Vegetable Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247761",
+                    "name" : "Small House Special Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247770",
+                    "name" : "Large House Special Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247762",
+                    "name" : "Small Young Chow Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247771",
+                    "name" : "Large Young Chow Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247763",
+                    "name" : "Small Chicken Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63247772",
+                    "name" : "Large Chicken Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63247764",
+                    "name" : "Small Plain Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.5" }
+                    ]
+                },
+                {
+                    "id" : "63247773",
+                    "name" : "Large Plain Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63247765",
+                    "name" : "Small Beef Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247774",
+                    "name" : "Large Beef Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247766",
+                    "name" : "Small Vegetable Brown Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.25" }
+                    ]
+                },
+                {
+                    "id" : "63247775",
+                    "name" : "Large Vegetable Brown Fried Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893775", 
+                "name" : "Chow Mein",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247776",
+                    "name" : "Small Chicken Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247782",
+                    "name" : "Large Chicken Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247777",
+                    "name" : "Small Pork Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247783",
+                    "name" : "Large Pork Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247778",
+                    "name" : "Small Shrimp Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247784",
+                    "name" : "Large Shrimp Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63247779",
+                    "name" : "Small Beef Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247785",
+                    "name" : "Large Beef Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63247780",
+                    "name" : "Small Vegetable Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63247786",
+                    "name" : "Large Vegetable Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247781",
+                    "name" : "Small House Special Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247787",
+                    "name" : "Large House Special Chow Mein",
+                    "description" : "Served with choice of rice and crispy noodles.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893781", 
+                "name" : "Chicken",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247900",
+                    "name" : "Small Chicken with Broccoli",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247901",
+                    "name" : "Large Chicken with Broccoli",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247902",
+                    "name" : "Small Chicken with Snow Peas",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247903",
+                    "name" : "Large Chicken with Snow Peas",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247904",
+                    "name" : "Small Moo Goo Gai Pan",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247905",
+                    "name" : "Large Moo Goo Gai Pan",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247906",
+                    "name" : "Small Chicken with Black Bean Sauce",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247907",
+                    "name" : "Large Chicken with Black Bean Sauce",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247908",
+                    "name" : "Small Chicken with Bean Sprouts",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247909",
+                    "name" : "Large Chicken with Bean Sprouts",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247910",
+                    "name" : "Small Chicken with String Beans",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247911",
+                    "name" : "Large Chicken with String Beans",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247912",
+                    "name" : "Small Chicken with Eggplant",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247913",
+                    "name" : "Large Chicken with Eggplant",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247914",
+                    "name" : "Small Chicken with Mixed Vegetables",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247915",
+                    "name" : "Large Chicken with Mixed Vegetables",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247916",
+                    "name" : "Small Chicken with Cashew Nuts",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247917",
+                    "name" : "Large Chicken with Cashew Nuts",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247918",
+                    "name" : "Small Kung Pao Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247919",
+                    "name" : "Large Kung Pao Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247920",
+                    "name" : "Small Chicken with Pepper and Tomatoes",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247921",
+                    "name" : "Large Chicken with Pepper and Tomatoes",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247922",
+                    "name" : "Small Curry Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247923",
+                    "name" : "Large Curry Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247924",
+                    "name" : "Small Chicken Almond Ding",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247925",
+                    "name" : "Large Chicken Almond Ding",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247926",
+                    "name" : "Small Hunan Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247927",
+                    "name" : "Large Hunan Chicken",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247928",
+                    "name" : "Small Shredded Chicken with Garlic Sauce",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247929",
+                    "name" : "Large Shredded Chicken with Garlic Sauce",
+                    "description" : "White breast meat. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63247930",
+                    "name" : "Small Lemon Chicken",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.25" }
+                    ]
+                },
+                {
+                    "id" : "63247931",
+                    "name" : "Large Lemon Chicken",
+                    "description" : "White breast meat. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893782", 
+                "name" : "Beef",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247932",
+                    "name" : "Small Pepper Steak with Onions",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247933",
+                    "name" : "Large Pepper Steak with Onions",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247934",
+                    "name" : "Small Beef with Broccoli",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247935",
+                    "name" : "Large Beef with Broccoli",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247936",
+                    "name" : "Small Beef with Snow Peas",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247937",
+                    "name" : "Large Beef with Snow Peas",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247938",
+                    "name" : "Small Beef with Black Bean Sauce",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247939",
+                    "name" : "Large Beef with Black Bean Sauce",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247940",
+                    "name" : "Small Beef with Mixed Vegetables",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247941",
+                    "name" : "Large Beef with Mixed Vegetables",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247942",
+                    "name" : "Small Shredded Beef in Garlic Sauce",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247943",
+                    "name" : "Large Shredded Beef in Garlic Sauce",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247944",
+                    "name" : "Small Beef with Broccoli in Garlic Sauce",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247945",
+                    "name" : "Large Beef with Broccoli in Garlic Sauce",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247946",
+                    "name" : "Small Beef with String Beans",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247947",
+                    "name" : "Large Beef with String Beans",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247948",
+                    "name" : "Small Beef with Mushrooms",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247949",
+                    "name" : "Large Beef with Mushrooms",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247950",
+                    "name" : "Small Beef with Eggplant",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247951",
+                    "name" : "Large Beef with Eggplant",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247952",
+                    "name" : "Small Beef with Peppers and Tomatoes",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247953",
+                    "name" : "Large Beef with Pepper and Tomatoes",
+                    "description" : "Flank steak. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247954",
+                    "name" : "Small Curry Beef",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247955",
+                    "name" : "Large Curry Beef",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247956",
+                    "name" : "Small Hunan Beef",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247957",
+                    "name" : "Large Hunan Beef",
+                    "description" : "Flank steak. Served with choice of rice. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893783", 
+                "name" : "Moo Shu",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247958",
+                    "name" : "Moo Shu Chicken",
+                    "description" : "With choice of rice and four pancakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63247959",
+                    "name" : "Moo Shoo Pork",
+                    "description" : "With choice of rice and four pancakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63247960",
+                    "name" : "Moo Shu Beef",
+                    "description" : "With choice of rice and four pancakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247961",
+                    "name" : "Moo Shu Shrimp",
+                    "description" : "With choice of rice and four pancakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247962",
+                    "name" : "Moo Shu Vegetable",
+                    "description" : "With choice of rice and four pancakes.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893784", 
+                "name" : "Salmon",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247963",
+                    "name" : "Large Salmon with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247964",
+                    "name" : "Large Salmon with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247965",
+                    "name" : "Large Salmon with Eggplant",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247966",
+                    "name" : "Large Salmon with Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247968",
+                    "name" : "Small Salmon with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247967",
+                    "name" : "Large Salmon with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893785", 
+                "name" : "Vegetable",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247969",
+                    "name" : "Mixed Vegetable Platter",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247970",
+                    "name" : "Sauteed Fresh Mushrooms, Broccoli, String Beans and Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247971",
+                    "name" : "Broccoli and Eggplant in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247972",
+                    "name" : "Sauteed String Beans",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247973",
+                    "name" : "Eggplant in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247974",
+                    "name" : "Broccoli with Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247975",
+                    "name" : "Sauteed Spinach with Fresh Garlic",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247976",
+                    "name" : "Bean Sprouts with Ginger and Scallions",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247977",
+                    "name" : "Sauteed Three Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893786", 
+                "name" : "Tofu",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247978",
+                    "name" : "Tofu with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247979",
+                    "name" : "Tofu Sauteed in Brown Sauce",
+                    "description" : "No vegetables. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                },
+                {
+                    "id" : "63247980",
+                    "name" : "Fried Tofu with Chicken",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247981",
+                    "name" : "Fried Tofu with Baby Shrimp",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247982",
+                    "name" : "Fried Tofu with Beef",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247983",
+                    "name" : "Tofu with Chicken",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247984",
+                    "name" : "Tofu Shrimp",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247985",
+                    "name" : "Tofu Beef",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247986",
+                    "name" : "Tofu Homestyle with Minced Pork",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247987",
+                    "name" : "Tofu with Fresh Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247988",
+                    "name" : "Fried Tofu with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893777", 
+                "name" : "From Our Grill",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247811",
+                    "name" : "Jumbo Shrimp Kabob with Teriyaki Sauce",
+                    "description" : "Choice of white or brown rice and broccoli or string bean.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247812",
+                    "name" : "Chicken Kabob with Teriyaki Sauce",
+                    "description" : "Choice of white or brown rice and broccoli or string bean.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893776", 
+                "name" : "On the Lighter Side",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247788",
+                    "name" : "Small Chicken with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247798",
+                    "name" : "Large Chicken with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.75" }
+                    ]
+                },
+                {
+                    "id" : "63247789",
+                    "name" : "Small Pork with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63247799",
+                    "name" : "Large Pork with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.75" }
+                    ]
+                },
+                {
+                    "id" : "63247790",
+                    "name" : "Small Beef with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63247800",
+                    "name" : "Large Beef with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.75" }
+                    ]
+                },
+                {
+                    "id" : "63247791",
+                    "name" : "Small Baby Shrimp with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.5" }
+                    ]
+                },
+                {
+                    "id" : "63247801",
+                    "name" : "Large Baby Shrimp with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247802",
+                    "name" : "Large Jumbo Shrimp with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247792",
+                    "name" : "Small Mixed Vegetable Delight",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63247803",
+                    "name" : "Large Mixed Vegetable Delight",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247793",
+                    "name" : "Small Fresh Mushrooms, Broccoli, String Beans and Snow Peas",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.5" }
+                    ]
+                },
+                {
+                    "id" : "63247804",
+                    "name" : "Large Fresh Mushroom, Broccoli, String Beans and Snow Peas",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247794",
+                    "name" : "Small Scallops with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247805",
+                    "name" : "Large Scallops with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247795",
+                    "name" : "Small Salmon with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247806",
+                    "name" : "Large Salmon with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247796",
+                    "name" : "Small Jumbo Shrimp and Salmon with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.5" }
+                    ]
+                },
+                {
+                    "id" : "63247807",
+                    "name" : "Large Jumbo Shrimp and Salmon with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247808",
+                    "name" : "Large Jumbo Shrimp and Scallops with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247809",
+                    "name" : "Large Jumbo Shrimp and Chicken with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247797",
+                    "name" : "Small Tofu with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63247810",
+                    "name" : "Large Tofu with Any Vegetable",
+                    "description" : "Steamed with no oil. no seasoning and sauce on the side. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893787", 
+                "name" : "Egg Foo Young",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247989",
+                    "name" : "Chicken Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247990",
+                    "name" : "Roast Pork Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247991",
+                    "name" : "Beef Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247992",
+                    "name" : "Shrimp Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63247993",
+                    "name" : "Vegetable Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247994",
+                    "name" : "House Special Egg Foo Young",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893788", 
+                "name" : "Lo Mein",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247995",
+                    "name" : "Small Chicken Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248003",
+                    "name" : "Large Chicken Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247996",
+                    "name" : "Small Pork Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248004",
+                    "name" : "Large Pork Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247997",
+                    "name" : "Small Shrimp Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248005",
+                    "name" : "Large Shrimp Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247998",
+                    "name" : "Small Beef Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248006",
+                    "name" : "Large Beef Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63247999",
+                    "name" : "Small Vegetable Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63248007",
+                    "name" : "Large Vegetable Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248000",
+                    "name" : "Small Plain Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.75" }
+                    ]
+                },
+                {
+                    "id" : "63248008",
+                    "name" : "Large Plain Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248001",
+                    "name" : "Small House Special Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248009",
+                    "name" : "Large House Special Lo Mein",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248002",
+                    "name" : "Small Noodles with Spicy Meat Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.95" }
+                    ]
+                },
+                {
+                    "id" : "63248010",
+                    "name" : "Large Noodles with Spicy Meat Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893789", 
+                "name" : "Pan Fried Noodles",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248011",
+                    "name" : "Chicken Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63248012",
+                    "name" : "Pork Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                },
+                {
+                    "id" : "63248013",
+                    "name" : "Shrimp Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248014",
+                    "name" : "Beef Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248015",
+                    "name" : "House Special Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248016",
+                    "name" : "Seafood Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63248017",
+                    "name" : "Vegetable Pan Fried Noodles",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893790", 
+                "name" : "Chow Fun and Mei Fun",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248018",
+                    "name" : "Chicken Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248019",
+                    "name" : "Chicken Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248020",
+                    "name" : "Roast Pork Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248021",
+                    "name" : "Roast Pork Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248022",
+                    "name" : "Shrimp Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248023",
+                    "name" : "Shrimp Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248024",
+                    "name" : "Beef Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248025",
+                    "name" : "Beef Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248026",
+                    "name" : "Vegetable Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248027",
+                    "name" : "Vegetable Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248028",
+                    "name" : "Plain Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248029",
+                    "name" : "Plain Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63248030",
+                    "name" : "House Special Chow Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248031",
+                    "name" : "House Special Mei Fun",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248032",
+                    "name" : "Singapore Chow Fun",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63248033",
+                    "name" : "Singapore Mei Fun",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893793", 
+                "name" : "Baby Shrimp",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248063",
+                    "name" : "Small Baby Shrimp with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248064",
+                    "name" : "Large Baby Shrimp with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248065",
+                    "name" : "Small Baby Shrimp with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248066",
+                    "name" : "Large Baby Shrimp with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248067",
+                    "name" : "Small Baby Shrimp with Lobster Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248068",
+                    "name" : "Large Baby Shrimp with Lobster Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248069",
+                    "name" : "Small Baby Shrimp with Eggplant",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248070",
+                    "name" : "Large Baby Shrimp with Eggplant",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248071",
+                    "name" : "Small Baby Shrimp with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248072",
+                    "name" : "Large Baby Shrimp with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248073",
+                    "name" : "Small Baby Shrimp with Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248074",
+                    "name" : "Large Baby Shrimp with Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248075",
+                    "name" : "Small Baby Shrimp with Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248076",
+                    "name" : "Large Baby Shrimp with Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248077",
+                    "name" : "Small Baby Shrimp with String Beans",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248078",
+                    "name" : "Large Baby Shrimp with String Beans",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248079",
+                    "name" : "Small Kung Pao Baby Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248080",
+                    "name" : "Large Kung Pao Baby Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63248081",
+                    "name" : "Small Baby Shrimp with Hot Chili Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63248082",
+                    "name" : "Large Baby Shrimp with Hot Chili Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893791", 
+                "name" : "Sweet and Sour",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248034",
+                    "name" : "Small Sweet and Sour Pork",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248035",
+                    "name" : "Large Sweet and Sour Pork",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248036",
+                    "name" : "Small Sweet and Sour Chicken",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248037",
+                    "name" : "Large Sweet and Sour Chicken",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.95" }
+                    ]
+                },
+                {
+                    "id" : "63248038",
+                    "name" : "Small Sweet and Sour Jumbo Shrimp",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248039",
+                    "name" : "Large Sweet and Sour Jumbo Shrimp",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893792", 
+                "name" : "Jumbo Shrimp",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248040",
+                    "name" : "Small Jumbo Shrimp with Lobster Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248041",
+                    "name" : "Large Jumbo Shrimp with Lobster Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248042",
+                    "name" : "Small Jumbo Shrimp with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248043",
+                    "name" : "Large Jumbo Shrimp with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248044",
+                    "name" : "Small Jumbo Shrimp with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248045",
+                    "name" : "Large Jumbo Shrimp with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248046",
+                    "name" : "Small Jumbo Shrimp with Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248047",
+                    "name" : "Large Jumbo Shrimp with Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248048",
+                    "name" : "Small Jumbo Shrimp with Eggplant",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248049",
+                    "name" : "Large Jumbo Shrimp with Eggplant",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248050",
+                    "name" : "Small Jumbo Shrimp with Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248051",
+                    "name" : "Large Jumbo Shrimp with Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248052",
+                    "name" : "Small Kung Pao Jumbo Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248053",
+                    "name" : "Large Kung Pao Jumbo Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248054",
+                    "name" : "Small Jumbo Shrimp with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248055",
+                    "name" : "Large Jumbo Shrimp with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248056",
+                    "name" : "Small Jumbo Shrimp with Broccoli in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248057",
+                    "name" : "Large Jumbo Shrimp with Broccoli in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248058",
+                    "name" : "Small Jumbo Shrimp with String Beans",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248059",
+                    "name" : "Large Jumbo Shrimp with String Beans",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63248060",
+                    "name" : "Small Hunan Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.25" }
+                    ]
+                },
+                {
+                    "id" : "63248062",
+                    "name" : "Large Hunan Shrimp",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893794", 
+                "name" : "Roast Pork",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248083",
+                    "name" : "Small Roast Pork with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248084",
+                    "name" : "Large Roast Pork with Snow Peas",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248085",
+                    "name" : "Small Roast Pork with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248086",
+                    "name" : "Large Roast Pork with Broccoli",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248087",
+                    "name" : "Small Roast Pork with Bean Sprouts",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248088",
+                    "name" : "Large Roast Pork with Bean Sprouts",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248089",
+                    "name" : "Small Roast Pork with Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248090",
+                    "name" : "Large Roast Pork with Mushrooms",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248091",
+                    "name" : "Small Roast Pork with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248092",
+                    "name" : "Large Roast Pork with Mixed Vegetables",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248093",
+                    "name" : "Small Shredded Pork with Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248094",
+                    "name" : "Large Shredded Pork with Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248095",
+                    "name" : "Small Shredded Pork in Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248096",
+                    "name" : "Large Shredded Pork in Black Bean Sauce",
+                    "description" : "Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                },
+                {
+                    "id" : "63248097",
+                    "name" : "Small Shredded Pork with Eggplant in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.75" }
+                    ]
+                },
+                {
+                    "id" : "63248098",
+                    "name" : "Large Shredded Pork with Eggplant in Garlic Sauce",
+                    "description" : "Hot and spicy. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.5" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893780", 
+                "name" : "Chef's Specialties",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247862",
+                    "name" : "General Tso's Delight",
+                    "description" : "Hot and spicy. Jumbo shrimp and tender chunks of chicken batter dipped and fried golden brown in the general's famous sweet and spicy sauce served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247863",
+                    "name" : "Beef with Orange Flavor",
+                    "description" : "Hot and spicy. Tender chunks of beef batter dipped and fried golden brown, then tossed into a tangy brown sauce garnished with orange zest and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "63247864",
+                    "name" : "Chicken with Orange Flavor",
+                    "description" : "Hot and spicy. Chunks of chicken batter dipped and fried golden brown, then tossed into a tangy brown sauce garnished with orange zest and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63247866",
+                    "name" : "Sesame Chicken",
+                    "description" : "Tender chunks of chicken batter dipped and fried golden brown, then tossed into a sweet brown sauce sprinkled with toasted sesame seeds and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63247867",
+                    "name" : "Sesame Beef",
+                    "description" : "Tender chunks of beef batter dipped and fried golden brown, then tossed into a sweet brown sauce sprinkled with toasted sesame seeds and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247868",
+                    "name" : "Sesame Shrimp",
+                    "description" : "Jumbo shrimp batter dipped and fried golden brown, then tossed into a sweet brown sauce sprinkled with toasted sesame seeds and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247869",
+                    "name" : "Sesame Pineapple Chicken",
+                    "description" : "Tender chunks of chicken batter dipped and fried golden brown, then tossed into a sweet pineapple sauce garnished with chunks of pineapple and toasted sesame seeds and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247870",
+                    "name" : "Lake Tung Ting Shrimp",
+                    "description" : "Jumbo shrimp with assorted vegetables sauteed in a delicate egg white sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247871",
+                    "name" : "Butterfly Shrimp with Bacon",
+                    "description" : "Jumbo shrimp batter fried and wrapped in bacon and cooked in an omelette and served on a bed of onions with a light tomato sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "63247872",
+                    "name" : "Mongolian Beef",
+                    "description" : "Hot and spicy. Slices of tender beef sauteed with onions and scallions in Mongolian sauce with a hint of mustard.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247873",
+                    "name" : "Wor Bar",
+                    "description" : "Hot and spicy. Jumbo shrimp and sliced chicken over a bed of mushroom sand onions in a hot pepper sauce garnished with homemade rice crisps.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247874",
+                    "name" : "Hot and Spicy Szechuan Beef",
+                    "description" : "Hot and spicy. Tender pieces of beef sauteed with julienned vegetables in a spicy brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247875",
+                    "name" : "East Meet West Savory Pork",
+                    "description" : "Hot and spicy. Tender slices of pork sauteed twice in house special Szechuan sauce with cabbage.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63247876",
+                    "name" : "Roast Pork and Chicken with Mixed Vegetables",
+                    "description" : "Tender slices of roast pork and chicken sauteed with assorted  vegetables in house brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247877",
+                    "name" : "General Tso's Tofu",
+                    "description" : "Hot and spicy. Chunks of tofu fried golden brown in the general's famous sweet and spicy sauce served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63247878",
+                    "name" : "Sesame Tofu",
+                    "description" : "Chunks of tofu fried golden brown, tossed into a sweet brown sauce sprinkled with toasted sesame seeds and served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "10.25" }
+                    ]
+                },
+                {
+                    "id" : "63247879",
+                    "name" : "Lotus Delight",
+                    "description" : "Jumbo shrimp, chicken and beef with mixed vegetables in che's delicate egg white sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247880",
+                    "name" : "Coconut Mango Chicken",
+                    "description" : "Tender chunks of chicken breast batter dipped and fried golden brown in our delicious brown sauce tossed with fresh mango slices and sprinkled with fresh coconut. Served with side of steamed broccoli. Seasonal.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247881",
+                    "name" : "Happy Family",
+                    "description" : "Jumbo shrimp, chicken, beef, scallops, roast pork and lobster meat with assorted vegetables served in a house brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "14.95" }
+                    ]
+                },
+                {
+                    "id" : "63247882",
+                    "name" : "Triple Delight",
+                    "description" : "Jumbo shrimp, beef and chicken with assorted vegetables served in house brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247883",
+                    "name" : "Seafood Combination",
+                    "description" : "Jumbo shrimp, scallops and lobster meat with mixed vegetables in smooth white sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247884",
+                    "name" : "Szechuan Double Taste",
+                    "description" : "Jumbo shrimp and chicken with mixed vegetables in spicy brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247885",
+                    "name" : "House Eggplant",
+                    "description" : "Chinese eggplant sauteed with shrimp, chicken and pork in garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247886",
+                    "name" : "East Meets West Jumbo Shrimp",
+                    "description" : "Deep fried jumbo shrimp with mixed vegetables in house brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247887",
+                    "name" : "Hunan Chicken Home Style",
+                    "description" : "Sliced chicken sauteed with shredded ginger and string beans in delicate brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247888",
+                    "name" : "Black Pepper Chicken",
+                    "description" : "Sliced chicken with fresh ground pepper, baby corn and mushrooms in black pepper sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.95" }
+                    ]
+                },
+                {
+                    "id" : "63247889",
+                    "name" : "Dragon Meets Phoenix",
+                    "description" : "Tender chunks of lobster meat, sliced chicken, red and green peppers, baby corn and black mushrooms in house brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "63247890",
+                    "name" : "Pineapple Chicken",
+                    "description" : "Tender chunks of chicken batter dipped and fried golden brown drizzled with sweet pineapple sauce with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63247891",
+                    "name" : "Shrimp and Scallops in Garlic Sauce",
+                    "description" : "Jumbo shrimp and scallops sauteed with assorted julienned vegetables in our delicious garlic sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247892",
+                    "name" : "Winery Jumbo Shrimp",
+                    "description" : "Jumbo shrimp with assorted vegetables sauteed in our delicious white wine sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247893",
+                    "name" : "Shrimp and Scallops in Lobster Sauce",
+                    "description" : "Jumbo shrimp and scallops sauteed in our tasty egg based lobster sauce garnished with green peas.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.95" }
+                    ]
+                },
+                {
+                    "id" : "63247894",
+                    "name" : "Walnut Shrimp",
+                    "description" : "Jumbo shrimp batter dipped and fried golden brown and tossed into brown sauce and sprinkled with toasted walnuts.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "13.5" }
+                    ]
+                },
+                {
+                    "id" : "63247895",
+                    "name" : "Shredded Chicken and Beef",
+                    "description" : "Tender strips of chicken and beef sauteed with bell peppers and onions in ginger scallion sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.5" }
+                    ]
+                },
+                {
+                    "id" : "63247896",
+                    "name" : "Shrimp and Chicken Cashew",
+                    "description" : "Jumbo shrimp and chicken with mixed vegetables sauteed in brown sauce garnished with roasted cashew nuts.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247897",
+                    "name" : "Jumbo Shrimp and Chicken Combination",
+                    "description" : "Jumbo shrimp and sliced chicken sauteed with mixed vegetables in our delicious brown sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                },
+                {
+                    "id" : "63247898",
+                    "name" : "General Tso's Chicken",
+                    "description" : "Tender chunks of chicken batter dipped and fried golden brown in the general's famous sweet and spicy sauce served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.5" }
+                    ]
+                },
+                {
+                    "id" : "63247899",
+                    "name" : "General Tso's Shrimp",
+                    "description" : "Hot and spicy. Jumbo shrimp batter dipped and fried golden brown in the general's famous sweet and spicy sauce served with a side of broccoli.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "12.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893779", 
+                "name" : "Oversized Combination Platters",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247837",
+                    "name" : "Chicken Chow Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63247838",
+                    "name" : "Pork Chow Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63247839",
+                    "name" : "Shrimp Chow Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247840",
+                    "name" : "Beef Chow Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247841",
+                    "name" : "Jumbo Shrimp with Lobster Sauce Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247842",
+                    "name" : "Chicken with Broccoli Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247843",
+                    "name" : "Jumbo Shrimp with Broccoli Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63247844",
+                    "name" : "Beef with Broccoli Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63247845",
+                    "name" : "BBQ Spare Ribs Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247846",
+                    "name" : "Boneless Spare Ribs Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247847",
+                    "name" : "Pepper Steak with Onions Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.25" }
+                    ]
+                },
+                {
+                    "id" : "63247848",
+                    "name" : "Sweet and Sour Pork Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247849",
+                    "name" : "Sweet and Sour Chicken Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247850",
+                    "name" : "Moo Goo Gai Pan Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "63247851",
+                    "name" : "Roast Pork Egg Foo Young Combo",
+                    "description" : "Two pieces. Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247852",
+                    "name" : "Shredded Chicken in Garlic Sauce Combo",
+                    "description" : "Served with pork fried rice and pork egg roll. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247853",
+                    "name" : "Shredded Pork in Garlic Sauce Combo",
+                    "description" : "Served with pork fried rice and pork egg roll. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247854",
+                    "name" : "Hot and Spicy Szechuan Beef Combo",
+                    "description" : "Served with pork fried rice and pork egg roll. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.95" }
+                    ]
+                },
+                {
+                    "id" : "63247855",
+                    "name" : "Roast Pork Lo Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247856",
+                    "name" : "Chicken Lo Mein Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247857",
+                    "name" : "Roast Pork with Chinese Vegetables Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247858",
+                    "name" : "General Tso's Chicken Combo",
+                    "description" : "Served with pork fried rice and pork egg roll. Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247859",
+                    "name" : "Sesame Chicken Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                },
+                {
+                    "id" : "63247860",
+                    "name" : "East Meets West Wings Combo",
+                    "description" : "Three pieces. Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "63247861",
+                    "name" : "Chicken with Black Bean Sauce Combo",
+                    "description" : "Served with pork fried rice and pork egg roll.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893798", 
+                "name" : "Family Meal (Served only Monday-Thursday)",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248145",
+                    "name" : "Family Meal",
+                    "description" : "Choice of two appetizers and four entrees. Served with choice of rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "24" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893778", 
+                "name" : "Extras",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63247813",
+                    "name" : "Brown Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.75" }
+,                        { "name" : "Large",  "price" : "3.25" }
+                    ]
+                },
+                {
+                    "id" : "63247814",
+                    "name" : "White Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "1.55" }
+,                        { "name" : "Large",  "price" : "2.95" }
+                    ]
+                },
+                {
+                    "id" : "63247815",
+                    "name" : "Almond Cookies",
+                    "description" : "Three cookies.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+                    ]
+                },
+                {
+                    "id" : "63247816",
+                    "name" : "Apple Stick",
+                    "description" : "10 pieces.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247817",
+                    "name" : "Crispy Noodle",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.85" }
+                    ]
+                },
+                {
+                    "id" : "63247818",
+                    "name" : "White Garlic Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247819",
+                    "name" : "Brown Garlic Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247820",
+                    "name" : "General Tso's Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63247821",
+                    "name" : "Classic Brown Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247822",
+                    "name" : "Ginger Scallion Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247823",
+                    "name" : "Lobster Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247824",
+                    "name" : "House Duck Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247825",
+                    "name" : "House Mustard Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247827",
+                    "name" : "Egg Foo Young Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63247828",
+                    "name" : "Sweet and Sour Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247829",
+                    "name" : "BBQ Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63247830",
+                    "name" : "Cold Sesame Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.5" }
+                    ]
+                },
+                {
+                    "id" : "63247831",
+                    "name" : "Fried Wonton Sauce",
+                    "description" : "Per cup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                },
+                {
+                    "id" : "63247832",
+                    "name" : "Blue Cheese Sauce",
+                    "description" : "Per cup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                },
+                {
+                    "id" : "63247833",
+                    "name" : "Dumpling Sauce",
+                    "description" : "Per cup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                },
+                {
+                    "id" : "63247834",
+                    "name" : "Moo Shu Sauce",
+                    "description" : "Per cup.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.5" }
+                    ]
+                },
+                {
+                    "id" : "63247835",
+                    "name" : "Lemon Sauce",
+                    "description" : "1/2 pint.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "63247836",
+                    "name" : "Fortune Cookies",
+                    "description" : "Four cookies.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893797", 
+                "name" : "Kid's Meal",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248144",
+                    "name" : "Kid's Chicken Tenders ",
+                    "description" : "Three piece tenders with French fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893795", 
+                "name" : "Luncheon Specials (Served only 11 a.m. - 3:30 p.m., Monday - Saturday)",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248099",
+                    "name" : "Pepper Steak with Onions (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248100",
+                    "name" : "Baby Shrimp with Garlic Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248101",
+                    "name" : "Shredded Pork with Garlic Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248102",
+                    "name" : "Curry Chicken (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248103",
+                    "name" : "Beef with Broccoli (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248104",
+                    "name" : "Chicken with Broccoli (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248105",
+                    "name" : "Roast Pork with Chinese Vegetables (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248106",
+                    "name" : "Chow Mein (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248107",
+                    "name" : "Lo Mein (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248108",
+                    "name" : "Mixed Chinese Vegetables (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248109",
+                    "name" : "Boneless Ribs (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248110",
+                    "name" : "Baby Shrimp with Lobster Sauce (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248111",
+                    "name" : "Baby Shrimp with Mixed Vegetables (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248112",
+                    "name" : "Sweet and Sour Chicken (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248113",
+                    "name" : "Sweet and Sour Pork (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248114",
+                    "name" : "General Tso's Chicken (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248115",
+                    "name" : "Shredded Beef with Garlic Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248116",
+                    "name" : "Shredded Chicken with Garlic Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248117",
+                    "name" : "Shrimp and Chicken Combination (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248118",
+                    "name" : "Chicken with Black Bean Sauce (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248119",
+                    "name" : "Chow Fun (Lunch Only)",
+                    "description" : "Not served with rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248120",
+                    "name" : "Mei Fun (Lunch Only)",
+                    "description" : "Not served with rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248121",
+                    "name" : "Sesame Chicken (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248122",
+                    "name" : "Egg Foo Young (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248123",
+                    "name" : "Baby Shrimp with Hot Chili Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248124",
+                    "name" : "Tofu with Chicken (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248125",
+                    "name" : "Hunan Chicken (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248138",
+                    "name" : "Hunan Beef (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248126",
+                    "name" : "East Meets West Savory Pork (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248127",
+                    "name" : "Baby Shrimp with Broccoli (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248128",
+                    "name" : "Chicken with Pepper and Onion (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248129",
+                    "name" : "Roast Pork with Broccoli (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248130",
+                    "name" : "Mei Fun Singapore Style (Lunch Only)",
+                    "description" : "Not served with rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248131",
+                    "name" : "Moo Goo Gai Pan (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248132",
+                    "name" : "Chicken with Bean Sprouts (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248133",
+                    "name" : "Tofu Szechuan Style (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248134",
+                    "name" : "East Meets West Wings (Lunch Only)",
+                    "description" : "Three wings.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248135",
+                    "name" : "Broccoli and Fresh Mushrooms in Garlic Sauce (Lunch Only)",
+                    "description" : "Hot and spicy.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248136",
+                    "name" : "Tofu with Mixed Vegetables (Lunch Only)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248137",
+                    "name" : "East Meets West Wings with French Fries (Lunch Only)",
+                    "description" : "Three wings. Not served with rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                },
+                {
+                    "id" : "63248139",
+                    "name" : "Chicken Tenders (Lunch Only)",
+                    "description" : "Three piece tenders with French fries. Not served with rice.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.95" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893796", 
+                "name" : "Dessert",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63248140",
+                    "name" : "Tiramisu",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63248141",
+                    "name" : "Tortoni",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.25" }
+                    ]
+                },
+                {
+                    "id" : "63248142",
+                    "name" : "Chocolate Mousse",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "63248143",
+                    "name" : "Tartufo",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.65" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

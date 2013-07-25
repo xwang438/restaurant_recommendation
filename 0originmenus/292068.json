@@ -1,0 +1,413 @@
+{
+    "menu" : {
+        "id" : "292068",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "8893485", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63244993",
+                    "name" : "Soft Drinks",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.99" }
+                    ]
+                },
+                {
+                    "id" : "63244994",
+                    "name" : "Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63244995",
+                    "name" : "Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63244996",
+                    "name" : "Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1" }
+                    ]
+                },
+                {
+                    "id" : "63244997",
+                    "name" : "Turkish Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "63244998",
+                    "name" : "Perrier",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.59" }
+                    ]
+                },
+                {
+                    "id" : "63244999",
+                    "name" : "Carrot Juice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.59" }
+                    ]
+                },
+                {
+                    "id" : "63245000",
+                    "name" : "Bottle Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.59" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893481", 
+                "name" : "Appetizers",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63244958",
+                    "name" : "Hummus",
+                    "description" : "A blend of ground chick peas and tahini, topped with olive oil and spices, served as a cold dip with pita bread.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.45" }
+,                        { "name" : "Large",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63244959",
+                    "name" : "Baba Ghanouj",
+                    "description" : "Baked eggplant mashed and blended with tahini, tossed with olive oil and spices, served as a cold dip with pita bread.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.99" }
+,                        { "name" : "Large",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "63244960",
+                    "name" : "Tabouleh Salad",
+                    "description" : "Freshly diced tomatoes, onions, parsley, green pepper and cracked wheat, tossed with olive oil and lemon juice.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.99" }
+,                        { "name" : "Large",  "price" : "4.45" }
+                    ]
+                },
+                {
+                    "id" : "63244961",
+                    "name" : "Jerusalem Salad",
+                    "description" : "Chopped lettuce, tomatoes, cucumbers and parsley with tahini sauce.",
+                    "sizes" : [
+                        { "name" : "Small",  "price" : "2.45" }
+,                        { "name" : "Large",  "price" : "3.99" }
+                    ]
+                },
+                {
+                    "id" : "63244962",
+                    "name" : "Stuffed Grape Leaves",
+                    "description" : "Grapevine leaves stuffed with seasoned rice served cold.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "63244963",
+                    "name" : "Fatoush Salad",
+                    "description" : "Lettuce, tomatoes, cucumbers, onions, green peppers and parsley tossed with lemon juice and olive oil.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.99" }
+                    ]
+                },
+                {
+                    "id" : "63244964",
+                    "name" : "Lentil Soup",
+                    "description" : "Homemade soup made with lentil, carrots, onions, celery and spices.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.75" }
+                    ]
+                },
+                {
+                    "id" : "63244965",
+                    "name" : "Falafel (3)",
+                    "description" : "Deep fried patties of ground chick peas served with tahini.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.65" }
+                    ]
+                },
+                {
+                    "id" : "63244966",
+                    "name" : "Yogurt Salad",
+                    "description" : "Fresh cucumbers and mint dressed in our homemade yogurt.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893482", 
+                "name" : "Sandwiches",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63244967",
+                    "name" : "Shish Kabob Sandwich",
+                    "description" : "Grilled pieces of marinated tender beef, served in a pita pocket with lettuce and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63244968",
+                    "name" : "Kafta Kabob Sandwich",
+                    "description" : "Grilled seasoned ground cuts of tender beef, minced onion and parsley, served in a pita pocket with lettuce and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63244969",
+                    "name" : "Beef Shawarma Sandwich",
+                    "description" : "Thin slices of lightly seasoned beef, served in a pita pocket with lettuce, tomato, and tahini sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63244970",
+                    "name" : "Chicken Kabob Sandwich",
+                    "description" : "Grilled marinated chicken kabob, served in a pita pocket with lettuce and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63244971",
+                    "name" : "Chicken Shawarma Sandwich",
+                    "description" : "Thin slices of marinated chicken served in a pita pocket with lettuce and tomato.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                },
+                {
+                    "id" : "63244972",
+                    "name" : "Falafel Sandwich",
+                    "description" : "Deep fried patties of ground chick peas served in a pita pocket with lettuce, tomato, and tahini sauce.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893483", 
+                "name" : "Entrees",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63244973",
+                    "name" : "Shish Kabob Entree",
+                    "description" : "Grilled pieces of tender marinated beef, served with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.99" }
+                    ]
+                },
+                {
+                    "id" : "63244974",
+                    "name" : "Kafta Kabob Entree",
+                    "description" : "Grilled seasoned ground cuts of tender beef, minced onion, and parsley served with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63244975",
+                    "name" : "Beef Shawarma Entree",
+                    "description" : "Thin slices of lightly seasoned beef with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63244976",
+                    "name" : "Chicken Kabob Entree",
+                    "description" : "Grilled marinated chicken kabob served with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63244977",
+                    "name" : "Chicken Shawarma Entree",
+                    "description" : "Thin slices of marinated chicken served with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.75" }
+                    ]
+                },
+                {
+                    "id" : "63244978",
+                    "name" : "Combination Feast",
+                    "description" : "Combination of shish kabob, kafta kabob, and chicken. Served with rice, salad, and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "9.99" }
+                    ]
+                },
+                {
+                    "id" : "63244979",
+                    "name" : "Vegetarian Plate",
+                    "description" : "Hummus, tobouleh salad,  and falafel, stuffed with grape leaves and baba ghanouj.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63244980",
+                    "name" : "Falafel Plate",
+                    "description" : "6 Falafel, lettuce, tomato, cucumber, pickle and a choice of hummus or baba ghanouj.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63244981",
+                    "name" : "Shawarma Combo Entree",
+                    "description" : "Beef and chicken shawarma served with your choice of hummus or rice with salad and pita bread.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "8.99" }
+                    ]
+                },
+                {
+                    "id" : "63244982",
+                    "name" : "Chicken Shawarma Salad Entree",
+                    "description" : "Marinated chicken served on a fresh mixed greens salad with toasted pita, sumac and our homemade vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.99" }
+                    ]
+                },
+                {
+                    "id" : "63244983",
+                    "name" : "Alameer Platter",
+                    "description" : "Choice of three meats, soup or salad, and choice of hummus, rice or fries.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "11.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893484", 
+                "name" : "Extras",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63244984",
+                    "name" : "Extra Shish Skewer",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63244985",
+                    "name" : "Extra Chicken Skewer",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63244986",
+                    "name" : "Extra Kafta Skewer",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63244987",
+                    "name" : "Extra Shawarma",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3" }
+                    ]
+                },
+                {
+                    "id" : "63244988",
+                    "name" : "Two Pitas",
+                    "description" : "Limit two per order.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.75" }
+                    ]
+                },
+                {
+                    "id" : "63244989",
+                    "name" : "Fries",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "63244990",
+                    "name" : "Rice",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "63244991",
+                    "name" : "Extra Tahini Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.35" }
+                    ]
+                },
+                {
+                    "id" : "63244992",
+                    "name" : "Extra Hot Sauce",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "0.35" }
+                    ]
+                }]
+            },
+            {
+                "id" : "8893486", 
+                "name" : "Desserts",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "63245001",
+                    "name" : "Homemade Baklava ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "1.99" }
+                    ]
+                },
+                {
+                    "id" : "63245002",
+                    "name" : "Chocolate Cake",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "2.75" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}

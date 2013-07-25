@@ -1,0 +1,579 @@
+{
+    "menu" : {
+        "id" : "292351",
+        "groups" : [
+        {
+            "id" : "0",
+            "name" : "Main",
+            "categories" : [
+            {
+                "id" : "5667018", 
+                "name" : "Beverages",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38343469",
+                    "name" : "Espresso",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Single",  "price" : "1.8" }
+,                        { "name" : "Double",  "price" : "2.3" }
+                    ]
+                },
+                {
+                    "id" : "38343478",
+                    "name" : "Espresso Macchiato",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Single",  "price" : "2.05" }
+,                        { "name" : "Double",  "price" : "2.55" }
+                    ]
+                },
+                {
+                    "id" : "38343488",
+                    "name" : "Espresso Con Panna",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Single",  "price" : "2.05" }
+,                        { "name" : "Double",  "price" : "2.55" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5667027", 
+                "name" : "Beverages_A",
+                "description" : "Add an extra espresso shot to espresso drink $0.50, add a flvor shot $0.50, substitute w/ soy or oat milk $0.50",
+                "items" : [
+                {
+                    "id" : "38343516",
+                    "name" : "Brewed Coffee",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.4" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.65" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.85" }
+                    ]
+                },
+                {
+                    "id" : "38343524",
+                    "name" : "Au Lait",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.65" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.9" }
+,                        { "name" : "Large (16 oz.)",  "price" : "2.15" }
+                    ]
+                },
+                {
+                    "id" : "38343527",
+                    "name" : "Latte",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.4" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.15" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.4" }
+                    ]
+                },
+                {
+                    "id" : "38343534",
+                    "name" : "Cappuccino",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.4" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.15" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.4" }
+                    ]
+                },
+                {
+                    "id" : "38343541",
+                    "name" : "Mocha",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.65" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.4" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.65" }
+                    ]
+                },
+                {
+                    "id" : "38343546",
+                    "name" : "Medici",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.75" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.5" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "38343551",
+                    "name" : "Breve",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.65" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.4" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.65" }
+                    ]
+                },
+                {
+                    "id" : "38343561",
+                    "name" : "Americano",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.8" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.3" }
+,                        { "name" : "Large (16 oz.)",  "price" : "2.3" }
+                    ]
+                },
+                {
+                    "id" : "38343566",
+                    "name" : "Red Eye",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.65" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.4" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.65" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5667031", 
+                "name" : "Beverages_B",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38343655",
+                    "name" : "Tea ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.5" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.5" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "38343664",
+                    "name" : "Chai Tea",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "2.4" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "3.15" }
+,                        { "name" : "Large (16 oz.)",  "price" : "3.4" }
+                    ]
+                },
+                {
+                    "id" : "38343673",
+                    "name" : "Hot Cocoa",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.25" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.6" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "38343692",
+                    "name" : "Steamer",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1.25" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.6" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.95" }
+                    ]
+                },
+                {
+                    "id" : "38343707",
+                    "name" : "Italian Soda",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Medium (12 oz.)",  "price" : "1.5" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.75" }
+                    ]
+                },
+                {
+                    "id" : "38343717",
+                    "name" : "Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Small (10 oz.)",  "price" : "1" }
+,                        { "name" : "Medium (12 oz.)",  "price" : "1.25" }
+,                        { "name" : "Large (16 oz.)",  "price" : "1.5" }
+                    ]
+                },
+                {
+                    "id" : "38343731",
+                    "name" : "Juice (17.5 oz.)",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Large (16 oz.)",  "price" : "2" }
+                    ]
+                },
+                {
+                    "id" : "38343737",
+                    "name" : "Bottled Water",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "Large (16 oz.)",  "price" : "1.25" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665584", 
+                "name" : "Regency Salads",
+                "description" : "Served with a rustic stirato roll and dressing on the side",
+                "items" : [
+                {
+                    "id" : "38341641",
+                    "name" : "Marinated Portabella",
+                    "description" : "Marinated and sliced portabella together with field greens, roasted red peppers, fresh mozzarella cheese and our homemade balsamic vinaigrette.",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38341699",
+                    "name" : "Farmer's Market",
+                    "description" : "Field greens with cucumber, red onion, green apples, tomato, carrots, cheddar cheese and ranch dressing. Add grilled chicken breast for $1.50 extra",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38341736",
+                    "name" : "Roasted Red Pepper Caesar",
+                    "description" : "A bed of romaine with roasted red peppers, caramelized onions, parmesan cheese, asiago croutons and homemade roasted red pepper Caesar dressing. Add grilled chicken breast for extra $1.50",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "38341779",
+                    "name" : "Fresh Spinach &amp; Chevre",
+                    "description" : "Warm bacon, creamy chevre goat cheese, caramelized onions and caramelized apples on a bed of baby spinach with our homemade balsamic vinaigrette. Add grilled chicken breast for extra $1.50",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38341803",
+                    "name" : "Grilled Chicken &amp; Cranberry  ",
+                    "description" : "Grilled chicken, toasted walnuts, premium dried cranberries, chevre and homemade cranberry ranch dressing served over fresh field greens",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665630", 
+                "name" : "Regency Deluxe Sandwiches",
+                "description" : "Served with rippled potato chips, substitute a baby field greens salad for only $1.00 extra",
+                "items" : [
+                {
+                    "id" : "38342009",
+                    "name" : "San Fran Turkey",
+                    "description" : "on multigrain all natural turkey breast and fresh avocado with bacon, freshly sliced tomato, field greens, sprouts, havarti cheese and spicy mustard",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "7.75" }
+                    ]
+                },
+                {
+                    "id" : "38342048",
+                    "name" : "Spicy Roast Beef",
+                    "description" : "On farmers white bottom round roast beef &amp; sharp vermont cheddar paired with caramelized red onion, and our own horseradish mayo zziinngg",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.75" }
+                    ]
+                },
+                {
+                    "id" : "38342073",
+                    "name" : "Roasted Garlic Hummus",
+                    "description" : "On multigrain homemade hummus with roasted red peppers, fresh cucumber, roasted garlic spread and field greens. Vegan",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "38342110",
+                    "name" : "Mediterranean Tuna Salad",
+                    "description" : "On multigrain our own tuna salad capers, sun dried tomatoes, red onion &amp; celery with sharp vermont cheddar and romaine lettuce",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38342155",
+                    "name" : "Mozzarella, Tomato and Basil ",
+                    "description" : "Tomato and basil served on farmers white and extra virgin olive oil and freshly ground black pepper",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665664", 
+                "name" : "Regency Grilled Sandwiches",
+                "description" : "Served with rippled potato chips substitute a baby field greens salad for only $1.00 extra",
+                "items" : [
+                {
+                    "id" : "38342238",
+                    "name" : "Tuna Melt",
+                    "description" : "On multigrain our own mediterranean tuna salad &amp; sharp cheddar on hearty whole wheat bread",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38342270",
+                    "name" : "Roasted Veggie",
+                    "description" : "Ciabatta Marinated portabella, roasted red peppers, fresh spinach, caramelized  onion, mozzarella &amp; sun dried tomato pesto",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.49" }
+                    ]
+                },
+                {
+                    "id" : "38342284",
+                    "name" : "Grilled Cheese Duo",
+                    "description" : "Havarti and gruyere cheeses with fresh tomatoes",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "38342296",
+                    "name" : "BLT ",
+                    "description" : "Bacon, red leaf lettuce, tomato, mayonnaise &amp; sharp cheddar cheese",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.99" }
+                    ]
+                },
+                {
+                    "id" : "38342318",
+                    "name" : "Ham &amp; Brie",
+                    "description" : "Ciabatta smoked ham, rich &amp; creamy brie, caramelized apples &amp; honey dijon mustard",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "38342344",
+                    "name" : "Chicken Pesto",
+                    "description" : "Grilled chicken breast, sun dried tomato pesto, caramelized onions &amp; creamy havarti",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "6.99" }
+                    ]
+                },
+                {
+                    "id" : "38342364",
+                    "name" : "Nutty Banana",
+                    "description" : "Trans fat free peanut butter, local honey and freshly sliced banana. Add bacon for $0.75 extra for a real tupelo treat  ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "5.49" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665684", 
+                "name" : "Tempting Daily Options",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38342389",
+                    "name" : "Quiche",
+                    "description" : "Our famous homemade quiche. Try it with a side of baby field greens for $1.00 extra",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "38342408",
+                    "name" : "Soup du Jour",
+                    "description" : "12 ounces of delicious homemade soup. Served with a rustic stirato roll",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "38342432",
+                    "name" : "Artisan Pastries - As Marked",
+                    "description" : "Choose from a variety of pastries baked from scratch daily in our kitchen. Selections include: scones, plain croissants, filled croissants, various danishes, cookies, coffee cakes, muffins, sweet rolls, biscuits and brownies",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665723", 
+                "name" : "Artisan Baked Goods",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38342600",
+                    "name" : "Puff Pastry Pinwheel   ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342602",
+                    "name" : "  Scones  ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342608",
+                    "name" : " Croissant   ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342614",
+                    "name" : " Pies ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342621",
+                    "name" : " Fruit Danish  ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342627",
+                    "name" : "Coffee Cake  ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342632",
+                    "name" : "  Various Cookies ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342641",
+                    "name" : "Tarts        ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342643",
+                    "name" : " Cinnamon Rolls",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342649",
+                    "name" : "Pain Au Chocolat",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342651",
+                    "name" : " Brioche",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342654",
+                    "name" : "  Cupcakes",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342656",
+                    "name" : "Bear Claws",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342665",
+                    "name" : "Muffins",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342670",
+                    "name" : "Brownies",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                },
+                {
+                    "id" : "38342673",
+                    "name" : "Quiche",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : "",  "price" : "" }
+                    ]
+                }]
+            },
+            {
+                "id" : "5665874", 
+                "name" : "Regency For Breakfast",
+                "description" : " ",
+                "items" : [
+                {
+                    "id" : "38343787",
+                    "name" : "Breakfast Sandwiches",
+                    "description" : "Served with baked eggs on either sourdough bread or your choice of bagel. Choose from the following combinations bacon &amp; cheddar turkey bacon &amp; cheddar ham &amp; swiss tomato, caramelized onion &amp; havarti",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4.25" }
+                    ]
+                },
+                {
+                    "id" : "38343818",
+                    "name" : "Regency Granola With Whole or Skim Milk",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+                    ]
+                },
+                {
+                    "id" : "38343837",
+                    "name" : "Regency Granola With Plain Yogurt    ",
+                    "description" : " ",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "4" }
+                    ]
+                },
+                {
+                    "id" : "38343845",
+                    "name" : "Steel Cut Oatmeal with Ground Flax",
+                    "description" : "Customize bowl by choosing from any of the following additions: almonds, walnuts, whole dried cranberries, currants, golden raisins, plain granola, brown sugar, cinnamon &amp; nutmeg",
+                    "sizes" : [
+                        { "name" : " ",  "price" : "3.75" }
+        
+                    ]
+                }]
+            }]
+        }],
+        "disclaimer" : "DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant's endorsement of Allmenus.com. Please tell us click here if you know that any of the information shown is incorrect. For more information, please read our Legal Notices."
+    }
+}
