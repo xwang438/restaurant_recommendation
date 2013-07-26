@@ -19,6 +19,16 @@ using std::ifstream;
 using std::ofstream;
 
 //This class produces a new file count.txt which can be the input for LDA in graphLab
+
+//this function transfers integers to string
+inline string inttostr(int a)
+{
+  std::stringstream ss;
+  ss << a;
+  string s = ss.str();
+  return s;
+}
+
 int main()
 {
   ifstream infile1;
@@ -26,84 +36,53 @@ int main()
   ofstream outfile;
   infile1.open("menu.txt");
   outfile.open("count.txt");
-  int file1line=0;
-  int file2line=0;
-  string previousline1 = "";
-  int totalfiles = 70;
-  int linenum[totalfiles];
+  const int totalfiles = 100;
   string line;
+
+  //vecmenu is the vector storing the lines in menu.txt
+  vector<string> vecmenu;
   while(!infile1.eof())
   {
     getline(infile1, line);
-    ++file1line;
+    vecmenu.push_back(line.substr(0));
   }
-  file1line--;
+  infile1.close();
 
+  //countmenu is the vector storing the menus of all the restaurants
+  vector<vector<string> > countmenu;
   for(int i = 0; i != totalfiles; i++){
-    std::stringstream ss;
-    ss << i;
-    string s = ss.str();
-    infile2.open((s+".json").c_str());
-    file2line = 0;
+    string s = inttostr(i);
+    infile2.open(("menus/" + s + ".json").c_str());
+    vector<string> veceachmenu;
     while(!infile2.eof())
     {
       getline(infile2, line);
-      ++file2line;
+      veceachmenu.push_back(line.substr(0));
     }
-    file2line--;
-    linenum[i] = file2line;
+    countmenu.push_back(veceachmenu);
     infile2.close();
   }
-  infile1.close();
-  infile1.open("menu.txt");
-  vector<string> vecmenu;
-  int mark = 0;
-  while(mark<file1line){
-    getline(infile1, line);
-    vecmenu.push_back(line.substr(0));
-    mark++;
-  }
-//countmenu is the vector storing the menus of all the restaurants
-  vector<vector<string> > countmenu;
-  for(int i = 0; i != totalfiles; i++){
-    std::stringstream ss;
-    ss << i;
-    string s = ss.str();
-    infile2.open((s+".json").c_str());
-    int mark = 0;
-    vector<string> vecnew;
-    while(mark != linenum[i]){
-      getline(infile2, line);
-      vecnew.push_back(line.substr(0));
-      mark++;
-    }
-    countmenu.push_back(vecnew);
-    infile2.close();
-  }
+
   
-//doc_word_count
+  //doc_word_count is the vector storing the output format for LDA
   vector<string> doc_word_count;
   for(int i = 0; i != countmenu.size(); i++){
-    for(int k = 0; k != vecmenu.size(); k++){
+    for(int k = 0; k != vecmenu.size()-1; k++){
       int count = 0;
-      for(int j = 0; j != countmenu[i].size(); j++){
+      for(int j = 0; j != countmenu[i].size()-1; j++){
         if(countmenu[i].at(j) == vecmenu[k])
           count++;
       }
       if(count != 0){
-        std::stringstream ss;
-        ss<<i;
-        string si = ss.str();
-        std::stringstream ssk;
-        ssk<<k;
-        string sk = ssk.str();
-        std::stringstream ssc;
-        ssc<<count;
-        string sc = ssc.str();
+        string si = inttostr(i);
+        string sk = inttostr(k);
+        string sc = inttostr(count);
         doc_word_count.push_back(si+"\t"+sk+"\t"+sc);
       }
     }
   }
+
+  //write the output file
   for(vector<int>::size_type i = 0; i != doc_word_count.size(); i++)
       outfile<<doc_word_count.at(i)<<endl;
   outfile.close();

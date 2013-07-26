@@ -353,19 +353,716 @@ Cannoli
 Carrot Cake
 Chocolate Cake
 Cheesecake
+Eggplant Rollatini
+Calamari Fritti
+Mozzarella In Carozza
+Bruschetta
+Pasta Fazzol
+Soup Of The Day.
+House Salad
+Insalata Di Cesare
+Insalata De Arugula
+Vegetable Antipasto
+Caprese Salad
+Italiano
+Grilled Vegetables
+Chicken Pesto
+Sausage And Peppers
+Rigatoni Marinara
+Linguine Putanesca
+Penne Broccoli
+Fettucine Alfredo
+Spaghetti Alla Bolognese
+Spaghetti With Meatballs
+Spaghetti With Sausage
+Piccata
+Marsala
+Florentino
+Eggplant Parmigiana
+All You Can Eat Pasta
+Involtini Di Melanzane
+Asparagus Rollatini
+Insalata Di Casare
+Rigatoni Pomodoro
+Spaghetti Putanesca
+Linguine Alle Vongole
+Gnocchi Marinara
+Penne Vodka
+Cavatelli Broccoli
+Spaghetti Carbonara
+Linguine Scampi
+Rigatoni Al Forno
+Shrimp Parmigiana
+Francese
+Siciliano
+Marslaa
+Pollo Sorrentino
+Vitello Saltimbocca
+Pollo Antico
+Tilapia Francese
+Salmon Casalingo
+Single Cheese Blintz
+Potato Pancakes
+Half 0rder of Potato Pancakes
+Spinach Knish
+Potato Knish
+Kasha Knish
+Square Potato Knish
+Liver Knish
+Cheese Kugel
+Fruit Kugel
+Fried Kreplach
+Kasha Varnishkas
+Baked Beans
+Derma
+Roasted Vegetables
+Roasted Potatoes
+Side Salad
+Kosher Hot Dog
+Pizza Bagel
+Fresh Cut Coney lsland Fries
+Cole Slaw
+Potato Salad
+Macaroni Salad
+Homemade Mashed Potatos
+Garden Salad
+Chicken Breast
+Chef Salad - Roast Beef, Turkey, and Swiss Cheese
+Kibitz Chef Salad - Corned Beef, Salami, Pastrami and Turkey
+Lite Tuna Salad
+Lite Chicken Salad
+Chicken Salad
+Shrimp Salad
+Egg Salad
+Extra Chicken for Salad
+Soup
+Hot Corned Beef
+Hot Pastrami
+Hot Brisket of Beef
+Romanian Skirt Steak
+Roast Beef or Hot Roast Beef
+Fresh Roasted Turkey
+Smoked Turkey Pastrami
+Honey Maple Turkey
+Tongue
+Salami - Kosher
+Hard Salami - Kosher
+Beef Bologna - Kosher
+Liverwurst
+Cranberry Glazed Turkey
+Big Dog With Baked Beans
+Grilled Chicken Breast
+Grilled Cheese
+Tuna Salad - Solid White
+Lite Tuna or Lite Chicken
+Tuna Melt
+Chunky Whitefish Salad
+Whiteflsh Salad
+Chopped Liver
+Chopped Herring
+Turkey, Roast Beef or Brisket of Beef
+Tuna Salad Wrap
+Chicken Salad Wrap
+Egg Salad Wrap
+Roast Beef Special Wrap
+Corned Beef Special Wrap
+Pastrami Special Wrap
+Turkey Special Wrap
+Smoked Turkey Wrap
+Honey Turkey Wrap
+Fat-Free Chicken Salad Wrap
+Fat-Free Tuna Salad Wrap
+Greek Salad Wrap
+Greek Salad With Chicken Wrap
+Chicken Cheese Steak Wrap
+Roast Vegetable Wrap
+BBQ Chicken
+Turkey Club Wrap
+Corned Beef, Pastrami,Turkey or Smoked Turkey
+Super Reuben 0pen Face
+Chicken Salad Club 
+Tuna Club
+Turkey Club
+Corned Beef &amp; Pastrami
+Roast Beef &amp; Turkey
+Brisket &amp; Turkey 
+Turkey Corned Beef &amp; Tongue
+Twin Corned Beef &amp; Pastrami on Challah Rolls
+Corned Beef &amp; Pastrami on Potato Knishes
+Corned Beef, Pastrami, Turkey, Roast Beef and Brisket
+Lite Chicken
+Whitefish Salad
+Cheeseburger 
+Corned Beef or Turkey
+Pancakes
+French Toast
+Corned Beef Hash &amp; Eggs
+Challah French Toast
+Blintzes
+Cheese 0melette
+Western 0melette
+Spanish 0melette
+Veggie 0melette
+Corned Beef, Pastrami and Salami 0melette
+Nova, Eggs &amp; 0nions
+Two Eggs Any Style
+Corned Beef &amp; Eggs
+Pastrami &amp; Eggs
+Salami, &amp; Eggs
+Bologna &amp; Eggs
+Frankfurter &amp; Eggs
+Fried Matza
+Egg Sandwich
+Egg &amp; Cheese Sandwich
+Corned Beel &amp; Egg Sandwich
+Pastrami &amp; Egg Sandwich
+Salami &amp; Egg Sandwich
+Turkey Sausage, Egg &amp; Cheese
+Turkey Bacon, Egg &amp; Cheese
+Bologna &amp; Egg
+Buttered Bagel
+Cream Cheese
+Chive Cream Cheese
+Vegetable Cream Cheese
+Lox Spread
+Roasted Chicken
+Grilled Chicken Platter
+Chicken Finger Dinner
+Stuffed Chikcen of the Day
+Roast Turkey
+Brisket of Beef
+Stuffed Pepper 
+Stuffed Cabbage
+Chicken in the Pot
+Sweet &amp; Sour Tongue
+Big Dog &amp; Beans
+Any Two Meats
+Any Three Meats
+Beef in the Pot- Short Ribs, Barley or Cabbge
+Breaded Veal Cutlet - Jewish Style
+Grilled Chicken Livers 
+Turkey Burger 
+Cheese Steak
+Chicken Cheese Steak
+Kibitzburger - Hamburger
+Hand Sliced Nova or Regular Lox
+Kippered Salmon
+Jumbo Whitefish
+Sable
+Herring in Cream Sauce
+Fish for Two
+Fish for Three
+Kenahora-Nova, Kippered Salmon, Sable Whitefish &amp; Whitefish Salad For Four
+Chubbie Platter
+Sturgeon Platter
+Split Fish
+Turkey Bacon
+Turkey Sausage
+Side of Corned Beef, Pastrami, Salami
+Homefries
+Skirt Steak
+Delicatessen Platter
+Smoked Fish
+Traditional Favorites
+Sandwich Platter
+Lazy Susan Salad Extravaganza
+Sloppy joe
+Cocktail Size Hors d'oeuvres
+Vegetable Tray
+Roasted Vegetable Tray
+Fresh fruit display
+Watermelon Basket
+Chopped Liver Mold
+Tossed, Greek or Caesar Salad
+Desert Tray
+Masala Tea
+Tea
+Regular Coffee
+Decaf Coffee
+Coke
+Diet Coke
+Sprite
+Ginger Ale
+Iced Tea
+Fanta
+Mango Juice
+Orange Juice
+Pineapple Juice
+Cranberry Juice
+Apple Juice
+Mango Lassi
+Sweet Lassi
+Strawberry Lassi
+Salty Lassi
+Kashmiri Freeze Lassi
+Pistachio Shake
+Mango Shake
+Pina Colada
+Soup of the Day
+Aloo Tikki
+Vegetable Pakora
+Vegetable Samosa
+Lamb Samosa
+Paneer Pakora
+Chicken Kebab
+Singh's Vegetarian Platter
+Singh's Non-Vegetarian Platter
+Tali Machali Amritsari
+Malia Kofta
+Chana Masala
+Mutter Aloo
+Mutter Paneer
+Lasuni Gobi
+Dal Makhni
+Baigan Bharta
+Dal Tadka
+Shahi Paneer
+Bhindi Masala
+Hyderbadi Mirch Aur Baigan Ka Salan
+Jeera Aloo
+Gobi Charchari
+Aloo Gobi
+Lamb Rogan Josh
+Chicken Chilli
+Chicken Xacuti
+Punjabi Kadhi Pakora
+Lamb Sali Boti
+Chicken Madras
+Vegetable Xacuti
+Chicken Dhaniwal Korma
+Singh's Vegetarian Dinner For Two
+Singh's Royal Dinner for Two
+Tikka Masala
+The Saag
+The Vindaloo
+The Korma
+The Curry
+Vegetable Biryani
+Chicken Biryani
+Lamb Biryani
+Shrimp Biryani
+Tandoori Chicken
+Chicken Tikka
+Lamb Seek Kebab
+Rack of Lamb
+Tandoori Salmon
+Lamb Boti Kebab
+Tandoori Shrimp
+Chicken Malai Kebab
+Kali Mirch Ke Tikkey
+Singh's Mix Grill
+Naan
+Garlic Naan
+Peshawary Naan
+Onion Kulcha
+Cheese Naan
+Aloo Paratha
+Plain Paratha
+Lacchaa Paratha
+Tandoori Roti
+Chapthi
+Roomali Roti
+Poori
+Plain Basket
+Stuffed Basket
+Aijwaini Paratha
+Malabari Paratha
+Chili Cheese Naan
+Basmati Rice
+Pulao Rice
+Paita
+Mango Chutney
+Pickle
+Pappadam
+Kulfi
+Gulab Jamun
+Kheer
+Mango Kulfi
+Gourmet Ice Cream
+Rasmalai
+Grilled Eggplant and Roasted Peppers
+Cuban Sandwich
+Grilled Chicken Panini
+Plain Pizza
+Margherita Pie (Red)
+Margherita Pie (White)
+Broccoli, Garlic and Clams Pie  (Red)
+Broccoli, Garlic and Clams Pie (White)
+Chef Shlomi Special Pie
+Shrimp, Artichoke, Garlic Pie (White)
+Potato, Onion, Bacon Pie (White)
+Veggie Pie
+Mexican Pie
+State Street Bistro Pie
+Plain Calzone
+Stuffed Bread
+Chef's Salad
+Fresh Mozzarella Salad
+New England Clam Chowder
+Granndmas Chicken Soup
+5 Fried Mozzarella Sticks
+12 Garlic Bread
+5 Jalapeno Poppers
+Fried Buffalo Wings
+Grilled Buffalo Wings
+4 Chicken Tenders
+Homemade French Fries
+Popcorn Shrimp with Spicy Buffalo Sauce
+Panko Fried Mac n Cheese
+Ham and Swiss Cheese Roll
+Ham and Swiss Cheese Grinder
+Egg Salad on White Bread
+Roast Beef Roll
+Roast Beef Grinder
+BLT with White Bread
+BLT Roll
+BLT Grinder
+Meatball Parmigiana Roll
+Meatball Parmigiana Grinder
+Chicken Parmigiana Roll
+Chicken Parmigiana Grinder
+Eggplant Parmigiana Roll
+Eggplant Parmigiana Grinder
+Chicken Cutlet Roll
+Chicken Cutlet Grinder
+Steak Roll with Onion &amp; Cheese
+Steak Grinder with Onion &amp; Cheese
+Sausage, Peppers &amp; Onion Roll
+Sausage, Pepeprs &amp; Onion Grinder
+Pastrami Rye with Caramelized Onions
+Corn Beef Sandwich
+Grilled Cheese on White Bread
+Ham &amp; Cheese Melt on White Bread
+Tuna Melt on White Bread
+Vietnamese Sandwich Banh Mi
+Chef Special Sandwich
+Steak &amp; Cheese Grinder
+Falafel, Tahineh, Israeli Salad, French Fries Wrap
+Shawarma Baby Chicken, Tahineh, Israeli Salad Wrap
+French Fries Wrap
+Korean Burrito Wrap
+Hamburger &amp; Homemade Fries
+Cheeseburger &amp; Homemade Fries
+Bacon Cheeseburger &amp; Homemade Fries
+Mexican Burger &amp; Homemade Fries
+Hotdog &amp; Homemade Fries
+Penne Pasta Pasta with Grilled Chicken
+Pasta Carbonara Pasta
+Spaghetti and Meatballs Pasta
+Fettuccini Alfredo Pasta
+Linguini Pasta with Clams (White)
+Linguini Pasta with Clams (Red)
+Penne Pasta with Sausage Rague
+Linguine with Seasonal Veggies
+Chicken Parmigiana with Spaghetti
+Penne a la Vodka with Grilled Chicken
+Fried Chicken with French Fries
+Fish &amp; Chips with Tartar Sauce
+Chocolate Chip
+Oatmeal Raisin
+Slice of Homemade Cheesecake
+Soda (Can)
+Soda (2 Liter)
+Snapple
+Bottled Water
+Med 1-Topping and an Order of Onion Rings
+Large 18&quot; 1-Topping Pizza and Garlic Bread with Cheese or Garden Salad
+Medium Cheese Pizza with 6pc Wings and a 2 Liter
+Vietnamese Wings
+Cobb Salad
+Arugula &amp; Spinach Salad 
+Spicy Starlite Wings
+Potato Leek Soup 
+Starlite Chili 
+Pepperoni Roll 
+Crab Cake
+Apple Cheddar Press
+Smoked Turkey BLT 
+Meatball Sandwich 
+Griddled Dog
+Corn Dog
+Chili Cheese Dog
+Dog Of The Day
+Angus Burgers
+Veggie Burger
+Starlite - Style
+Hand Cut Fries
+Chili Cheese Fries
+Gravy Fries
+Sweet Potato Hash
+Sauteed Spinach 
+Sweet Corn Bread
+Broccoli With Cheese Sauce
+Seasonal Pie 
+Fried Chicken &amp; Buttermilk Waffles 
+Pan Seared Sirloin Steak 
+Baked Haddock
+Shrimp W/ Chorizo Dirty Rice
+Mac &amp; Cheese
+Blue Plate Special
+Starlite Slam
+Tina's Biscuits And Breakfast Gravy
+Velvet Elvis French Toast
+Seasonal Fruit, Granola And Yogurt
+Huevos Rancheros
+Griddled Dog 
+Brunch Dog
+2 Eggs
+Hash Browns
+Bacon, Sausage, Chorizo
+Silver Dollar Pancakes
+Fruit Cup
+Grits
+Toast
+Sweet Corn Bread 
+Sugar Cereal Du Jour 
+Cheddar Cheese &amp; Broccoli 
+Cheesy Enchilada
+Loaded Baked Potato
+Old Fashioned Chicken Noodle
+Spicy Black Bean 
+Wisconsin Beer Cheese
+Cheesy Asparagus 
+Chicken Dumpling
+Minnesota Wild Rice &amp; Chicken
+Southwest Chicken Tortilla
+Tomato Mushroom 
+Blanco Chicken Chili
+Home-Style Beef Chili
+Classic Chicken Chili
+Pompeii
+Titan 
+Erupter
+Spartan
+Quatro
+Comet Candy
+Flash
+Narmer
+Girf
+Tullius
+Shortcake
+Giza
+Geeter
+Boney Billy
+Comet Morehouse
+Halleys Comet
+Jacob Bluefinger
+Cally
+Tappy
+Bornk
+Pudder
+Ham &amp; Cheese
+Turkey &amp; Cheese
+PB &amp; J
+Combo One
+Combo Two
+Giant Deli Pickle
+Cookie
+Dessert Bar
+Bag Of Chips
+Brownie
+Day-Old Bread
+Bottle Of Soda
+Signature Sandwich Platter
+Specialty Sandwich Platter
+Classic Sandwich Platter
+Half A Dozen Deli Pickles
+A Dozen Dessert Bars
+A Dozen Cookies
+A Dozen Brownies
+Giant Soup
+Giant Chili
+Soft Drinks
+Coffee
+Water
+Turkish Coffee
+Perrier
+Carrot Juice
+Bottle Soda
+Hummus
+Baba Ghanouj
+Tabouleh Salad
+Jerusalem Salad
+Stuffed Grape Leaves
+Fatoush Salad
+Lentil Soup
+Falafel (3)
+Yogurt Salad
+Shish Kabob Sandwich
+Kafta Kabob Sandwich
+Beef Shawarma Sandwich
+Chicken Kabob Sandwich
+Chicken Shawarma Sandwich
+Falafel Sandwich
+Shish Kabob Entree
+Kafta Kabob Entree
+Beef Shawarma Entree
+Chicken Kabob Entree
+Chicken Shawarma Entree
+Combination Feast
+Vegetarian Plate
+Falafel Plate
+Shawarma Combo Entree
+Chicken Shawarma Salad Entree
+Alameer Platter
+Extra Shish Skewer
+Extra Chicken Skewer
+Extra Kafta Skewer
+Extra Shawarma
+Two Pitas
+Fries
+Rice
+Extra Tahini Sauce
+Extra Hot Sauce
+Homemade Baklava 
+2 Fingers
+3 Nuggets
+2 Mozzarella Sticks
+French Fries &amp; Onion Rings
+Garden
+Greek
+Antipasto
+Tossed
+Chef's
+Tuna
+Sauce &amp; Cheese
+Peppers or Onions
+Pepperoni or Mushroom
+Sausage or Ground Beef
+Broccoli or Spinach
+White
+Vegetarian
+Hawaiian Pizza
+Lasagna Pizza
+Ringer
+Five Cheese
+Meat Lovers Pizza
+Bella Special
+BBQ Steaks
+Mexican Pizza
+Mole Pizza
+Carnitas Pizza (Pork Meat)
+Chorizo Pizza
+Greek Pizza
+Sicilian Pizza
+Calzone
+Plain
+Pepperoni
+Mushroom
+Special Stromboli
+Vegetable Stromboli
+Steak Stromboli
+Pizza Burger
+Bacon Cheeseburger
+Cheeseburger Platter
+Cheesesteak
+Pizza Steak
+Mushroom Steak
+Mushroom Cheesesteak
+Pepperoni Steak
+Pepperoni Cheesesteak
+Cheesesteak Hoagie
+Chicken Cheesesteak
+Grilled Chicken Cheesesteak
+Special of the House
+American or Provolone Cheese
+Ham
+Turkey
+Flounder
+Eggplant
+Veal Cutlet
+Peppers &amp; Eggs
+Meatballs &amp; Cheese
+Italian Sausage
+Grilled Chicken &amp; Cheese
+Grilled Chicken on Pita
+Tuna &amp; Cheese
+B.L.T.
+Grilled Chicken
+Grilled Ham &amp; Cheese
+B.L.T
+Spaghetti w/Sauce
+Ravioli with Sauce
+Ravioli
+Stuffed Shells with Sauce
+Ziti with Sauce
+Ziti
+Baked Ziti w/Cheese &amp; Sauce
+Fried Flounder
+Fried Jumbo Shrimp
+Fried Scallops (10)
+Fish 'N' Chips (4)
+Shrimp in a Basket
+Seafood Combo
+Fish Cake
+Fried Chicken (4)
+Chicken Wings (5)
+Buffalo Wings (10)
+Chicken Fingers (5)
+Chicken Nuggets (10)
+Eggplant Platter
+3 Pieces Chicken Wings
+6 Pieces Chicken Wings
+10 Pieces Chicken Wings
+20 Pieces Chicken Wings
+10 Pieces Buffalo Wings
+20 Pieces Buffalo Wings
+30 Pieces Buffalo Wings
+40 Pieces Buffalo Wings
+50 Pieces Buffalo Wings
+100 Pieces Buffalo Wings
+(2) Eggs
+(2) Eggs and Bacon
+(2) Eggs and Ham
+(2) Eggs and Sausage
+(2) Eggs and Beef Sausage
+(2) Eggs and Flounder
+(3) Pancakes with Maple Syrup
+(2) Pancakes with Ham or Sausage or Bacon
+(2) Pancakes with Beef Sausage
+(2) Pancakes, (2) Eggs
+(3) Slices of French Toast
+(3) Slices ot French Toast
+(3) Slices of French Toast, (2) Eggs
+Plain Omelette
+Cheese Omelette
+Ham Omelette
+Bacon Omelette
+Feta Cheese Omelette
+Spinach &amp; Feta Cheese Omelette
+Bella Special Omelette
+Beef Sausage &amp; Egg
+Sausage &amp; Egg
+Bacon and Egg
+Ham and Egg
+Steak and Egg
+Turkey Bacon and Egg
+Beef Sausage and Egg
+Quesadilla (3)
+French Fries or Onion Ring
+Broccoli Bites
+Pizza Roll or Shrimp Roll
+Fried Calamari with Marinara Sauce
+Hot Poppers (6) with Marinara Sauce
+Mozzarella Sticks (6)
+Chicken Nuggets
+Tamales
+Pineapple Cheesecake
+Cherry Cheesecake
+Banana Pudding
+Atole
+Coffee or Tea
+Milkshakes
 1 Entree and Hummus Special
 Free Soda
 Can of Soda
-Bottled Water
 Dough Yogurt Drink
-Iced Tea
 Lemonade
 Juice
 Perrier Sparkling Water
 Pellegrino Sparkling Water
 Red Bull
 Torshii
-Hummus
 Mast o Khiar
 Mast e Mussier
 Shirazi Salad
@@ -411,8 +1108,6 @@ Mahi Azad
 Sword Fish
 Shrimp Kebab
 Grilled Telapia
-Chicken Shawarma Entree
-Beef Shawarma Entree
 Vegetarian Plate Entree
 Vegetarian Combo Entree
 Falafel Roll-Up
@@ -426,15 +1121,12 @@ Beef Kubideh Roll-Up
 Chicken Shawarma Roll-Up
 Cheese Pizza
 Veggie Pizza
-Greek Pizza
-Meat Lovers Pizza
 Texas BBQ Pizza
 Hot Chicken Pizza
 Mediterranean Pizza
 American Pizza
 Italian Pizza
 Chicken Club Pizza
-Hawaiian Pizza
 Ancioviemazza Pizza
 4 Cheese Pizza
 Cheese Calzone
@@ -587,7 +1279,6 @@ Philly Steak with Cheese
 Chicken Steak
 Chicken Steak with Cheese
 Bufalo Chicken Cheesesteak
-Pizza Steak
 NY Strip Sandwich
 Milkshake
 Egg and Cheese Sandwich
@@ -630,14 +1321,11 @@ Border French Fries
 8 Mozzarella Sticks
 6 Jalapeno Poppers
 8-Piece Fried Ravioli
-Pizza Bagel
-Crab Cake
 Pizza Pretzel
 Cheese Pretzel
 Panzarotti
 Buffalo Chicken Fingers
 5 Large Shrimp
-Fish Cake
 Pizza Roll
 Ham and Cheese Pretzel
 15 Popcorn Shrimp
@@ -646,14 +1334,10 @@ Garlic Mozzarella Bread
 Munchie Sampler
 Nacho Salad Sampler
 Cheesesteak Fries
-Chili Cheese Fries
 Pint of Chili
 Pint of Soup
 Tortillas and Cheese
 Ultimate Nacho
-Garden Salad
-Chef's Salad
-Chicken Salad
 Antipasto Supreme Salad
 Classic Italian Hoagie
 Imported Ham and Cheese Hoagie
@@ -673,9 +1357,7 @@ The Porky Pig Hoagie
 Plain Steak
 Steak with Cheese
 Pepperoni Pizza Steak
-Mushroom Steak
 Mushroom Steak with Cheese
-Pepperoni Steak
 Pepperoni Steak with Cheese
 Bacon Steak
 Bacon Steak with Cheese
@@ -691,12 +1373,10 @@ Bacon Triple Cheese Steak
 Animal Farm Steak
 Animal Farm Steak with Cheese
 Plain Burger
-Pizza Burger
 Pepperoni Pizza Burger
 Mushroom Burger
 Mushroom Cheeseburger
 Bacon Burger
-Bacon Cheeseburger
 Super Burger
 Turkey Burger
 Western Burger
@@ -725,7 +1405,6 @@ Chicken Melissa Sandwich
 Chicken Renata Sandwich
 Grilled Cheese Sandwich
 Grilled Cheese Sandwich with Ham
-Tuna Melt
 Corned Beef Reuben
 Fish Cake Sandwich
 Crab Cake Sandwich
@@ -743,9 +1422,7 @@ Fried Shrimp Platter
 Fish Cake Platter
 Popcorn Shrimp Platter
 Hot Turkey Platter
-Cheeseburger Platter
 Chicken Fingers Platter
-Chicken Nuggets
 Chicken Nuggets Platter
 Chicken Wings Platter
 BLT Club Sandwich
@@ -769,9 +1446,7 @@ Pepperoni Pizza Pretzel
 Pepperoni Pizza Bagel
 Pasta with Homemade Red Sauce Platter
 P and S Ravioli Platter
-Turkey Club Wrap
 Tuna Wrap
-Chicken Salad Wrap
 Chicken Ranch Wrap
 Chicken Finger Wrap
 Veggie Wrap
@@ -788,7 +1463,6 @@ Double Ice Cream Cone
 Pint of Ice Cream
 Sundae
 Cheesecake Slice
-Banana Pudding
 Rice Pudding
 Slice of Cake 
 Assorted Tray
@@ -902,7 +1576,6 @@ Large 1-Topping Pizza
 2 Large Gourmet Pizzas
 Hummus Dip
 Spinach and Feta Triangles
-Bruschetta
 Mozzarella Cheese Sticks
 Cheesy Bread
 Waffle Potatoes
@@ -945,7 +1618,6 @@ Meat Classic Pizza
 Spinach and Artichoke Pizza
 Roasted Eggplant Pizza
 Vegetariano Pizza
-Sicilian Pizza
 Supremo Pizza
 Spicy Chicken Pizza
 Gyro Wrap
@@ -955,7 +1627,6 @@ Sweet Potato Fries
 Chicken Quesadilla
 Appetizer Sampler 
 Shrimp Basket
-Broccoli Bites
 Pozati Bites
 8 Piece Wings
 12 Piece Wings
@@ -971,15 +1642,12 @@ Rib Tips
 Memphis Fries
 Creamy Coleslaw
 Carrots and Celery
-Shrimp Salad
 Mandarin Chicken Salad
 Grilled Salmon Salad
 Passion Chicken Salad
 Crispy Buffalo Chicken Tender Salad
-Caprese Salad
 Cheesesteak Salad
 Avocado Salad
-Soup of the Day
 Chicken Piccante
 Chicken Sorrento
 Chicken Scallopini
@@ -994,7 +1662,6 @@ Spaghetti with Clam Sauce
 Linguini with Clam Sauce
 Linguini Di Mare
 Shrimp Mangla Mangia
-Shrimp Parmigiana
 Raymonds Crab Meat Sauce
 Raymonds Homemade Crab Cakes
 Baked Ziti Pasta
@@ -1005,7 +1672,6 @@ Chicken Salad Club
 Grilled Chicken Club
 Ham and Cheese Club
 BLT Club
-Turkey Club
 Tuna Salad Club
 Chicken Salad Sub
 Turkey Sub
@@ -1015,7 +1681,6 @@ Cheese Ravioli Romano
 Cheese Tortellini
 Pasta with Sauce
 Pasta Peso
-Eggplant Parmigiana
 Pasta Pomodoro
 Pasta with Vodka Sauce
 Farfalle Primavera
@@ -1024,7 +1689,6 @@ Stuffed Peppers
 Beef Plain Steak
 Chicken Plain Steak
 Beef Cheesesteak
-Chicken Cheesesteak
 Beef BBQ Cheesesteak
 Chicken BBQ Cheesesteak
 Buffalo Chicken Cheesesteak
@@ -1042,16 +1706,13 @@ Chicken Mangla Mangla Sandwich
 Flounder Sandwich
 Peppers and Eggs Sandwich
 Chicken Cutlet Sandwich
-Tuna Salad Wrap
 Crispy Chicken Wrap
 Cheese Steak Wrap
-Chicken Cheese Steak Wrap
 Chicken Mangia Mangia Wrap
 Mezza Luna Wrap
 Diablo Wrap
 BLT Wrap
 Chicken Avocado Wrap
-Grilled Chicken Panini
 Mediterranean Panini
 Cheese Steak Panini
 Turkey Panini
@@ -1079,9 +1740,7 @@ Buffalo Chicken with Cheese Calzone
 Philly Cheesesteak with Onions Calzone
 Pepperoni with Cheese Calzone
 Italian Stromboli
-Steak Stromboli
 Chicken Stromboli
-Special Stromboli
 Pepperoni and Cheese Stromboli
 Buffalo Stromboli
 Veggie Delight Stromboli
@@ -1096,9 +1755,7 @@ Homemade Cookie
 Calzone Classico
 Calzone Barbarian
 Calzone Vegetariano
-Pompeii
 Meat Lovers
-Vegetarian
 Margherita
 Gourmet Vegetarian
 Hawaiian
@@ -1108,7 +1765,6 @@ Create Your Own Pizza
 Cappellini Pomodoro
 Fettucine con Pollo
 Linguine alla Vongole
-Spaghetti Carbonara
 Spaghetti Bolongese &amp; Polpette
 Fusilli a la Primavera
 Lasagna di carne
@@ -1140,9 +1796,7 @@ Gamberoni in Padella
 Salmon
 Melanzane alla Parmigiana
 Fettuccine con Pollo
-Fettucine Alfredo
 Fettucine Frutti di Mare
-Linguine Scampi
 Spaghetti Aioli
 Spaghetti Bolognese e Polpette
 Fusilli alla Primavera
@@ -1188,19 +1842,15 @@ Combo (Any Three)
 Corned Beef and Cabbage
 Creamed Cod
 Prime Rib
-Roast Turkey
 Pilgrim
 Turkey Rueben
 French Dip
 Ham &amp; Cheese (Cold or Grilled)
 Chicken Dijon
-Grilled Chicken
 Fried Chicken
-Liverwurst
 Corned Beef
 Rueben
 Western
-Grilled Cheese
 Bacon, Lettuce, &amp; Tomato
 Fried Clam Strips on a Roll
 Fried Haddock
@@ -1225,18 +1875,13 @@ Patty Melt
 Italian Burger
 Jumbo Burger
 Small Fries
-Gravy Fries
 Cheddar Fries
 Bacon Cheddar Fries
 Mashed Potatoes
-Cole Slaw
 Macaroni &amp; Cheese
 Bowl of Chili
 Can Soda
-Bottle Soda
 2 liter Soda
-Snapple
-Water
 6 Piece Mozzarella Sticks
 6 Piece Jalapeno Poppers
 4 Piece Chicken Fingers
@@ -1245,7 +1890,6 @@ Water
 12 Piece Onions Rings
 8 Piece Fried Ravioli
 6-8 Piece Fried Zuccini
-Macaroni Salad
 Apple-Chicken Salad
 Classic Salad
 Boneless Wings
@@ -1255,7 +1899,6 @@ Eggplant Parm Sub
 Chicken Parm Sub
 Turkey and Cheese
 Chicken Cutlet
-Italiano
 Chicken Caprice
 Chicken-Bacon-Ranch
 Grilled Cuban Chicken
@@ -1306,46 +1949,6 @@ Salmon Panini
 Beef Gyro
 Chocolate Mousse Cheese Cake
 Cheese Cake with Topping
-Eggplant Rollatini
-Calamari Fritti
-Mozzarella In Carozza
-Pasta Fazzol
-Soup Of The Day.
-House Salad
-Insalata Di Cesare
-Insalata De Arugula
-Vegetable Antipasto
-Grilled Vegetables
-Chicken Pesto
-Sausage And Peppers
-Rigatoni Marinara
-Linguine Putanesca
-Penne Broccoli
-Spaghetti Alla Bolognese
-Spaghetti With Meatballs
-Spaghetti With Sausage
-Piccata
-Marsala
-Florentino
-All You Can Eat Pasta
-Involtini Di Melanzane
-Asparagus Rollatini
-Insalata Di Casare
-Rigatoni Pomodoro
-Spaghetti Putanesca
-Linguine Alle Vongole
-Gnocchi Marinara
-Penne Vodka
-Cavatelli Broccoli
-Rigatoni Al Forno
-Francese
-Siciliano
-Marslaa
-Pollo Sorrentino
-Vitello Saltimbocca
-Pollo Antico
-Tilapia Francese
-Salmon Casalingo
 Extra Large 2-Topping Pizza
 Large Specialty Pizza
 Large Specialty Pizza and Large 2-Topping Pizza
@@ -1376,7 +1979,6 @@ Chicken Tumblers
 Cinna Squares
 Canned Soda
 Six Pack of Soda
-Ginger Ale
 Perrier Water
 Arizona Iced Tea
 Fresh Mozzarella, Tomato, &amp; Basil
@@ -1407,9 +2009,7 @@ Pasta Primavera
 Mediterranean Linguine
 Lemon Herb Chicken
 California Chicken Penne
-Ravioli
 Pasta Alla Bolognese
-Grilled Chicken Breast
 Pasta Sampler
 Ravioli Trio
 Chicken Piccata Al Limone
@@ -1432,7 +2032,6 @@ Smoked Ham &amp; Swiss Sub
 Grilled Chicken Caesar Sub
 Ultimate Turkey Sub
 Ham &amp; Cheddar Sub
-Cheesesteak
 Grilled Chicken Sandwich on Foccacia
 Grilled Portobello on Focaccia
 Chicken Pesto Panini
@@ -1457,7 +2056,6 @@ Smoke House Pizza
 Grilled Chicken &amp; Roasted Garlic Pizza
 Goat Cheese &amp; Smoked Bacon
 Caramelized Onion &amp; Smoked Bacon
-Calzone
 Extra Marinara Sauce (8oz)
 Extra Bolognese Sauce (8oz)
 Extra Marinara w/ Calzone (4oz)
@@ -1535,7 +2133,6 @@ Cheesy Bacon Idaho Pizza
 Philly Pizza
 Philly and Fries Pizza
 Grilled Chicken Pizza
-Lasagna Pizza
 Tavern Pizza
 Alfredo Pizza
 Vodka Pizza
@@ -1555,11 +2152,8 @@ Bourbon Philly Sub
 Teriyaki Philly Sub
 Memphis Philly Sub
 T Rex Sub
-Ham
-Turkey
 Italian Mix
 American Mix
-Tuna
 Buffalo Chicken Tenders
 Cheesy Chicken Bacon Ranch
 BLT Sandwich
@@ -1794,8 +2388,6 @@ Fried Ice Cream
 Fried Banana
 Fried Cheese Cake
 Mochi Ice Cream
-Coffee
-Tea
 Decaffeinated Coffee
 Espresso
 Cappuccino
@@ -1826,9 +2418,7 @@ Bagel Platter
 Two Fried Eggs On A Roll
 Plain Pancakes
 Oat Bran Pancakes
-Silver Dollar Pancakes
 Old Fashioned French Toast
-Challah French Toast
 Stuffed Challah French Toast
 Granny's Pancakes
 Plain Waffle
@@ -1892,7 +2482,6 @@ Waldorf Salad with Grilled Chicken
 Goat Cheese Walnut Salad
 Fresh Grilled Tuna Salad
 Fresh Grilled Salmon Salad
-Cobb Salad
 Grilled Chicken Breast Salad
 Village Salad
 Combination Salad
@@ -1927,7 +2516,6 @@ Broiled Fillet of Lemon Sole
 Broiled Salmon Filet
 Broiled Scallops
 Broiled Fisherman's Platter
-Fried Jumbo Shrimp
 Fried Fillet of Sole
 Fried Seafood Combination
 Fried Fish Cakes with Spaghetti
@@ -1972,7 +2560,6 @@ Bumble Bee Tuna Deli Sandwich
 Sardines Deli Sandwich
 Western Omelet Sandwich
 Michael's Wrap
-Greek Salad Wrap
 Mexican Wrap
 Fresh Mozzarella Wrap
 Italian Wrap
@@ -2005,7 +2592,6 @@ Michael's Burger
 Cajun Burger
 Irish Bacon Burger
 Breast of Chicken Burger
-Veggie Burger
 Grilled Salmon Burger
 Mexican Burger
 Tony's Burger
@@ -2093,7 +2679,6 @@ Chicken Francaise Daily Special
 Home Fries
 Disco Fries
 Baked Potato (Dinner Only)
-Potato Salad
 Bacon
 Irish Bacon
 Irish Sausage
@@ -2122,7 +2707,6 @@ Fruit Salad Sundae
 Banana Split
 Ice Cream Sundae
 Tartufo
-Milkshakes
 Layer Cake
 Assorted Fruit Pies
 Bubble Tea
@@ -2509,7 +3093,6 @@ Fantail Shrimp
 Pork Dumpling
 Vegetable Dumpling
 Shrimp Dumpling
-Chicken Dumpling
 BBQ Spare Ribs
 Boneless Ribs
 Sliced Roast Pork
@@ -3045,161 +3628,6 @@ Tortoni
 150. Ice Cream Spumoni
 151. Ice Cream Tortoni
 152. Ice Cream Tartufo
-Single Cheese Blintz
-Potato Pancakes
-Half 0rder of Potato Pancakes
-Spinach Knish
-Potato Knish
-Kasha Knish
-Square Potato Knish
-Liver Knish
-Cheese Kugel
-Fruit Kugel
-Fried Kreplach
-Kasha Varnishkas
-Baked Beans
-Derma
-Roasted Vegetables
-Roasted Potatoes
-Side Salad
-Kosher Hot Dog
-Fresh Cut Coney lsland Fries
-Homemade Mashed Potatos
-Chicken Breast
-Chef Salad - Roast Beef, Turkey, and Swiss Cheese
-Kibitz Chef Salad - Corned Beef, Salami, Pastrami and Turkey
-Lite Tuna Salad
-Lite Chicken Salad
-Egg Salad
-Extra Chicken for Salad
-Soup
-Hot Corned Beef
-Hot Pastrami
-Hot Brisket of Beef
-Romanian Skirt Steak
-Roast Beef or Hot Roast Beef
-Fresh Roasted Turkey
-Smoked Turkey Pastrami
-Honey Maple Turkey
-Tongue
-Salami - Kosher
-Hard Salami - Kosher
-Beef Bologna - Kosher
-Cranberry Glazed Turkey
-Big Dog With Baked Beans
-Tuna Salad - Solid White
-Lite Tuna or Lite Chicken
-Chunky Whitefish Salad
-Whiteflsh Salad
-Chopped Liver
-Chopped Herring
-Turkey, Roast Beef or Brisket of Beef
-Egg Salad Wrap
-Roast Beef Special Wrap
-Corned Beef Special Wrap
-Pastrami Special Wrap
-Turkey Special Wrap
-Smoked Turkey Wrap
-Honey Turkey Wrap
-Fat-Free Chicken Salad Wrap
-Fat-Free Tuna Salad Wrap
-Greek Salad With Chicken Wrap
-Roast Vegetable Wrap
-BBQ Chicken
-Corned Beef, Pastrami,Turkey or Smoked Turkey
-Super Reuben 0pen Face
-Chicken Salad Club 
-Tuna Club
-Corned Beef &amp; Pastrami
-Roast Beef &amp; Turkey
-Brisket &amp; Turkey 
-Turkey Corned Beef &amp; Tongue
-Twin Corned Beef &amp; Pastrami on Challah Rolls
-Corned Beef &amp; Pastrami on Potato Knishes
-Corned Beef, Pastrami, Turkey, Roast Beef and Brisket
-Lite Chicken
-Whitefish Salad
-Cheeseburger 
-Corned Beef or Turkey
-Pancakes
-French Toast
-Corned Beef Hash &amp; Eggs
-Blintzes
-Cheese 0melette
-Western 0melette
-Spanish 0melette
-Veggie 0melette
-Corned Beef, Pastrami and Salami 0melette
-Nova, Eggs &amp; 0nions
-Two Eggs Any Style
-Corned Beef &amp; Eggs
-Pastrami &amp; Eggs
-Salami, &amp; Eggs
-Bologna &amp; Eggs
-Frankfurter &amp; Eggs
-Fried Matza
-Egg Sandwich
-Egg &amp; Cheese Sandwich
-Corned Beel &amp; Egg Sandwich
-Pastrami &amp; Egg Sandwich
-Salami &amp; Egg Sandwich
-Turkey Sausage, Egg &amp; Cheese
-Turkey Bacon, Egg &amp; Cheese
-Bologna &amp; Egg
-Buttered Bagel
-Cream Cheese
-Chive Cream Cheese
-Vegetable Cream Cheese
-Lox Spread
-Roasted Chicken
-Grilled Chicken Platter
-Chicken Finger Dinner
-Stuffed Chikcen of the Day
-Brisket of Beef
-Stuffed Pepper 
-Stuffed Cabbage
-Chicken in the Pot
-Sweet &amp; Sour Tongue
-Big Dog &amp; Beans
-Any Two Meats
-Any Three Meats
-Beef in the Pot- Short Ribs, Barley or Cabbge
-Breaded Veal Cutlet - Jewish Style
-Grilled Chicken Livers 
-Turkey Burger 
-Cheese Steak
-Chicken Cheese Steak
-Kibitzburger - Hamburger
-Hand Sliced Nova or Regular Lox
-Kippered Salmon
-Jumbo Whitefish
-Sable
-Herring in Cream Sauce
-Fish for Two
-Fish for Three
-Kenahora-Nova, Kippered Salmon, Sable Whitefish &amp; Whitefish Salad For Four
-Chubbie Platter
-Sturgeon Platter
-Split Fish
-Turkey Bacon
-Turkey Sausage
-Side of Corned Beef, Pastrami, Salami
-Homefries
-Skirt Steak
-Delicatessen Platter
-Smoked Fish
-Traditional Favorites
-Sandwich Platter
-Lazy Susan Salad Extravaganza
-Sloppy joe
-Cocktail Size Hors d'oeuvres
-Vegetable Tray
-Roasted Vegetable Tray
-Fresh fruit display
-Watermelon Basket
-Chopped Liver Mold
-Tossed, Greek or Caesar Salad
-Desert Tray
 10. Empanadas
 11. Fried Calamari
 12. Papa Ala Huancaina
@@ -3407,7 +3835,6 @@ Chopped Kutchumber
 Paani Poori
 Bhel Poori
 Haveli Garden Salad
-Lamb Samosa
 Chicken Pakora
 Shrimp Poori
 Haveli Mixed Platter for 2
@@ -3420,7 +3847,6 @@ Chicken 65
 Onion Bhajia
 Vegetarian Pakora
 Vegetarian Samosa
-Aloo Tikki
 Sabzi Platter for 2
 Haveli Sabzi Platter for 2
 Chili Paneer
@@ -3441,7 +3867,6 @@ Chicken Gassi
 Chicken Chettinad
 Comdi Chicken
 Mugalai Murgh
-Chicken Madras
 Kadai Chicken
 Chicken Patia
 Chicken Bhunna
@@ -3469,8 +3894,6 @@ Goan Fish Curry
 Goan Shrimp Curry
 Meen Moilee
 Aloo Palak
-Aloo Gobi
-Chana Masala
 Saag Mushroom
 Saag Paneer
 Shaahi Paneer
@@ -3480,7 +3903,6 @@ Navarattan Korma Curry
 Malai Kofta
 Mattar Paneer
 Dal Makhani
-Bhindi Masala
 Kadai Paneer
 Banglore Gassi
 Baigan Dahi Wala
@@ -3494,32 +3916,21 @@ Fish Tandoori Kebab
 Angare Duck Kebab
 Murgh Malai Kebab
 Murgh Barrah Kebab
-Chicken Biryani
-Lamb Biryani
-Shrimp Biryani
-Vegetable Biryani
 Haveli Biryani for 2
 Peas Pullao
 Lemon Rice
 Jira Rice
 Plain Basmati Rice
 Roti
-Naan
 Paratha Plain
-Aloo Paratha
 Pudina Paratha
-Poori
-Garlic Naan
 Chicken Naan
-Onion Kulcha
 Keema Naan
 Haveli Special Naan
 Half Haveli Bread Basket
 Full Haveli Bread Basket
 Plain Yogurt
 Raita
-Mango Chutney
-Pickle
 Chips
 Aloo Palak Lunch
 Chana Poori Lunch
@@ -3535,8 +3946,6 @@ Boti Kabab Masala Lunch
 Shrimp Jalfrezie Lunch
 Shrimp Tandoori Masala Lunch
 Shrimp Poori Lunch
-Kheer
-Gulab Jamun
 Bombay Mango Kulfi
 Ras Malai
 Gajar Ka Halwa
@@ -3582,7 +3991,6 @@ Afghan Flat Bread
 Panini Bread
 Bolani
 Samosa
-Rice
 Small Chicken Tikka Masala
 Chicken Kabob Salad
 Lamb Kabob Salad
@@ -3622,11 +4030,9 @@ Hawaiian Grilled Chicken
 Cheesesteak Diablo
 Cheesesteak Mushrooms
 Cheesesteak Pepperoni
-Cheesesteak Hoagie
 Steak Ala Mexicana
 Hawaiian Cheeseburger
 Cheese
-Pepperoni
 Mushroom Pizza
 Bbq Chicken Pizza
 Chicken Buffalo
@@ -3660,21 +4066,21 @@ Il Timballo Di Verza E Patate Con Fonduta
 La Parmigiana Di Melanzane
 La Selezione Di Salumi
 Il Carpaccio Di Salmone
-Lå?impepata Di Cozze
+LÂ’impepata Di Cozze
 Il Minestrone Della Nonna
 La Vellutata Di Asparagi Con Pane Al Burro
 La Zuppa Di Fagioli
 La Zuppa Di Lenticchie
 La Zuppa Di Cipolle Rosse
-Lå?Insalata Federico II
+LÂ’Insalata Federico II
 Insalata Mista Di Stagione
 Insalata Apollinare
-Lå?Insalata Di Pollo
+LÂ’Insalata Di Pollo
 Gli Stringozzi Alla Spoletina
-Le Trofie Al Raguå? Bianco Di Anatra
+Le Trofie Al RaguÂ’ Bianco Di Anatra
 Gli Gnocchetti Al Gorgonzola Dolce
 La Lasagna Alla Bolognese
-Gli Spaghetti Alla Chitarra Con Raguå? Di Astice 
+Gli Spaghetti Alla Chitarra Con RaguÂ’ Di Astice 
 I Ravioli Di Patate Al Tartufo Bianco
 I Tortellini Di Carne In Brodo
 Pizza Margherita
@@ -3688,12 +4094,12 @@ Pizza Apollinare
 Pizza Alla Nutella
 Branzino Al Sale
 La Spigola Al Cartoccio
-Lå?astice Alla Catalana
-Lå?agnello Alle Erbette Di Stagione
-La Tagliata Di Manzo Allå?aceto Balsamico E Rosmarino
+LÂ’astice Alla Catalana
+LÂ’agnello Alle Erbette Di Stagione
+La Tagliata Di Manzo AllÂ’aceto Balsamico E Rosmarino
 Lo Spiedo Di Carne Mista Alla Umbra
 Lo Spezzatino Di Cinghiale Con Ortaggi
-Lå?ossobuco Di Vitello
+LÂ’ossobuco Di Vitello
 La Scaloppina Di Vitello Ai Frutti Di Bosco
 I Bolliti Misti Alla Modenese
 Philly Cooks Best Desserts Of The Year
@@ -3876,88 +4282,6 @@ Inari Fried Tofu Pocket
 Pachinko
 Ooki Eel
 DIY Hand Roll
-Masala Tea
-Regular Coffee
-Decaf Coffee
-Coke
-Diet Coke
-Sprite
-Fanta
-Mango Juice
-Orange Juice
-Pineapple Juice
-Cranberry Juice
-Apple Juice
-Mango Lassi
-Sweet Lassi
-Strawberry Lassi
-Salty Lassi
-Kashmiri Freeze Lassi
-Pistachio Shake
-Mango Shake
-Pina Colada
-Vegetable Pakora
-Vegetable Samosa
-Paneer Pakora
-Chicken Kebab
-Singh's Vegetarian Platter
-Singh's Non-Vegetarian Platter
-Tali Machali Amritsari
-Malia Kofta
-Mutter Aloo
-Mutter Paneer
-Lasuni Gobi
-Dal Makhni
-Baigan Bharta
-Dal Tadka
-Shahi Paneer
-Hyderbadi Mirch Aur Baigan Ka Salan
-Jeera Aloo
-Gobi Charchari
-Lamb Rogan Josh
-Chicken Chilli
-Chicken Xacuti
-Punjabi Kadhi Pakora
-Lamb Sali Boti
-Vegetable Xacuti
-Chicken Dhaniwal Korma
-Singh's Vegetarian Dinner For Two
-Singh's Royal Dinner for Two
-Tikka Masala
-The Saag
-The Vindaloo
-The Korma
-The Curry
-Tandoori Chicken
-Chicken Tikka
-Lamb Seek Kebab
-Rack of Lamb
-Tandoori Salmon
-Lamb Boti Kebab
-Tandoori Shrimp
-Chicken Malai Kebab
-Kali Mirch Ke Tikkey
-Singh's Mix Grill
-Peshawary Naan
-Cheese Naan
-Plain Paratha
-Lacchaa Paratha
-Tandoori Roti
-Chapthi
-Roomali Roti
-Plain Basket
-Stuffed Basket
-Aijwaini Paratha
-Malabari Paratha
-Chili Cheese Naan
-Basmati Rice
-Pulao Rice
-Paita
-Pappadam
-Kulfi
-Mango Kulfi
-Gourmet Ice Cream
-Rasmalai
 Whiting Sandwich
 Porgie Sandwich
 Croaker Sandwich
@@ -4237,7 +4561,6 @@ Jumbo Shrimps (5)
 Fried 21 Shrimps
 Fried Chicken Gizzards
 Flounder Fillet Fish (2)
-Fried Scallops (10)
 Crab Stick (4)
 B.B.Q. Chicken Wings (8)
 Chicken Wings W. Garlic Sauce
@@ -4256,7 +4579,6 @@ Chicken Or Pork With Mixed Veg
 King Po Chicken Ding
 Ham &amp; Cheese Salad
 Turkey Salad
-Antipasto
 Extra Dressing
 Soup Of The Day
 Veggie
@@ -4276,7 +4598,6 @@ Grilled Cheese With French Fries And Coleslaw
 Corned Beef Special
 Roast Beef Special
 Hot Roast Pork
-B.L.T.
 Ham &amp; Cheese Club
 Turkey &amp; Bacon
 Corned Beef Club
@@ -4301,7 +4622,6 @@ Mini Tacos
 Onion Petals
 Potato Skins W/ Cheese
 Potato Skins W/ Cheese &amp; Bacon
-Fries
 Curly Fries
 Krabby Fries
 Krabby Cheese Fries
@@ -4321,7 +4641,6 @@ All Beef Cheese Burger
 Cheese Burger Platter
 Tex Burger
 Add Mushrooms Or Bacon
-Plain
 Steak Or Chicken
 Extra Toppings
 Extra Sauce
@@ -4364,15 +4683,12 @@ Turkey B.L.T. Hoagie
 Egg Salad Hoagie
 The Italian
 The American
-Ham &amp; Cheese
-Turkey &amp; Cheese
 Mixed Cheese
 Cheese Burger Hoagie
 Corned Beef Hoagie
 Add Extras
 South Philly Italian
 Gyro Sandwich
-Flounder
 Crab Cake (3)
 Two Hot Dogs
 (2) Hot Dogs, French Fries
@@ -4652,7 +4968,6 @@ Ham and Cheese Quesadilla
 Chicken, Spinach and Roasted Pepper Quesadilla
 Steak and Cheese-Wiz Quesadilla
 Pepperoni Quesadilla
-Plain Calzone
 Chicken and Broccoli Calzone
 Hawaiian Calzone
 Spinach and Feta Calzone
@@ -4797,7 +5112,6 @@ Chocolate Cheesecake
 Black Forest Cake
 Double Chocolate Cake
 Chocolate Bomb
-Cherry Cheesecake
 Fried Dough Balls
 Fried Knots
 Double Chocolate Brownies
@@ -4917,7 +5231,6 @@ Moo Goo Gai Pan (Chicken )
 Shrimp W. Chinese Vegetables
 French Fries 
 Mozzarella Sticks Family 8 Pcs
-Tossed
 Chef
 Shrimp Caesar
 Meatball W/ Cheese
@@ -4947,12 +5260,9 @@ Steaks &amp; Chicken Steaks
 Buffalo Style
 Honey Dipped Chicken
 Pepper &amp; Egg 
-Sausage &amp; Egg
 Breaded Chicken Cutlet
-Veal Cutlet
 Chicken Italian
 Triple Chocolate
-Brownie
 Chocolate Pudding
 Brownie With Ice Cream
 Old Fasioned Soda
@@ -5056,90 +5366,6 @@ All Meat Combo 1
 Combo 2
 All Meat Combo 2
 2 Gulab Jamun
-Grilled Eggplant and Roasted Peppers
-Cuban Sandwich
-Plain Pizza
-Margherita Pie (Red)
-Margherita Pie (White)
-Broccoli, Garlic and Clams Pie  (Red)
-Broccoli, Garlic and Clams Pie (White)
-Chef Shlomi Special Pie
-Shrimp, Artichoke, Garlic Pie (White)
-Potato, Onion, Bacon Pie (White)
-Veggie Pie
-Mexican Pie
-State Street Bistro Pie
-Stuffed Bread
-Fresh Mozzarella Salad
-New England Clam Chowder
-Granndmas Chicken Soup
-5 Fried Mozzarella Sticks
-12 Garlic Bread
-5 Jalapeno Poppers
-Fried Buffalo Wings
-Grilled Buffalo Wings
-4 Chicken Tenders
-Homemade French Fries
-Popcorn Shrimp with Spicy Buffalo Sauce
-Panko Fried Mac n Cheese
-Ham and Swiss Cheese Roll
-Ham and Swiss Cheese Grinder
-Egg Salad on White Bread
-Roast Beef Roll
-Roast Beef Grinder
-BLT with White Bread
-BLT Roll
-BLT Grinder
-Meatball Parmigiana Roll
-Meatball Parmigiana Grinder
-Chicken Parmigiana Roll
-Chicken Parmigiana Grinder
-Eggplant Parmigiana Roll
-Eggplant Parmigiana Grinder
-Chicken Cutlet Roll
-Chicken Cutlet Grinder
-Steak Roll with Onion &amp; Cheese
-Steak Grinder with Onion &amp; Cheese
-Sausage, Peppers &amp; Onion Roll
-Sausage, Pepeprs &amp; Onion Grinder
-Pastrami Rye with Caramelized Onions
-Corn Beef Sandwich
-Grilled Cheese on White Bread
-Ham &amp; Cheese Melt on White Bread
-Tuna Melt on White Bread
-Vietnamese Sandwich Banh Mi
-Chef Special Sandwich
-Steak &amp; Cheese Grinder
-Falafel, Tahineh, Israeli Salad, French Fries Wrap
-Shawarma Baby Chicken, Tahineh, Israeli Salad Wrap
-French Fries Wrap
-Korean Burrito Wrap
-Hamburger &amp; Homemade Fries
-Cheeseburger &amp; Homemade Fries
-Bacon Cheeseburger &amp; Homemade Fries
-Mexican Burger &amp; Homemade Fries
-Hotdog &amp; Homemade Fries
-Penne Pasta Pasta with Grilled Chicken
-Pasta Carbonara Pasta
-Spaghetti and Meatballs Pasta
-Fettuccini Alfredo Pasta
-Linguini Pasta with Clams (White)
-Linguini Pasta with Clams (Red)
-Penne Pasta with Sausage Rague
-Linguine with Seasonal Veggies
-Chicken Parmigiana with Spaghetti
-Penne a la Vodka with Grilled Chicken
-Fried Chicken with French Fries
-Fish &amp; Chips with Tartar Sauce
-Chocolate Chip
-Oatmeal Raisin
-Slice of Homemade Cheesecake
-Soda (Can)
-Soda (2 Liter)
-Med 1-Topping and an Order of Onion Rings
-Large 18&quot; 1-Topping Pizza and Garlic Bread with Cheese or Garden Salad
-Medium Cheese Pizza with 6pc Wings and a 2 Liter
-Vietnamese Wings
 Classic Cobb
 Honey Mustard Chicken
 Chicken Taco Salad
@@ -5361,10 +5587,8 @@ Deep Fried Pickles
 Baby Soft Pretzels
 Gyro And Hummus Dip
 Sampler Plate
-Falafel Plate
 Bacon Cheddar Baked Potato Bacon
 Chili Cheese Baked Potato Chili
-Mac &amp; Cheese
 Rolls (1)
 Steak Fries
 Hushpuppies
@@ -5437,7 +5661,6 @@ Rib Tips Only
 Pork Half Slab Rib Dinner
 Pork Half Slab Rib
 Shish Kabob
-Falafel Sandwich
 Shish Tawook
 Chicken Shawarma
 Chicken Shawarma Plate
@@ -5625,7 +5848,6 @@ Red Bull Energy Drink
 Poland Springs Mineral Water
 Sparkling Water
 Dough
-Turkish Coffee
 Mast O Khiar
 Mast E Mussier
 Baba Ghannoush
@@ -5655,7 +5877,6 @@ Baghali Polo with Chicken
 Adas Polo with Chicken
 Salmon Kebob
 Beef Shawarma Plate
-Vegetarian Plate
 Falafel, Hummus and Tabouli
 Falafel, Humus and Baba Ghanouj
 Tabouli, Hummus and Vegetarian Grape Leaves
@@ -5771,7 +5992,7 @@ Soup and Sandwich
 Flame-seared Salmon
 Smokehouse Chicken
 Asiago Chicken Penne
-Hot Bag Oå? Donuts
+Hot Bag OÂ’ Donuts
 Leaning Tower of Chocolate Cake
 Wicked Apple Wontons
 Bones Sweet Shots
@@ -5797,7 +6018,7 @@ Meat Sauce
 New York Style - Cheese
 New York Style - Each Extra Topping
 New York Style - Special Topping
-Sicilian Style - One Size 16å?
+Sicilian Style - One Size 16Â”
 Sicilian Style - Each Extra Topping
 By The Slice - Cheese
 Pizza Toppings
@@ -5815,55 +6036,15 @@ Spaghetti With White Or Red Clam Sauce
 Spaghetti With Marinara
 Chicken Fingers &amp; Fries
 Desserts
-Arugula &amp; Spinach Salad 
-Spicy Starlite Wings
-Potato Leek Soup 
-Starlite Chili 
-Pepperoni Roll 
-Apple Cheddar Press
-Smoked Turkey BLT 
-Meatball Sandwich 
-Griddled Dog
-Corn Dog
-Chili Cheese Dog
-Dog Of The Day
-Angus Burgers
-Starlite - Style
-Hand Cut Fries
-Sweet Potato Hash
-Sauteed Spinach 
-Sweet Corn Bread
-Broccoli With Cheese Sauce
-Seasonal Pie 
-Fried Chicken &amp; Buttermilk Waffles 
-Pan Seared Sirloin Steak 
-Baked Haddock
-Shrimp W/ Chorizo Dirty Rice
-Blue Plate Special
-Starlite Slam
-Tina's Biscuits And Breakfast Gravy
-Velvet Elvis French Toast
-Seasonal Fruit, Granola And Yogurt
-Huevos Rancheros
-Griddled Dog 
-Brunch Dog
-2 Eggs
-Hash Browns
-Bacon, Sausage, Chorizo
-Fruit Cup
-Grits
-Toast
-Sweet Corn Bread 
-Sugar Cereal Du Jour 
 Beer Battered Onion Rings
 Cowboy Fries
 Cowgirl Fries
 Tater Tots
-Teriå?s Tuna Salad
+TeriÂ’s Tuna Salad
 Rosemary Chicken Salad
 Deli Tuna Salad
 BLT Salad
-Teriå?s Tuna Salad Sandwich
+TeriÂ’s Tuna Salad Sandwich
 Veggie Griller
 Chicken, Eggplant Or Meatball Parm
 Sloppy Joe
@@ -5989,7 +6170,6 @@ Hot Sausage
 Smoked Turkey
 Joojeh Sandwich (Chicken)
 Koobideh Sandwich (Beef)
-Eggplant
 Chicken Calzone
 Spinach Calzone
 5 Cheese Calzone
@@ -6042,7 +6222,7 @@ Steak Wedgies
 Chicken Wedgies
 Buffalo Chicken Wedgies
 Vimto Fruit Soda
-Jimmyå?s Burgershack Minis
+JimmyÂ’s Burgershack Minis
 Hush Puppies
 Frickles
 Peel &amp; Eat Shrimp
@@ -6050,37 +6230,37 @@ Popcorn Shrimp
 Spinach And Artichoke Dip
 Fried Green Tomatoes
 BBQ Minis
-Bucket Oå? Tips
+Bucket OÂ’ Tips
 Hot Wings
-Bucket Oå? Hot Wings
+Bucket OÂ’ Hot Wings
 BBQ Wings
 Quesadilla
-Brother Jimmyå?s BBQ Nachos
+Brother JimmyÂ’s BBQ Nachos
 Chopped Cobb Salad
-Brother Jimmyå?s BBQ Chili
+Brother JimmyÂ’s BBQ Chili
 The Wright Salad
 Brunswick Stew
 Pulled Pork Wrap
 Pulled Chicken Wrap
-Bjå?s BBQ Burger
+BjÂ’s BBQ Burger
 BBQ Grilled Chicken
-Poå? Boys 
-Presså?D Bourbon BBQ Brisket
-Brother Jimmyå?s Cuban
+PoÂ’ Boys 
+PressÂ‘D Bourbon BBQ Brisket
+Brother JimmyÂ’s Cuban
 B.L. T.
 Pulled Chicken
 Sliced Brisket
 BBQ Meatloaf
 Northern Style Ribs
 Southern Style Ribs
-Brother Jimmyå?s Dry Rub Ribs
+Brother JimmyÂ’s Dry Rub Ribs
 Combo Rib Platter
 1/2 BBQ Chicken
 BBQ Lunch Special
-Steak Nå? Fries
+Steak NÂ’ Fries
 Blackened Catfish
 Fried Chicken Dinner
-Nagå?s Head Veggie
+NagÂ’s Head Veggie
 Choose Any Four Sides
 Spiced String Beans
 Black Eyed Peas W/ Bacon
@@ -6098,10 +6278,10 @@ Fiji Water
 Cheerwine Cherry Soda
 Cheerwine Icecream Float
 Onion Straws
-Jimmyå?s Wedge
-Poå? Boys
-Presså?d Bourbon BBQ Brisket
-Jimmyå?s Pig Pick
+JimmyÂ’s Wedge
+PoÂ’ Boys
+PressÂ’d Bourbon BBQ Brisket
+JimmyÂ’s Pig Pick
 Country Fried Steak W/ Gravy
 Blackened Chicken
 BBQ Chicken &amp; Ribs
@@ -6138,7 +6318,6 @@ Tabbuli
 Spinach Tarator
 Cucumber Salad
 Shakshuka
-Stuffed Grape Leaves
 Eggplant Salad
 White Bean Salad
 Fried Mixed Vegetables
@@ -6440,57 +6619,6 @@ Sweet &amp; Sour Pork Or Sweet &amp; Sr Chicken
 Beef Broccoli Or Chicken Broccoli
 Chicken W. Mixed Vegetables
 Beef Mixed Vegetables
-Cheddar Cheese &amp; Broccoli 
-Cheesy Enchilada
-Loaded Baked Potato
-Old Fashioned Chicken Noodle
-Spicy Black Bean 
-Wisconsin Beer Cheese
-Cheesy Asparagus 
-Minnesota Wild Rice &amp; Chicken
-Southwest Chicken Tortilla
-Tomato Mushroom 
-Blanco Chicken Chili
-Home-Style Beef Chili
-Classic Chicken Chili
-Titan 
-Erupter
-Spartan
-Quatro
-Comet Candy
-Flash
-Narmer
-Girf
-Tullius
-Shortcake
-Giza
-Geeter
-Boney Billy
-Comet Morehouse
-Halleys Comet
-Jacob Bluefinger
-Cally
-Tappy
-Bornk
-Pudder
-PB &amp; J
-Combo One
-Combo Two
-Giant Deli Pickle
-Cookie
-Dessert Bar
-Bag Of Chips
-Day-Old Bread
-Bottle Of Soda
-Signature Sandwich Platter
-Specialty Sandwich Platter
-Classic Sandwich Platter
-Half A Dozen Deli Pickles
-A Dozen Dessert Bars
-A Dozen Cookies
-A Dozen Brownies
-Giant Soup
-Giant Chili
 Crispy Spring Rolls
 Crispy Wrapped Shrimp
 Corn Patties 
@@ -6582,7 +6710,6 @@ Mozzarella Sticks (6 Pcs)
 Junkie Fries
 Junkie Cheese Fries
 Cheese 
-White
 Grilled Chicken Caesar
 Vegan
 Junkie Supreme
@@ -6626,7 +6753,6 @@ Freshly Brewed Iced Teas
 Saprkling Mineral Water
 San Pellegrino Flavored Beverages
 Natural Spaing Water
-Soft Drinks
 Epresso
 Espresso Doppio
 Espresso Macchiato
@@ -6912,7 +7038,6 @@ Pasta Bolognese
 Pasta Pirmavera
 Linguine
 Veal
-Peppers &amp; Eggs
 Genoa Salami / Provolone
 Italian Combo
 Meat Lover
@@ -7123,7 +7248,6 @@ Mi Fun Any Style
 Chow Fun Any Style 
 Pad Thai Any Style 
 Sweet &amp; Sour Ribs 
-Tabouleh Salad
 Kebeh
 Spanakopita
 Greek Gyros Salad
@@ -7198,7 +7322,6 @@ Pesto Chicken Sandwich
 Philly Steak Wrap
 Cheese Steak Sub
 Ranchel
-B.L.T
 Bleu Burger
 Silky Burger
 Mushburger
@@ -7353,7 +7476,7 @@ Pad Mee
 Bangkok Noodle Soup
 Spicy Noodle Soup
 Thai Fried Rice
-å?Drunk Ardå? Fried Rice
+Â“Drunk ArdÂ” Fried Rice
 Pineapple Fried Rice
 Curry Fried Rice
 Yajai Fried Rice
@@ -7379,34 +7502,6 @@ Tofu, Gluten Or Mixed Veg
 Sauteed Cashew Nuts
 Sauteed Mixed Vegetables
 Egg Noodle
-Perrier
-Carrot Juice
-Baba Ghanouj
-Jerusalem Salad
-Fatoush Salad
-Lentil Soup
-Falafel (3)
-Yogurt Salad
-Shish Kabob Sandwich
-Kafta Kabob Sandwich
-Beef Shawarma Sandwich
-Chicken Kabob Sandwich
-Chicken Shawarma Sandwich
-Shish Kabob Entree
-Kafta Kabob Entree
-Chicken Kabob Entree
-Combination Feast
-Shawarma Combo Entree
-Chicken Shawarma Salad Entree
-Alameer Platter
-Extra Shish Skewer
-Extra Chicken Skewer
-Extra Kafta Skewer
-Extra Shawarma
-Two Pitas
-Extra Tahini Sauce
-Extra Hot Sauce
-Homemade Baklava 
 Tuscan Chicken Panini
 Chicken Delicato Panini
 Provolone and Veggie Panini
@@ -7476,12 +7571,8 @@ Two Pork Chops and Eggs
 Country Fried Steak and Eggs
 Country Fried Chicken and Eggs
 Chopped Hamburger Steak and Eggs
-Plain Omelette
 Denver Omelette
 Steak Omelette
-Bacon Omelette
-Ham Omelette
-Cheese Omelette
 Veggie Omelette
 Greek Cheese Omelette
 J.N. Michael's Omelette
@@ -7750,11 +7841,9 @@ Queso Flautas (4)
 Popa Flautas (4)
 6oz Hamburger
 Turkey Cheese Burger
-Pepperoni Cheesesteak
 Pepperoni Pizza Cheesesteak
 Bacon Cheesesteak
 Pepper Cheesesteak
-Mushroom Cheesesteak
 Ham &amp; Cheese Hoagie
 Turkey &amp; Cheese Hoagie
 Roast Beef &amp; Cheese Hoagie
@@ -8020,95 +8109,6 @@ Tostadas
 St. Louis Ribs
 Rib And Wings
 Sweet Tea Or Reg, Tea
-2 Fingers
-3 Nuggets
-2 Mozzarella Sticks
-French Fries &amp; Onion Rings
-Garden
-Greek
-Chef's
-Sauce &amp; Cheese
-Peppers or Onions
-Pepperoni or Mushroom
-Sausage or Ground Beef
-Broccoli or Spinach
-Ringer
-Five Cheese
-Bella Special
-BBQ Steaks
-Mexican Pizza
-Mole Pizza
-Carnitas Pizza (Pork Meat)
-Chorizo Pizza
-Mushroom
-Vegetable Stromboli
-Grilled Chicken Cheesesteak
-Special of the House
-American or Provolone Cheese
-Meatballs &amp; Cheese
-Italian Sausage
-Grilled Chicken &amp; Cheese
-Grilled Chicken on Pita
-Tuna &amp; Cheese
-Grilled Ham &amp; Cheese
-Spaghetti w/Sauce
-Ravioli with Sauce
-Stuffed Shells with Sauce
-Ziti with Sauce
-Ziti
-Baked Ziti w/Cheese &amp; Sauce
-Fried Flounder
-Fish 'N' Chips (4)
-Shrimp in a Basket
-Seafood Combo
-Fried Chicken (4)
-Chicken Wings (5)
-Buffalo Wings (10)
-Chicken Fingers (5)
-Chicken Nuggets (10)
-Eggplant Platter
-3 Pieces Chicken Wings
-6 Pieces Chicken Wings
-10 Pieces Chicken Wings
-20 Pieces Chicken Wings
-10 Pieces Buffalo Wings
-20 Pieces Buffalo Wings
-30 Pieces Buffalo Wings
-40 Pieces Buffalo Wings
-50 Pieces Buffalo Wings
-100 Pieces Buffalo Wings
-(2) Eggs
-(2) Eggs and Bacon
-(2) Eggs and Ham
-(2) Eggs and Sausage
-(2) Eggs and Beef Sausage
-(2) Eggs and Flounder
-(3) Pancakes with Maple Syrup
-(2) Pancakes with Ham or Sausage or Bacon
-(2) Pancakes with Beef Sausage
-(2) Pancakes, (2) Eggs
-(3) Slices of French Toast
-(3) Slices ot French Toast
-(3) Slices of French Toast, (2) Eggs
-Feta Cheese Omelette
-Spinach &amp; Feta Cheese Omelette
-Bella Special Omelette
-Beef Sausage &amp; Egg
-Bacon and Egg
-Ham and Egg
-Steak and Egg
-Turkey Bacon and Egg
-Beef Sausage and Egg
-Quesadilla (3)
-French Fries or Onion Ring
-Pizza Roll or Shrimp Roll
-Fried Calamari with Marinara Sauce
-Hot Poppers (6) with Marinara Sauce
-Mozzarella Sticks (6)
-Tamales
-Pineapple Cheesecake
-Atole
-Coffee or Tea
 Broiled Spanish Sausage
 Raw Clams
 Shrimp in Garlic Sauce
@@ -8155,7 +8155,7 @@ Grouper
 Tripe Stew
 Chicken in Marinera Sauce
 Sirloin Steak and Shrimp Stuffed with Crabmeat
-1 å? lb. Lobster stuffed with Shrimp and Crabmeat
+1 Â½ lb. Lobster stuffed with Shrimp and Crabmeat
 Nutella Bread Pudding with Vanilla Ice Cream
 Flan
 Rum Cake
