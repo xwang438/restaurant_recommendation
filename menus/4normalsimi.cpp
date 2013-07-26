@@ -75,18 +75,15 @@ double docsimilarity(int doc1, int doc2)
   vector<vector<double> > normalize;
   for(int i = 0; i != document.size(); i++){
     double sum = 0;
-//    outfile<<document[i].at(0)<<"\t";
     for(int j = 1; j != document[i].size(); j++)
       sum += document[i].at(j) * document[i].at(j);
     sum = sqrt(sum);
     vector<double>vec1;
     for(int j = 1; j != document[i].size(); j++){   
       double norm = (double)document[i].at(j)/sum;
-//      outfile<<norm<<"\t";
       vec1.push_back(norm);
     }
     normalize.push_back(vec1);
-//    outfile<<endl;
   }
 
 //compute the similarity
@@ -101,7 +98,6 @@ double docsimilarity(int doc1, int doc2)
   double simila = sum/(sum1 * sum2);
   return simila;
   infile.close();
-//  outfile.close();
 }
 //create the similarity metric for menus
 int main(){
