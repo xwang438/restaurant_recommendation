@@ -60,7 +60,7 @@ int main()
   infile2.close();
   cout<<vecprice[0]<<"\t"<<vecrating[0]<<endl;
   vector<vector<double> > vecattr;
-  //sum(q,d) = v(q) * v(d) / |v(q)|*|v(d)|
+  //vecattr is the vector stoing the similarity metric for the attributes
   const int filenum = 100; 
   for(int i = 0; i != filenum; i++){
     vector<double> vec2;
