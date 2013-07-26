@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <map>
 #include <ctime>
 #include <sstream>
 
@@ -60,6 +59,7 @@ int main()
       }
       mark++;
     }
+    //vecavgPrice is the vector storing the average price for each restaurant.
     double total = 0;
     int size = 0;
     for(vector<int>::size_type i = 0; i != vecPrice.size(); i++){
