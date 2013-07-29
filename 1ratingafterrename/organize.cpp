@@ -33,28 +33,13 @@ int main()
     ss << num;
     string s = ss.str();
     infile.open((s+".txt").c_str());
-    int ratenum=0;
-    string previousline = "";
-    int count1, count2;
-    int linenum=0;
-    while(!infile.eof())
-    {
+    string rating, review_count; 
+    double value, value2; //value is the double value for the rating, and value2 is the double value for the review_counts.
+    
+    while(!infile.eof()){
       getline(infile, line);
-      ++linenum;
-    }
-    linenum--;
-    infile.close();
-    infile.open((s+".txt").c_str());
-    cout<<"number of lines:"<<linenum<<endl;
-    int mark = 0;
-    string rating, review_count;
-    double value, value2;
-    while(mark<linenum){
-      getline(infile, line);
-//      if(line.size() > 22) cout<<line.substr(22)<<endl;
-      if(line.size() > 6 && line.substr(5,7) == "rating]"){
+      if(line.size() > 6 && line.substr(5,7) == "rating]")
         rating = line.substr(16,3);
-      }
       std::stringstream convert(rating);
       if(!(convert >> value))
         value = 0;
@@ -64,12 +49,12 @@ int main()
       std::stringstream convert2(review_count);
       if(!(convert2 >> value2))
         value2 = 0;
-      mark++;
     } 
     double rr = value * value2;
     vecRate.push_back(rr);   
     infile.close();
   }
+  
   //normalize the ratings
   double total = 0;
   for(int i = 0; i != vecRate.size(); i++)

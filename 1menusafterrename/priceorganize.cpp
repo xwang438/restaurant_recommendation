@@ -5,9 +5,8 @@
 #include <string>
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <ctime>
 #include <sstream>
+#include <math.h>
 
 // Using Declarations
 using std::cin;
@@ -18,13 +17,14 @@ using std::vector;
 using std::ifstream;
 using std::ofstream;
 
-//This class produces a new file which is the normalized general price for each restaurant.
+//This class organizes the original files and extract the prices for the dishes, 
+//and find the average price for each restaurant.
 int main()
 {
   string line;
   ofstream outfile;
   outfile.open("price.txt");
-  vector<double> vecavgPrice; //this vector stores the average price for each restaurant
+  vector<double> vecavgPrice; //vecavgPrice stores the average price for each restaurant
   const int filenum = 100;
   for(int num = 0; num < filenum; num ++){
     ifstream infile;
@@ -32,33 +32,21 @@ int main()
     ss << num;
     string s = ss.str();
     infile.open((s+".txt").c_str());
-    int ratenum=0;
-    string previousline = "";
-    vector<string> vecRate;
-    int count1, count2;
-    int linenum=0;
-    while(!infile.eof())
-    {
+    vector<string> vecPrice;  //vecPrice stores the price for each dish.
+
+    while(!infile.eof()){
       getline(infile, line);
-      ++linenum;
-    }
-    linenum --;
-    infile.close();
-    infile.open((s+".txt").c_str());
-    vector<string> vecPrice;
-    cout<<"number of lines:"<<linenum<<endl;
-    int mark = 0;
-    while(mark<linenum){
-      getline(infile, line);
-      int pos1, pos2;
-      for(int pos1 = 0; pos1 != line.size(); pos1 ++){
-        if(line.size() > 8 && line.substr(pos1, 5) == "price" && line.substr(pos1+7,1) == ":"){
-          string price = line.substr(pos1+10, line.size() - pos1 - 13);
-          vecPrice.push_back(price);
+      if(line.size() > 0){
+        int pos1, pos2;
+        for(int pos1 = 0; pos1 != line.size(); pos1 ++){
+          if(line.size() > 8 && line.substr(pos1, 5) == "price" && line.substr(pos1+7,1) == ":"){
+            string price = line.substr(pos1+10, line.size() - pos1 - 13);
+            vecPrice.push_back(price);
+          }
         }
       }
-      mark++;
     }
+
     //vecavgPrice is the vector storing the average price for each restaurant.
     double total = 0;
     int size = 0;
@@ -74,6 +62,7 @@ int main()
     vecavgPrice.push_back(avg); 
     infile.close();
   }
+
   //normalize the price
   double total2 = 0;
   for(int i = 0; i != vecavgPrice.size(); i++)
@@ -85,4 +74,5 @@ int main()
   }
   outfile.close();
   return 0;
+  
 }

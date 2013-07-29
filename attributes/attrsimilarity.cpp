@@ -17,8 +17,18 @@ using std::string;
 using std::vector;
 using std::ifstream;
 using std::ofstream;
+//This class computes the metric for the attributes similarity
 
-//This class produces a new file which is the attribute similarity metric
+//This method transfers the string to double 
+inline double strtodouble(string s)
+{
+  std::stringstream convert(s);
+  double value;
+  if(!(convert >> value))
+    value = 0;
+  return value;
+}
+
 int main()
 {
   ifstream infile1, infile2;
@@ -27,40 +37,29 @@ int main()
   infile2.open("ratings.txt");
   outfile.open("attrsimilarity.txt");
   string line;
-  int fileline = 0;
-  while(!infile1.eof())
-  {
+  vector<double> vecprice;  //vecprice stores the price for each restaurant
+  while(!infile1.eof()){
     getline(infile1, line);
-    ++fileline;
-  }
-  fileline--;
-  infile1.close();
-  infile1.open("price.txt");
-  int mark = 0;
-  vector<double> vecprice;
-  for(int mark=0; mark!=fileline; mark++){
-    getline(infile1, line);
-    std::stringstream convert(line.substr(0));
-    double value1;
-    if(!(convert >> value1))
-      value1 = 0;
-    vecprice.push_back(value1);
+    if(line.size() > 0){
+      double value = strtodouble(line.substr(0));
+      vecprice.push_back(value);
+    }
   }
   infile1.close();
-  vector<double> vecrating;
-  for(int mark=0; mark!=fileline; mark++){
+
+  vector<double> vecrating;  //vecrating stores the rating for each restaurant
+  while(!infile2.eof()){
     getline(infile2, line);
-    std::stringstream convert2(line.substr(0));
-    double value2;
-    if(!(convert2 >> value2))
-      value2 = 0;
-    vecrating.push_back(value2);
-    cout<<value2<<endl;
+    if(line.size() > 0){
+      double value = strtodouble(line.substr(0));
+      vecrating.push_back(value);
+    }
   }
   infile2.close();
-  cout<<vecprice[0]<<"\t"<<vecrating[0]<<endl;
+
   vector<vector<double> > vecattr;
   //vecattr is the vector stoing the similarity metric for the attributes
+
   const int filenum = 100; 
   for(int i = 0; i != filenum; i++){
     vector<double> vec2;

@@ -27,13 +27,13 @@ inline int strtoint(string s)
   int value;
   if(!(convert >> value))
     value = 0;
+  return value;
 }
 //This method normalizes the values in the input file, and computes the similarity between two docs based on the output of LDA
 double docsimilarity(int doc1, int doc2)
 {
   ifstream infile;
-  ofstream outfile;
-  infile.open("doc100afterlda.txt");
+  infile.open("ldaoutput.txt");
   string line;
 
   //document is the vector storing the strings in the input file
@@ -41,32 +41,33 @@ double docsimilarity(int doc1, int doc2)
   while(!infile.eof())
   {
     getline(infile, line);
-    vector<int> cr;
-    int pos1=0, pos2, i = 1;
-    while(i<line.size()){
-      if(line.at(i) == '\t'){
-        pos2 = i;
-        string temp = line.substr(pos1, pos2-pos1);
-        int value = strtoint(temp);
-        cr.push_back(value);
-        pos1 = pos2+1;
-        i++;
+    if(line.size() > 0){
+      vector<int> cr;
+      int pos1=0, pos2;
+      int i = 1;
+      while(i<line.size()){
+        if(line.at(i) == '\t'){
+          pos2 = i;
+          string temp = line.substr(pos1, pos2-pos1);
+          int value = strtoint(temp);
+          cr.push_back(value);
+          pos1 = pos2+1;
+          i++;
+        }
+        else
+          i++;
       }
-      else
-        i++;
+      string temp = line.substr(pos1);
+      int value = strtoint(temp);
+      cr.push_back(value);
+      document.push_back(cr);
     }
-    string temp = line.substr(pos1);
-    int value = strtoint(temp);
-    cr.push_back(value);
-    document.push_back(cr);
   }
   infile.close();
 
-  cout<<document[99].at(0)<<endl;
-
   //normalize is a vector storing the normalized values in the input file.    
   vector<vector<double> > normalize;
-  for(int i = 0; i != document.size()-1; i++){
+  for(int i = 0; i != document.size(); i++){
     double sum = 0;
     for(int j = 1; j != document[i].size(); j++)
       sum += document[i].at(j) * document[i].at(j);
@@ -93,6 +94,7 @@ double docsimilarity(int doc1, int doc2)
 }
 
 //create the similarity metric for menus
+
 int main(){
   ofstream outfile;
   outfile.open("menusimilarity.txt");
@@ -108,5 +110,6 @@ int main(){
     vecmenu.push_back(vec2);
   }
   outfile.close();
+  docsimilarity(1,2);
   return 0;
 }

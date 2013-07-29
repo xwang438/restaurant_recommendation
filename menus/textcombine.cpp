@@ -40,7 +40,7 @@ int main()
     }
     infile.close();
   }
-  //The following steps are deleting the duplicate menus, make each menu appear once in the output file
+  //The following steps are deleting the duplicate menus, making each menu appear once in the output file
   for(int i = 0; i != vecmenu.size(); i++){
     for(int j = i+1; j != vecmenu.size(); j++)
       if(vecmenu.at(j) == vecmenu.at(i))
